@@ -1,0 +1,25 @@
+One skill that i have that distinguishes me from other people is the fact that I am a solo game developer.
+That means that i have to be good at a lot of things, but mainly, there are three things that are needed and i am at least decent at.
+
+One of the main three things is programming. programming is everything in a deeper level of the game, below the music, 
+graphics, levels, user interfaces, etc. It is the manager of the game. It is one of the pillar of a game. Even if you don't have music,
+art, and everything else, you must have a program, even if as simple as dragging and dropping blocks around.
+It is also one of the hardest, fustrating parts of game developing. Sometimes something doesn't work even if you worked so hard on it, and then you
+decide to work on it the next day, but when you go to your computer, everything is corrupted and you cry about it. It is a very fragile yet strong thing to get right, with possibilities crashing, bugging, freezing, or using all the memory that
+there is a blue screen.
+
+Another main thing is art. Without art, the game has lost it's appeal unless the game is designed to have no art.
+it is important to realize that art is everywhere, even the toilet. If a toilet doesn't have it's look we commonly see, 
+our brains will immediately think that it is ugly or wierd, and you won't use it. it is just as much to note that without art, the game won't have it's appeal,
+and no one play it, that's why it is important to be good at art and to stay consistent with all the art in the game. music is also a part of art.
+The game that you make is itself a peice of art, and the game that you make supposedly should be somethign that no one has ever seen.
+
+The last thing is writing. Writing a story is just as important as programming. without a story, you wouldn't even start programming.
+Without a story, a player isn't likely going to be able to focus on the game. Most games have a story, even if it isn't as clear as it is.
+Progressing through a dungeon is a story, though not likely good at keeping a player around until the game is over. Without a story, the player
+running around a hole isn't interesting. the player won't understand the game. But if you have a plot that is able to keep a player playing until the end where the plot twist happens
+and the screen fades to black, that is something that is worth a lot and is a very good story.
+
+I, in my humble opinion, have these skills, even if I am not as good as the people that are actually working in an industry.
+I can program, draw, play music, and write fictional stories that are not me regergitation of somethign else that i read off the internet or a book unless i forgot about it.
+It is very hard to make a game, but I can pull it off. I made a game twice, with the pressure making a game within 1 week.
