@@ -1,2 +1,6 @@
 - Decomposer
-	- organisms that recycle dead organci m
+	- organisms that recycle dead organic matter. some help the soil to be more fertile.
+- dehydration synthesis
+	- synthesizes two molecules together by the removal of water
+- deletion
+	- a mu
