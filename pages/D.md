@@ -15,4 +15,8 @@
 - dicotyledon
 	- plant whose seed easily breaks in two
 - diffusion
-	-
+	- the flow of molecules from a higher concentration to a lower concentration
+	- passive transport
+- digestion
+	- enzymatic preakdown, hydrolysisl of food so it is
+-
