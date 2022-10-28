@@ -18,5 +18,8 @@
 	- the flow of molecules from a higher concentration to a lower concentration
 	- passive transport
 - digestion
-	- enzymatic preakdown, hydrolysisl of food so it is
--
+	- enzymatic breakdown, hydrolysis of food so it is small enough to be absorbed into the body
+- dipeptide
+	- a molecule consisting of two amino acids
+- directional selectrion
+	- Changing environmental conditions give rise to this type of natural selectrio
