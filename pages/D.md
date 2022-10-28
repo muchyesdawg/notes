@@ -10,3 +10,9 @@
 		- can happen due to temperature or ph levels
 - DNA
 	- heritable material, passed from parent to offspring.
+- diastole
+	- relaxation of ventricles of the heart. Normal diastolic pressure is 120 mm Hg.
+- dicotyledon
+	- plant whose seed easily breaks in two
+- diffusion
+	-
