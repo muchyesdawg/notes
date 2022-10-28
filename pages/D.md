@@ -9,6 +9,7 @@
 	- proteins losing shape and functionality
 		- can happen due to temperature or ph levels
 - DNA
+  id:: 635c61ea-e34d-45b8-a801-ceb0220ad24f
 	- heritable material, passed from parent to offspring.
 - diastole
 	- relaxation of ventricles of the heart. Normal diastolic pressure is 120 mm Hg.
@@ -27,4 +28,7 @@
 	- a type of natural selection that increases the numbers of extreme types in a population at expense of intermediate forms.
 - divergent evolution
 	- occurs when population becomes isolated from rest of species and becomes exposed to new selective pressures, causing it to evolve to a new species.
-- DNA
+- DNA polymerase
+	- enzyme that catalyzes the elongation of the new ((635c61ea-e34d-45b8-a801-ceb0220ad24f)) strand during replication
+	-
+	-
