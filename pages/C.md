@@ -15,4 +15,4 @@
 - cytoplasm
 	- region between nucleus and plasma membrane
 - cytosol
-	- semiliquid
+	- semi liquid portion of cytoplasm
