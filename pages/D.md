@@ -22,4 +22,7 @@
 - dipeptide
 	- a molecule consisting of two amino acids
 - directional selectrion
-	- Changing environmental conditions give rise to this type of natural selectrio
+	- Changing environmental conditions give rise to this type of natural selection one phenotype replaces another in the gene pool
+- disruptive selection
+	- a type of natural selectrion that increases the numbers of extreme types in a population at expense of intermediate forms.
+	-
