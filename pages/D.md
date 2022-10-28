@@ -7,4 +7,6 @@
 - denature
 	- characteristic of proteins
 	- proteins losing shape and functionality
-		- can happen due to temperature, p
+		- can happen due to temperature or ph levels
+- DNA
+	- heritable material, passed from parent to offspring.
