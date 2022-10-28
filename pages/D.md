@@ -3,4 +3,8 @@
 - dehydration synthesis
 	- synthesizes two molecules together by the removal of water
 - deletion
-	- a mu
+	- a mutation whjere a piece of a gene, or chromosome, is lost
+- denature
+	- characteristic of proteins
+	- proteins losing shape and functionality
+		- can happen due to temperature, p
