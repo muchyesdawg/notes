@@ -24,5 +24,7 @@
 - directional selectrion
 	- Changing environmental conditions give rise to this type of natural selection one phenotype replaces another in the gene pool
 - disruptive selection
-	- a type of natural selectrion that increases the numbers of extreme types in a population at expense of intermediate forms.
-	-
+	- a type of natural selection that increases the numbers of extreme types in a population at expense of intermediate forms.
+- divergent evolution
+	- occurs when population becomes isolated from rest of species and becomes exposed to new selective pressures, causing it to evolve to a new species.
+- DNA
