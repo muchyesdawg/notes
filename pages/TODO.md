@@ -1,3 +1,6 @@
 - add player jumping#ttt
-- add sprite rendering#ttt
+- sprites#ttt
+	- draw sprites
+	- render sprites
+- make test map#ttt
 -
