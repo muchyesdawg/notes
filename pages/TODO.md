@@ -3,4 +3,5 @@
 	- draw sprites
 	- render sprites
 - make test map#ttt
-- find math for gravity and stuff(no using third parties)
+- find math for gravity and stuff(no using third parties)#ttt
+-
