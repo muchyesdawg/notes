@@ -1,4 +1,6 @@
 - [[programming]]
 - [[biology]]
 - [[chemistry]]
+- [[physics]]
+- [[math]]
 -
