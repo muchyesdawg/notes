@@ -5,6 +5,6 @@
 - make test map#ttt
 - find math for gravity and stuff(no using third parties)#ttt
 - collision#ttt
-	- subdivide movement by 10
-	- if
--
+	- subdivide movement by 50
+		- if it hits something stop character in front of him
+- move map as soon as character moves in
