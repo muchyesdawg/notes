@@ -1,7 +1,7 @@
 - add player jumping#ttt
 - sprites#ttt
 	- draw sprites
-	- render sprites
+		- render sprites
 - make test map#ttt
 - find math for gravity and stuff(no using third parties)#ttt
 - collision#ttt
