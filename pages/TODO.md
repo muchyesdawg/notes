@@ -4,5 +4,6 @@
 	- render sprites
 - make test map#ttt
 - find math for gravity and stuff(no using third parties)#ttt
--
+- collision#ttt
+	- subdivide movement by
 -
