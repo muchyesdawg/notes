@@ -7,4 +7,3 @@
 - collision#ttt
 	- subdivide movement by 50
 		- if it hits something stop character in front of him
-- move map as soon as character moves in
