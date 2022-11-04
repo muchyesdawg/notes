@@ -56,3 +56,8 @@
 	- immunoglobins
 - anticodon
 	- 3 nucleotide sequence associated with trna
+- antigens
+	- anything that triggers an antibody sequence
+- apoptosis
+	- programmed cell death
+- archae
