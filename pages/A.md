@@ -60,4 +60,7 @@
 	- anything that triggers an antibody sequence
 - apoptosis
 	- programmed cell death
-- archae
+- archaeopteryx
+	- an intermediate fossil that shows both reptile and bird characteristics
+- archegonia
+	- strucutres
