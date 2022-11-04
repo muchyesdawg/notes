@@ -63,4 +63,5 @@
 - archaeopteryx
 	- an intermediate fossil that shows both reptile and bird characteristics
 - archegonia
-	- strucutres
+	- structures located on the tips of gametophyte plant and produce eggs.
+-
