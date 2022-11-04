@@ -7,4 +7,9 @@
 - acoelomate
 	- an animal that has no true coelom like flatworms
 - actin
-	- protein that makes up the thin myofilaments in a skeletal muscle
+	- protein that makes up the thin myofilaments in a skeletal muscle.
+- active transport
+	- transport that needs energy
+- adventitous roots
+	- roots that arise above ground
+- ag
