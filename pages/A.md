@@ -37,4 +37,4 @@
 - amylase
 	- enzyme that digests starch
 - analogous structures
-	- structures that have the same function but not necessarily the same un
+	- structures that have the same function but not necessarily the same underlying structure.
