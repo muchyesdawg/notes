@@ -65,4 +65,5 @@
 - archegonia
 	- structures located on the tips of gametophyte plant and produce eggs.
 - associative learning
-	- one type
+	- one type of learning in which one stimulus becomes linked to another through experience
+-
