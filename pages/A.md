@@ -1,0 +1,5 @@
+- abiotic factors
+	- nonliving factors in an ecosystem
+- absscisic acid
+	- plant hormone that inhibits growth
+- accessory pigments
