@@ -39,4 +39,11 @@
 - analogous structures
 	- structures that have the same function but not necessarily the same underlying structure.
 - aneuploidy
-	-
+	- any abnormal condition of chromosomes
+- angiosperms
+	- anthophyta or flowering plants
+- anion
+	- negative ion
+- antennae
+	- also called accessory pigments
+	- molecules that assi
