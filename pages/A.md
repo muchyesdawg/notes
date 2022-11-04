@@ -48,4 +48,11 @@
 	- also called accessory pigments
 	- molecules that assist in photosynthesis by capturing and passing photons of light to chlorophyll a and expanding the range of light that can be used to produce sugar.
 - anther
-	- male part of flower where
+	- male part of flower where pollen is produced by meiosis
+	- sits atop the filament
+- antheridia
+	- structures located on the types of gametophyte plants and that produce sperm
+- antibodies
+	- immunoglobins
+- anticodon
+	-
