@@ -12,4 +12,6 @@
 	- transport that needs energy
 - adventitous roots
 	- roots that arise above ground
-- ag
+- agonistic behavior
+	- aggressiveness
+-
