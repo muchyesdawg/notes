@@ -55,4 +55,4 @@
 - antibodies
 	- immunoglobins
 - anticodon
-	-
+	- 3 nucleotide sequence associated with trna
