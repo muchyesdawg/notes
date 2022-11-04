@@ -46,4 +46,6 @@
 	- negative ion
 - antennae
 	- also called accessory pigments
-	- molecules that assi
+	- molecules that assist in photosynthesis by capturing and passing photons of light to chlorophyll a and expanding the range of light that can be used to produce sugar.
+- anther
+	- male part of flower where
