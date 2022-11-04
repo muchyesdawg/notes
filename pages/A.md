@@ -32,4 +32,9 @@
 	- alternate forms of a gene
 - alveolus
 	- microscopic air sacs in the lung where diffusion of the respiratory gasses occurs
-	-
+- amnion
+	- membrane that encloses the embryo in protective amniotic fluid
+- amylase
+	- enzyme that digests starch
+- analogous structures
+	- structures that have the same function but not necessarily the same un
