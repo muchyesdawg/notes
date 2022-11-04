@@ -6,4 +6,5 @@
 	- correct
 - acoelomate
 	- an animal that has no true coelom like flatworms
--
+- actin
+	- protein that makes up the thin myofilaments in a skeletal muscle
