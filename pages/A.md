@@ -28,3 +28,8 @@
 	- process by which cells convert pyruvic acid (pyruvate) to ethyl alcohol and co2 in absence of oxygen
 - allantois
 	- extra embryonic membrane in bird's egg.
+- alleles
+	- alternate forms of a gene
+- alveolus
+	- microscopic air sacs in the lung where diffusion of the respiratory gasses occurs
+	-
