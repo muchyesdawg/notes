@@ -6,7 +6,7 @@
   :block/updated-at 1666831381653}
  {:block/name "a",
   :block/created-at 1666826996538,
-  :block/updated-at 1667528974478}
+  :block/updated-at 1667529708138}
  {:block/name "algs",
   :block/created-at 1667522260609,
   :block/updated-at 1667522260609}
@@ -15,7 +15,7 @@
   :block/updated-at 1666997531292}
  {:block/name "b",
   :block/created-at 1666826996538,
-  :block/updated-at 1666826996538}
+  :block/updated-at 1667530052588}
  {:block/name "biology",
   :block/created-at 1666827076600,
   :block/updated-at 1666997504120}

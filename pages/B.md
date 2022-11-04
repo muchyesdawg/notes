@@ -1,0 +1,23 @@
+- backcross
+	- testcross
+	- technique to determine whether an individual plant or animal showing the dominant trait is homozygous dominant or hetrozygous
+- bacterial transformation
+	- the ability of a bacteria to alter their genetic makeup by uptaking foreign DNA from another bacterial cell and incorporating it into their own.
+- base pair substitution
+	- mutation where one nucleotide is substituted for a correct one in dna strands
+- bicarbonate ion
+	- most important buffer in human blood. reponsible for keeping ph of blood at 7.4
+- bile
+	- chemical produced in liver and released from gallbladder
+	- emulsifies fats.
+	- not an enzyme
+- binomial nomenclature
+	- system of taxonomy that we use today.
+	- classifies organisms to two part names, such as homo sapiens
+- biological magnification
+	- organisms at higher tropic levels have a greater concentration of accumulated toxins stored in their bodies than those at lower trophic levels
+- biosphere
+	- global ecosystem
+- biotechnology
+	- branch of science that uses recombinant dna techniques for practical purposes, also called genetic engineering
+-

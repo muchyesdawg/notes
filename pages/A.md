@@ -66,4 +66,16 @@
 	- structures located on the tips of gametophyte plant and produce eggs.
 - associative learning
 	- one type of learning in which one stimulus becomes linked to another through experience
--
+- atp
+	- adenosine triphosphate
+	- special high energy molecule that stores energy for immediate us in cells
+- atp synthetase
+	- structure in membranes of mitochondria and chloroplasts where atp is formed
+- autonomic nervous system
+	- part of nervous system that controls automatic functions such as heart and breathing rate
+- autosomes
+	- chromosomes other than sex chromosomes. humans normally have 44 in each body cell
+- autotrophs
+	- organisms that make their own food
+- auxins
+	- growth hormones in plants that are responsible for phototropisms and apical dominance, the preferential growth of a plant upwards(towards the sun)rather than laterally.
