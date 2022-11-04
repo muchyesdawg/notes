@@ -24,4 +24,5 @@
 	- aggressiveness
 - alcohol fermentation
   id:: 636460b5-0080-4844-9215-56a1cc17f482
-	- proccess by which cells convert py
+	- process by which cells convert pyruvic acid (pyruvate) to ethyl alcohol and co2 in absence of oxygen
+- oxyge
