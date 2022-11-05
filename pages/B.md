@@ -25,4 +25,6 @@
 - biotic potential
 	- maximum rate at which a population could increase under ideal conditions
 - bottleneck effect
-- natural disasters such as fires, earthquake
+	- natural disasters that reduce the size of population non selectively, losing genetic variation
+- budding
+	- splitting off of new individual
