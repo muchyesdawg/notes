@@ -42,6 +42,6 @@
 	- energy transferred into or out of the reservoir is negligible compared with the huge size of the reservoir.
 	- heat flows from high to low temperatures(as most types of energies do)
 	- ways heat can be transferred
-		- heat added.
-			- if heat has a higher temperature that
-	-
+		- heat removed
+			- if heat has a higher temperature than it's environment, then the heat would transfer from that object to it's environment, effectively dissipating the heat
+			- results in d
