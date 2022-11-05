@@ -39,5 +39,7 @@
 	- is a microscopic(invisible)
 	- transfers thermal energy between objects having different temperatures.
 	- example of heat reservoir could be air or water surrounding the cylinder
-	- energy transferred into or out of the reservoir is negli
+	- energy transferred into or out of the reservoir is negligible compared with the huge size of the reservoir.
+	- heat flows from high to low temperatures(as most types of energies do)
+	- heat
 	-
