@@ -1,3 +1,8 @@
 - thermodynamics
 	- a branch of physics
-	- deals with thermal enrg
+	- deals with thermal energy and heat.
+- variables
+	- U   in joules
+	- e   in percentages
+- internal energy
+	- U
