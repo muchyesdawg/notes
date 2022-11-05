@@ -69,7 +69,6 @@
 	- if something has a low probability of happening in an isolated system, it has low entropy.
 	- if something has a higher probability of happening in an isolated system, it has high entropy.
 	- probability drives systems toward random and disordered equilibrium states with higher entropy.
-	-
 - laws of thermodynamics
 	- first law of thermodynamics
 		- conservation of energy
