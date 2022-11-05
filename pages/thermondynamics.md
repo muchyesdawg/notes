@@ -57,4 +57,6 @@
 		- conservation of energy
 			- no change in energy
 	- second law of thermodynamics
-		- entropy
+		- entropy of an isolated system cannot decrease
+		- entropy of isolated systems always increase until system reaches equilibrium
+		-
