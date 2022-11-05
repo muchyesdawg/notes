@@ -44,7 +44,9 @@
 - classical conditioning
 	- type of associative learning.
 - cleavage
-	- rapid mitic
+	- rapid mitotic cell division of the zygote that begins immediately after fertilization
+- cnidocytes
+	- ce
 - classical
 - crossing over
   collapsed:: true
