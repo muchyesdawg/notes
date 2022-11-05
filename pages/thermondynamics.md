@@ -66,6 +66,8 @@
 - entropy
 	- entropy is a way to quantify the probability of finding a system in a particular state.
 	- is basically how messy something is.
+	- if something has a low probability of happening in an isolated system, it has low entropy.
+	-
 - laws of thermodynamics
 	- first law of thermodynamics
 		- conservation of energy
