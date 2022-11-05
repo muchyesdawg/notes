@@ -56,7 +56,8 @@
 	- the heat added to an engine, Q_H can be thought of as thermal fuel
 	- heat removed from engine, Q_C can be thought of as thermal exhaust
 	- engine exhaust is not efficient, but no heat engine can operate without some exhaust at low temp, T_C.
-	- the warm engine of a car after it has been running is an example of T_c waste heat
+	- the warm engine of a car after it has been running is an example of T_c waste heat Q_c
+	- engine efficiency is the relationship between net work W_net produced by engine to the heat added, Q
 - laws of thermodynamics
 	- first law of thermodynamics
 		- conservation of energy
