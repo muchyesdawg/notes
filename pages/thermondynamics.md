@@ -2,7 +2,8 @@
 	- a branch of physics
 	- deals with thermal energy and heat.
 - variables
-	- U   in joules
-	- e   in percentages
+	- U internal energy   in joules
+	- e  efficiency           in percentages
 - internal energy
-	- U
+	- represented with the variable U
+	- is the total energy of a system.
