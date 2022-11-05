@@ -18,4 +18,4 @@
 		- internal energy increases
 			- if energy is added to the system, the internal system increases, +ΔU. This is accompanied by an increase in the temperature of the system +ΔT.
 		- internal energy decreases
-			- if energy is removed from the system, the internal energy decreases. -ΔD
+			- if energy is removed from the system, the internal energy decreases. -ΔD. this is accompanied by a decrease in the temperature of the system -ΔT.
