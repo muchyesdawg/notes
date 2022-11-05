@@ -48,7 +48,11 @@
 - cnidocytes
 	- cells that house the stinger in cnidarians
 - codominance
-	-
+	- inheritance pattern where both traits show at once
+- codon
+	- three nucleotide sequence associated with mrna
+- coelomate
+	- an animal with true coelom. all chordates are coelomates
 - crossing over
   collapsed:: true
 	- normal process in which homologous chromatids exchange genetic material. increases variation of genetic material.
