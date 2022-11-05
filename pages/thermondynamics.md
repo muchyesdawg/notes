@@ -13,4 +13,5 @@
 	- Δ=3/2nRΔT
 		- unlikely that this equation will appear on exam
 		- used to show important direct relationship between temperature change and change in internal energy.
+	- during thermodynamic process there are three possibilities for the value of internal energy.
 	-
