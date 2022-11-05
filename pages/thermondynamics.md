@@ -17,4 +17,5 @@
 	- there are three possibilities for value of internal energy.
 		- internal energy increases
 			- if energy is added to the system, the internal system increases, +ΔU. This is accompanied by an increase in the temperature of the system +ΔT.
-		-
+		- internal energy decreases
+			- if energy is removed from the system, the internal energy decreases
