@@ -68,7 +68,7 @@
 - companion cells
 	- make up phloem vessels, along with sieve tube elements
 - conjugation
-	-
+	- a primitive form
 - crossing over
   collapsed:: true
 	- normal process in which homologous chromatids exchange genetic material. increases variation of genetic material.
