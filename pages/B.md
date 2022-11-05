@@ -27,4 +27,6 @@
 - bottleneck effect
 	- natural disasters that reduce the size of population non selectively, losing genetic variation
 - budding
-	- splitting off of new individual
+	- splitting off of new individuals from existing ones.
+- buffers
+	- chemicals that resist a charge in ph
