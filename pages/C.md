@@ -73,7 +73,9 @@
 	- theory stating that the continents are floating and moving very slowely.
 - contractile vacuole
 	- structures found in freshwater protista, like paramecia and amoeba that pumps excess water that diffuses inward because the organisms live in an hypotonic environment
-- convergent-
+- convergent evolution
+	- cortex
+-
 - crossing over
   collapsed:: true
 	- normal process in which homologous chromatids exchange genetic material. increases variation of genetic material.
