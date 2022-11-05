@@ -7,3 +7,5 @@
 - internal energy
 	- represented with the variable U
 	- is the total energy of a system.
+	- Thermodynamics is more concerned with delta U rather than actual value of U
+	- ΔU =
