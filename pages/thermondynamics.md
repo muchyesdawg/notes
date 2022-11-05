@@ -51,4 +51,6 @@
 		- adiabatic process
 			- no change in heat.
 			- happens when an object's temperature and it's environment's temperature is at equilibrium
-			-
+			- ΔU = 0, Q = 0
+- laws of thermodynamics
+	-
