@@ -46,7 +46,8 @@
 - cleavage
 	- rapid mitotic cell division of the zygote that begins immediately after fertilization
 - cnidocytes
-	- ce
+	- cells that house the stinger in cnidarians
+-
 - classical
 - crossing over
   collapsed:: true
