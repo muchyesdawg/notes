@@ -84,13 +84,19 @@
   :block/updated-at 1666997418172}
  {:block/name "physics",
   :block/created-at 1667522260592,
-  :block/updated-at 1667522260592}
+  :block/updated-at 1667670960014}
+ {:block/name "physics sat",
+  :block/created-at 1667670960014,
+  :block/updated-at 1667670981779}
  {:block/name "programming",
   :block/created-at 1667522260588,
   :block/updated-at 1667522260588}
  {:block/name "the ten towers",
   :block/created-at 1667522260608,
   :block/updated-at 1667522260608}
+ {:block/name "thermondynamics",
+  :block/created-at 1667670981778,
+  :block/updated-at 1667672295439}
  {:block/name "todo",
   :block/created-at 1666826996538,
   :block/updated-at 1667501245653}
