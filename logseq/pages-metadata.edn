@@ -96,7 +96,7 @@
   :block/updated-at 1667522260608}
  {:block/name "thermondynamics",
   :block/created-at 1667670981778,
-  :block/updated-at 1667674197391}
+  :block/updated-at 1667675553162}
  {:block/name "todo",
   :block/created-at 1666826996538,
   :block/updated-at 1667501245653}
