@@ -1,6 +1,9 @@
 - c4 phtoosynthesis
 	- modification for dry environments. c4 plants exhibit modified anatomy and biochemical pathways, which enables them to minimize excessive water loss and maximize sugar production
-	- [[]]
+- calvin cycle
+	- cyclical process that produces sugar.occures during the light independent reactioons
+- carbon fixation
+	- incorporation of carbon dio
 - crossing over
 	- normal process in which homologous chromatids exchange genetic material. increases variation of genetic material.
 - cutin
