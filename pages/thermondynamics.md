@@ -30,4 +30,6 @@
 	  id:: 6366ab87-319c-4add-bedb-ec0186a32bde
 	- example:
 		- there is a cylinder, a movable piston, and gas particles that are trapped by said piston.
-			- under some conditions,
+			- under some conditions, the pressure of the gas changes when work moves the piston.
+			- but under special conditions, pressure remains constant as the piston moves. (this is known as an isobaric process).
+			-
