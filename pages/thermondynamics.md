@@ -41,5 +41,7 @@
 	- example of heat reservoir could be air or water surrounding the cylinder
 	- energy transferred into or out of the reservoir is negligible compared with the huge size of the reservoir.
 	- heat flows from high to low temperatures(as most types of energies do)
-	- heat
+	- ways heat can be transferred
+		- heat added.
+			- if heat has a higher temperature that
 	-
