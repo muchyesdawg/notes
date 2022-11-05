@@ -34,6 +34,7 @@
 - chitin
 	- polysaccharide that makes up the exoskeleton of insects and the cell walls of fungi
 - chloroplasts
+	- type of plastid that carries out photosynthesis
 	-
 - crossing over
   collapsed:: true
