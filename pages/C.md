@@ -10,7 +10,7 @@
 - carotenoids
 	- photosynthetic antennae pigments. they are orange and yellow
 - carpel
-	- female part of the flower, produce the female gametophytes, ova. each carpel consists
+	- female part of the flower, produce the female gametophytes, ova. each carpel consists of an ovary, stigma, and style. also called the pistills.
 - crossing over
 	- normal process in which homologous chromatids exchange genetic material. increases variation of genetic material.
 - cutin
