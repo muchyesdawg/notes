@@ -44,8 +44,8 @@
 	- ways heat can be transferred
 		- heat added
 			- if an object has lower temperature than it's environment, then the heat would transfer from the environment to the object, effectively adding heat.
-			-
+			- +ΔU, +Q
 		- heat removed
 			- if an object has a higher temperature than it's environment, then the heat would transfer from that object to it's environment, effectively dissipating the heat
-			- results in decrease of heat
 			- -ΔU, -Q
+		-
