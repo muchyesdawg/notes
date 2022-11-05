@@ -20,4 +20,5 @@
 	- global ecosystem
 - biotechnology
 	- branch of science that uses recombinant dna techniques for practical purposes, also called genetic engineering
--
+- biotic factor
+	- all
