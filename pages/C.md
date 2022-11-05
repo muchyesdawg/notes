@@ -42,7 +42,9 @@
 - chromoplasts
 	- type of plastid that stores pigment that are responsible for the bright colors in fruit and flowers
 - classical conditioning
-	-
+	- type of associative learning.
+- cleavage
+	- rapid mitic
 - classical
 - crossing over
   collapsed:: true
