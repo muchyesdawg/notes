@@ -38,5 +38,6 @@
 	- represented with Q
 	- is a microscopic(invisible)
 	- transfers thermal energy between objects having different temperatures.
-	- example of heat reservoir could be air
+	- example of heat reservoir could be air or water surrounding the cylinder
+	- energy transferred into or out of the reservoir is negli
 	-
