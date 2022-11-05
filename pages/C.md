@@ -65,7 +65,10 @@
 	- symbiotic relationship in which one organism benefits and one is not affected by the other organisms
 - community
 	- consists of all the organisms living in one area
--
+- companion cells
+	- make up phloem vessels, along with sieve tube elements
+- conjugation
+	-
 - crossing over
   collapsed:: true
 	- normal process in which homologous chromatids exchange genetic material. increases variation of genetic material.
