@@ -22,5 +22,4 @@
 		- isothermal process
 			- this is a thermodynamic process where the temperature remains constant, ΔT=0.
 			- if temperature is not changing, then the internal energy is not changing. ΔU=0
-- energy transfer in thermodynamics
-	- think of a thermodunamic system as a gas trapped in a cylinder with a move
+- e
