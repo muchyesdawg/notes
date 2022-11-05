@@ -40,7 +40,8 @@
 - chromatin network
 	- dna in the nucleus that is wrapped with special proteins called histones into a visible network
 - chromoplasts
-	- type of plastid that stores pigment that are responsible for the bright colors in fruit and flowersc
+	- type of plastid that stores pigment that are responsible for the bright colors in fruit and flowers
+-
 - crossing over
   collapsed:: true
 	- normal process in which homologous chromatids exchange genetic material. increases variation of genetic material.
