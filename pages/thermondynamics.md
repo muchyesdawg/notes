@@ -29,4 +29,5 @@
 	- it's a macroscopic transfer of energy involving a net force acting a through a distance.
 	  id:: 6366ab87-319c-4add-bedb-ec0186a32bde
 	- example:
-		- if there is a cylinder and a
+		- there is a cylinder, a movable piston, and gas particles that are trapped by said piston.
+			- under some conditions,
