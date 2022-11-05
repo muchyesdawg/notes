@@ -24,5 +24,8 @@
 			- if temperature is not changing, then the internal energy is not changing. ΔU=0
 - work
 	- simplified to W
+	- is visible
+	- it's a macroscopic transfer of energy involving a net force acting a through a distance.
+	  id:: 6366ab87-319c-4add-bedb-ec0186a32bde
 	-
-	- it's a macroscopic transfer of energy
+	-
