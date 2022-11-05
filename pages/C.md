@@ -8,7 +8,9 @@
 - cardiac sphincter
 	- band of muscle at top of stomach that keeps acidified food in the stomach from backing up into the esophagus and burning it
 - carotenoids
-	- photosynthesis
+	- photosynthetic antennae pigments. they are orange and yellow
+- carpel
+	-
 - crossing over
 	- normal process in which homologous chromatids exchange genetic material. increases variation of genetic material.
 - cutin
