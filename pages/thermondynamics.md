@@ -48,4 +48,7 @@
 		- heat removed
 			- if an object has a higher temperature than it's environment, then the heat would transfer from that object to it's environment, effectively dissipating the heat
 			- -ΔU, -Q
-		-
+		- adiabatic process
+			- no change in heat.
+			- happens when an object's temperature and it's environment's temperature is at equilibrium
+			-
