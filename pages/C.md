@@ -47,8 +47,8 @@
 	- rapid mitotic cell division of the zygote that begins immediately after fertilization
 - cnidocytes
 	- cells that house the stinger in cnidarians
--
-- classical
+- codominance
+	-
 - crossing over
   collapsed:: true
 	- normal process in which homologous chromatids exchange genetic material. increases variation of genetic material.
