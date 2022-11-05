@@ -35,3 +35,6 @@
 				- W=-PΔV
 - heat
 	- represented with Q
+	- is a microscopic(invisible)
+	- transfers thermal energy between objects having different temperatures.
+	- can be added or removed by touching a heat reservoir to the cylinder mentioned in the
