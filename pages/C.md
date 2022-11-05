@@ -31,6 +31,10 @@
 	- consists of two centrioles at right angles to each other. important during cecll division.
 - chemiosmosis
 	- this is how atp is produced during oxidative phosphorylation. protons only flow through the special atp synthase
+- chitin
+	- polysaccharide that makes up the exoskeleton of insects and the cell walls of fungi
+- chloroplasts
+	-
 - crossing over
   collapsed:: true
 	- normal process in which homologous chromatids exchange genetic material. increases variation of genetic material.
