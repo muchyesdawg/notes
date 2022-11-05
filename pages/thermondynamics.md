@@ -24,7 +24,7 @@
 			- if temperature is not changing, then the internal energy is not changing. ΔU=0
 - work
 	- work is a mechanical way to add or remove energy.
-	- simplified to W
+	- represented with W
 	- is visible
 	- it's a macroscopic transfer of energy involving a net force acting a through a distance.
 	  id:: 6366ab87-319c-4add-bedb-ec0186a32bde
@@ -32,4 +32,6 @@
 		- there is a cylinder, a movable piston, and gas particles that are trapped by said piston.
 			- under some conditions, the pressure of the gas changes when work moves the piston.
 			- but under special conditions, pressure remains constant as the piston moves. (this is known as an isobaric process).
-			-
+				- W=-PΔV
+- heat
+	- represented with Q
