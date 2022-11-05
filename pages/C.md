@@ -68,7 +68,11 @@
 - companion cells
 	- make up phloem vessels, along with sieve tube elements
 - conjugation
-	- a primitive form
+	- a primitive form of sexual reproduction where individuals exchange genetic material
+- continental drift
+	- theory stating that the continents are floating and moving very slowely.
+- contractile vacuole
+	- structures found in freshwater protista, lui
 - crossing over
   collapsed:: true
 	- normal process in which homologous chromatids exchange genetic material. increases variation of genetic material.
