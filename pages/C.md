@@ -26,7 +26,9 @@
 - centrioles
 	- responsible for division of the cytoplasm in animal cells; they are not present in plant cells. They consist of 9 triplets of microtubules arranged in a circle
 - centromere
-	- specialized region of a chromosome
+	- specialized region of a chromosome that holes two sister chromatids together
+- centrosome
+	- consists of two centrioles at right angles to each other. important during cecll division.
 -
 - crossing over
   collapsed:: true
