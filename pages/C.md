@@ -35,6 +35,9 @@
 	- polysaccharide that makes up the exoskeleton of insects and the cell walls of fungi
 - chloroplasts
 	- type of plastid that carries out photosynthesis
+- chorion
+	- membrane that lies under the shell of an egg and allows for diffusion of respiratory gases between the outside environment and the inside of the shell.
+- chromatin network
 	-
 - crossing over
   collapsed:: true
