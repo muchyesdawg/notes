@@ -29,7 +29,8 @@
 	- specialized region of a chromosome that holes two sister chromatids together
 - centrosome
 	- consists of two centrioles at right angles to each other. important during cecll division.
--
+- chemiosmosis
+	- this is how atp is produced during oxidative phospho
 - crossing over
   collapsed:: true
 	- normal process in which homologous chromatids exchange genetic material. increases variation of genetic material.
