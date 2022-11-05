@@ -5,7 +5,8 @@
 	- cyclical process that produces sugar.occures during the light independent reactioons
 - carbon fixation
 	- incorporation of carbon dioxide into a sugar. occurs during ((636677d3-79b0-49ec-beba-8f88d2d39e89))
--
+- cardiac sphincter
+	- band of muscle
 - crossing over
 	- normal process in which homologous chromatids exchange genetic material. increases variation of genetic material.
 - cutin
