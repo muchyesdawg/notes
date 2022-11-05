@@ -53,7 +53,9 @@
 			- happens when an object's temperature and it's environment's temperature is at equilibrium
 			- ΔU = 0, Q = 0
 - efficiency
-	- the heat added to an engine, Q_h
+	- the heat added to an engine, Q_h can be thought of as thermal fuel
+	- heat removed from engine, Q_c can be thought of as thermal exhaust
+	-
 - laws of thermodynamics
 	- first law of thermodynamics
 		- conservation of energy
