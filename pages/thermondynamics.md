@@ -10,5 +10,7 @@
 	- Thermodynamics is more concerned with delta U rather than actual value of U
 	- ΔU = ΔE_thermal
 	- thermal energy of a gas is sum of all microscopic kinetic energies of gas particles
-	- Δ=3/2nRΔT(unlikely that this equation will appear on exam)
+	- Δ=3/2nRΔT
+		- unlikely that this equation will appear on exam
+		- used to show important direct relationship between temperature change and change in internal energy.
 	-
