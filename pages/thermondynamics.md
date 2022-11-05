@@ -63,6 +63,9 @@
 	- calculated using the temperature extremes, T_H and T_C.
 	- the best possible efficiency of a heat engine is calculated with e=(T_H-T_C)/T_H
 	- calculations with this formula require kelvin temps.
+- entropy
+	- entropy is a way to quantify the probability of finding a system in a particular state.
+	- is basically how messy something is.
 - laws of thermodynamics
 	- first law of thermodynamics
 		- conservation of energy
