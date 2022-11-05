@@ -79,6 +79,11 @@
 	- specialized region in a plant root or stem for storage and support
 - cotyledon
 	- food for the growing embryo in a dicot seed. the cell that make up the cotyledon are triploid
+- covalent bonds
+	- bonds formed between atoms where electrons are shared
+- crassulacean acid metabolism(CAM)
+	- form of photosynthesis that is an adaptation for dry conditions.
+- cristae
 	-
 - crossing over
   collapsed:: true
