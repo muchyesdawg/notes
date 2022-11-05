@@ -61,7 +61,8 @@
 	- e=|W_net/Q_H|
 	- heat engines have theoretical maximum efficiency.
 	- calculated using the temperature extremes, T_H and T_C.
-	- the best possible efficiency of a heat engine is calculated with e=
+	- the best possible efficiency of a heat engine is calculated with e=(T_H-T_C)/T_H
+	- calculations with this formula require kelvin temps.
 - laws of thermodynamics
 	- first law of thermodynamics
 		- conservation of energy
