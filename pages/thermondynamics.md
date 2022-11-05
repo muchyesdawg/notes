@@ -22,4 +22,7 @@
 		- isothermal process
 			- this is a thermodynamic process where the temperature remains constant, ΔT=0.
 			- if temperature is not changing, then the internal energy is not changing. ΔU=0
-- e
+- work
+	- simplified to W
+	-
+	- it's a macroscopic transfer of energy
