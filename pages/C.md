@@ -27,6 +27,7 @@
 	- responsible for division of the cytoplasm in animal cells; they are not present in plant cells. They consist of 9 triplets of microtubules arranged in a circle
 - centromere
 	- specialized region of a chromosome
+-
 - crossing over
   collapsed:: true
 	- normal process in which homologous chromatids exchange genetic material. increases variation of genetic material.
