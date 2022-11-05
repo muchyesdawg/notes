@@ -24,67 +24,99 @@
   collapsed:: true
 	- positive ion
 - centrioles
+  collapsed:: true
 	- responsible for division of the cytoplasm in animal cells; they are not present in plant cells. They consist of 9 triplets of microtubules arranged in a circle
 - centromere
+  collapsed:: true
 	- specialized region of a chromosome that holes two sister chromatids together
 - centrosome
+  collapsed:: true
 	- consists of two centrioles at right angles to each other. important during cecll division.
 - chemiosmosis
+  collapsed:: true
 	- this is how atp is produced during oxidative phosphorylation. protons only flow through the special atp synthase
 - chitin
+  collapsed:: true
 	- polysaccharide that makes up the exoskeleton of insects and the cell walls of fungi
 - chloroplasts
+  collapsed:: true
 	- type of plastid that carries out photosynthesis
 - chorion
+  collapsed:: true
 	- membrane that lies under the shell of an egg and allows for diffusion of respiratory gases between the outside environment and the inside of the shell.
 - chromatin network
+  collapsed:: true
 	- dna in the nucleus that is wrapped with special proteins called histones into a visible network
 - chromoplasts
+  collapsed:: true
 	- type of plastid that stores pigment that are responsible for the bright colors in fruit and flowers
 - classical conditioning
+  collapsed:: true
 	- type of associative learning.
 - cleavage
+  collapsed:: true
 	- rapid mitotic cell division of the zygote that begins immediately after fertilization
 - cnidocytes
+  collapsed:: true
 	- cells that house the stinger in cnidarians
 - codominance
+  collapsed:: true
 	- inheritance pattern where both traits show at once
 - codon
+  collapsed:: true
 	- three nucleotide sequence associated with mrna
 - coelomate
+  collapsed:: true
 	- an animal with true coelom. all chordates are coelomates
 - coenzymes
+  collapsed:: true
 	- vitamins that assist enzymes
 - cohesion tension
+  collapsed:: true
 	- The attraction of like molecules to stick together.
 - collenchyma cells
+  collapsed:: true
 	- plant cells that have unevenly thickened cell walls but lack secondary cell walls.
 - colon
+  collapsed:: true
 	- another name for large intestines
 - comensalism
 	- symbiotic relationship in which one organism benefits and one is not affected by the other organisms
 - community
 	- consists of all the organisms living in one area
 - companion cells
+  collapsed:: true
 	- make up phloem vessels, along with sieve tube elements
 - conjugation
+  collapsed:: true
 	- a primitive form of sexual reproduction where individuals exchange genetic material
 - continental drift
+  collapsed:: true
 	- theory stating that the continents are floating and moving very slowely.
 - contractile vacuole
+  collapsed:: true
 	- structures found in freshwater protista, like paramecia and amoeba that pumps excess water that diffuses inward because the organisms live in an hypotonic environment
 - convergent evolution
+  collapsed:: true
 	- type of evolution where unrelated species occupying the same environment and subjected to similar selective pressures show similar adaptations
 - cortex
+  collapsed:: true
 	- specialized region in a plant root or stem for storage and support
 - cotyledon
+  collapsed:: true
 	- food for the growing embryo in a dicot seed. the cell that make up the cotyledon are triploid
 - covalent bonds
+  collapsed:: true
 	- bonds formed between atoms where electrons are shared
 - crassulacean acid metabolism(CAM)
+  collapsed:: true
 	- form of photosynthesis that is an adaptation for dry conditions.
 - cristae
-	-
+  collapsed:: true
+	- series of inner membranes in mitochondria where cell respiration occurs
+- crop
+  collapsed:: true
+	- structures in birds, insects, and earthworms for temporary storage of food.
 - crossing over
   collapsed:: true
 	- normal process in which homologous chromatids exchange genetic material. increases variation of genetic material.
