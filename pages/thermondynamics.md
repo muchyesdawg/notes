@@ -28,7 +28,8 @@
 	- is visible
 	- it's a macroscopic transfer of energy involving a net force acting a through a distance.
 	  id:: 6366ab87-319c-4add-bedb-ec0186a32bde
-	- example:
+	- example
+	  id:: 6366ac6f-c229-4581-ba7c-746004a68057
 		- there is a cylinder, a movable piston, and gas particles that are trapped by said piston.
 			- under some conditions, the pressure of the gas changes when work moves the piston.
 			- but under special conditions, pressure remains constant as the piston moves. (this is known as an isobaric process).
@@ -37,4 +38,5 @@
 	- represented with Q
 	- is a microscopic(invisible)
 	- transfers thermal energy between objects having different temperatures.
-	- can be added or removed by touching a heat reservoir to the cylinder mentioned in the
+	- example of heat reservoir could be air
+	-
