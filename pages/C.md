@@ -59,6 +59,13 @@
 	- The attraction of like molecules to stick together.
 - collenchyma cells
 	- plant cells that have unevenly thickened cell walls but lack secondary cell walls.
+- colon
+	- another name for large intestines
+- comensalism
+	- symbiotic relationship in which one organism benefits and one is not affected by the other organisms
+- community
+	- consists of all the organisms living in one area
+-
 - crossing over
   collapsed:: true
 	- normal process in which homologous chromatids exchange genetic material. increases variation of genetic material.
