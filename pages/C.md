@@ -81,8 +81,10 @@
   collapsed:: true
 	- another name for large intestines
 - comensalism
+  collapsed:: true
 	- symbiotic relationship in which one organism benefits and one is not affected by the other organisms
 - community
+  collapsed:: true
 	- consists of all the organisms living in one area
 - companion cells
   collapsed:: true
