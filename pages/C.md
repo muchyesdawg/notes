@@ -57,7 +57,8 @@
 	- vitamins that assist enzymes
 - cohesion tension
 	- The attraction of like molecules to stick together.
-- co
+- collenchyma cells
+	- plant cells that have unevenly thickened cell walls but lack secondary cell walls.
 - crossing over
   collapsed:: true
 	- normal process in which homologous chromatids exchange genetic material. increases variation of genetic material.
