@@ -76,7 +76,10 @@
 - convergent evolution
 	- type of evolution where unrelated species occupying the same environment and subjected to similar selective pressures show similar adaptations
 - cortex
-	- specialized region in a
+	- specialized region in a plant root or stem for storage and support
+- cotyledon
+	- food for the growing embryo in a dicot seed. the cell that make up the cotyledon are triploid
+	-
 - crossing over
   collapsed:: true
 	- normal process in which homologous chromatids exchange genetic material. increases variation of genetic material.
