@@ -53,6 +53,11 @@
 	- three nucleotide sequence associated with mrna
 - coelomate
 	- an animal with true coelom. all chordates are coelomates
+- coenzymes
+	- vitamins that assist enzymes
+- cohesion tension
+	- The attraction of like molecules to stick together.
+- co
 - crossing over
   collapsed:: true
 	- normal process in which homologous chromatids exchange genetic material. increases variation of genetic material.
