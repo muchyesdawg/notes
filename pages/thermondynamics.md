@@ -59,7 +59,9 @@
 	- the warm engine of a car after it has been running is an example of T_c waste heat Q_c
 	- engine efficiency is the relationship between net work W_net produced by engine to the heat added, Q_H
 	- e=|W_net/Q_H|
-	-
+	- heat engines have theoretical maximum efficiency.
+	- calculated using the temperature extremes, T_H and T_C.
+	- the best possible efficiency of a heat engine is calculated with e=
 - laws of thermodynamics
 	- first law of thermodynamics
 		- conservation of energy
