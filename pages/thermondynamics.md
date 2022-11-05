@@ -19,4 +19,7 @@
 			- if energy is added to the system, the internal system increases, +ΔU. This is accompanied by an increase in the temperature of the system +ΔT.
 		- internal energy decreases
 			- if energy is removed from the system, the internal energy decreases. -ΔD. this is accompanied by a decrease in the temperature of the system -ΔT.
-		- isothermal
+		- isothermal process
+			- this is a thermodynamic process where the temperature remains constant, ΔT=0.
+			- if temperature is not changing, then the internal energy is not changing. ΔU=0
+		-
