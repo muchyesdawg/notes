@@ -24,7 +24,7 @@
   collapsed:: true
 	- positive ion
 - centrioles
-	-
+	- responsible for division of the cytoplasm in animal cells; they are not present in plant cells. They consist
 - crossing over
   collapsed:: true
 	- normal process in which homologous chromatids exchange genetic material. increases variation of genetic material.
