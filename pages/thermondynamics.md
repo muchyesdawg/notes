@@ -55,6 +55,7 @@
 - efficiency
 	- the heat added to an engine, Q_h can be thought of as thermal fuel
 	- heat removed from engine, Q_c can be thought of as thermal exhaust
+	- engine exhaust is not efficient, but no heat engine can operate without some exhaust at low temp, T_c.
 	-
 - laws of thermodynamics
 	- first law of thermodynamics
