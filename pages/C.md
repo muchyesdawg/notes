@@ -6,7 +6,9 @@
 - carbon fixation
 	- incorporation of carbon dioxide into a sugar. occurs during ((636677d3-79b0-49ec-beba-8f88d2d39e89))
 - cardiac sphincter
-	- band of muscle
+	- band of muscle at top of stomach that keeps acidified food in the stomach from backing up into the esophagus and burning it
+- carotenoids
+	- photosynthesis
 - crossing over
 	- normal process in which homologous chromatids exchange genetic material. increases variation of genetic material.
 - cutin
