@@ -1,4 +1,5 @@
 - cellular respiration
 	- is the process of converting energy storage molecules into atp
 	- has two types
-	-
+- fermentation(anarobi)
+- aerobic respiration
