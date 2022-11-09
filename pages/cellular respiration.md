@@ -5,6 +5,9 @@
 	- occurs when oxygen is unavailible
 	- has two types
 		- depends on what is respiration occurring in
-		- lac
+		- lactic fermentation
+			- happens in muscle cells, bacteria
+		- alcoholic fermentation
+			- happens in yeast, bacteria
 - aerobic respiration
 	-
