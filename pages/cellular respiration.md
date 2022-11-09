@@ -1,7 +1,7 @@
 - cellular respiration
 	- is the process of converting energy storage molecules into atp
 	- has two types
-	- starts with glycolysis(splitting glucose into pyruvate )
+	- starts with glycolysis(splitting glucose into pyruvate and produces two atp)
 - fermentation(anarobic respiration)
 	- occurs when oxygen is unavailable
 	- is very inefficient
