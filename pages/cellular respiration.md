@@ -20,4 +20,4 @@
 	- when pyruvate goes into mitochondria, nad+ turns into nadh+proton, goes through coenzyme A, and turns into acetyl coa
 	- acetyl coa goes into Krebs(citric acid) cycle(happens within the matrix of mitochondria) and produces 2co2, 3nadh + 3 protons, 2atp(1 per pyruvate), and fadh2
 	- the products are used in etc and chemiosmosis
-		- nadh and fad-
+		- nadh and fadh and o2 is used to pump h+ protons into the intermembrane space from the matrix in order to
