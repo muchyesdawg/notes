@@ -16,4 +16,4 @@
 			- produces ethanol
 			- produces 2CO2 as a byproduct
 - aerobic respiration
-	- 1.
+	- 1.when pyruvate
