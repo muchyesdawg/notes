@@ -1,5 +1,10 @@
 - cellular respiration
 	- is the process of converting energy storage molecules into atp
 	- has two types
-- fermentation(anarobi)
+- fermentation(anarobic respiration)
+	- occurs when oxygen is unavailible
+	- has two types
+		- depends on what is respiration occurring in
+		- lac
 - aerobic respiration
+	-
