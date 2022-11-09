@@ -5,12 +5,14 @@
 - fermentation(anarobic respiration)
 	- occurs when oxygen is unavailable
 	- is very inefficient
+	- uses pyruvate to change NADH to NAD+
 	- has two types
 		- depends on what is respiration occurring in
 		- lactic fermentation
 			- happens in muscle cells, bacteria
-			-
+			- produces lactate
 		- alcoholic fermentation
 			- happens in yeast, bacteria
+			-
 - aerobic respiration
 	-
