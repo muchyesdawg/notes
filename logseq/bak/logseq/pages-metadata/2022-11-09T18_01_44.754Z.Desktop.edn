@@ -26,8 +26,8 @@
   :block/created-at 1666997504118,
   :block/updated-at 1666997520940}
  {:block/name "biology school",
-  :block/created-at 1668016306147,
-  :block/updated-at 1668016306147}
+  :block/created-at 1667966136975,
+  :block/updated-at 1667966230619}
  {:block/name "c",
   :block/created-at 1666826996538,
   :block/updated-at 1667668755336}
@@ -41,8 +41,8 @@
   :block/created-at 1666828824828,
   :block/updated-at 1666828824828}
  {:block/name "cellular respiration",
-  :block/created-at 1668016306143,
-  :block/updated-at 1668016306143}
+  :block/created-at 1667966230617,
+  :block/updated-at 1667967303419}
  {:block/name "chemistry",
   :block/created-at 1667522260591,
   :block/updated-at 1667522260591}
@@ -85,9 +85,6 @@
  {:block/name "nov 8th, 2022",
   :block/created-at 1667966039952,
   :block/updated-at 1667966039952}
- {:block/name "nov 9th, 2022",
-  :block/created-at 1668016305805,
-  :block/updated-at 1668016305805}
  {:block/name "now",
   :block/created-at 1666826996538,
   :block/updated-at 1666826996538}
@@ -111,7 +108,7 @@
   :block/updated-at 1667675553162}
  {:block/name "todo",
   :block/created-at 1666826996538,
-  :block/updated-at 1668016405513}
+  :block/updated-at 1667501245653}
  {:block/name "ttt",
   :block/created-at 1667522260451,
   :block/updated-at 1667522260451}
