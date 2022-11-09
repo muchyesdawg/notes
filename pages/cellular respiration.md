@@ -13,6 +13,7 @@
 			- produces lactate
 		- alcoholic fermentation
 			- happens in yeast, bacteria
-			-
+			- produces ethanol
+			- produces 2CO2 as a byproduct
 - aerobic respiration
-	-
+	- 1.
