@@ -9,6 +9,7 @@
 		- depends on what is respiration occurring in
 		- lactic fermentation
 			- happens in muscle cells, bacteria
+			-
 		- alcoholic fermentation
 			- happens in yeast, bacteria
 - aerobic respiration
