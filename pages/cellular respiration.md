@@ -17,4 +17,4 @@
 			- produces 2CO2 as a byproduct
 - aerobic respiration
 	- starts with pyruvate going into a mitochondria(releases co2 in the process)
-	- when pyruvate goes into mitochondria, nad+ turns into nadh+proton
+	- when pyruvate goes into mitochondria, nad+ turns into nadh+proton, goes through coenzyme A, and turns into acetyl coa
