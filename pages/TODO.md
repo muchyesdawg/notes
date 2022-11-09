@@ -5,5 +5,5 @@
 - make test map#ttt
 - find math for gravity and stuff(no using third parties)#ttt
 - collision#ttt
-	- subdivide movement by 50
-		- if it hits something stop character in front of him
+	- create horizontal collision
+	- create vertical collision
