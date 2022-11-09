@@ -16,4 +16,4 @@
 			- produces ethanol
 			- produces 2CO2 as a byproduct
 - aerobic respiration
-	- starts with pyur
+	- starts with pyruvate going into a mitochondria
