@@ -16,4 +16,5 @@
 			- produces ethanol
 			- produces 2CO2 as a byproduct
 - aerobic respiration
-	- starts with pyruvate going into a mitochondria
+	- starts with pyruvate going into a mitochondria(releases co2 in the process)
+	- when pyruvate goes into mitochondria, nad+ turns into nadh+proton
