@@ -1,2 +1,3 @@
 - cellular respiration
-	- is the process of
+	- is the process of converting energy storage molecules into atp
+	-
