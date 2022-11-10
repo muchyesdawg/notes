@@ -1,4 +1,3 @@
 - 960*540(60x33 of 16*16 sprites)
-- ```
-  #include <
-  ```
+- #+BEGIN_EXPORT ascii
+  #+END_EXPORT
