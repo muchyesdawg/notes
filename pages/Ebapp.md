@@ -9,4 +9,6 @@
 - egestion
 	- removal of metabolic waste
 - Electron Transport Chain
-	- series of molecules within cristae membrane of mitochondria that provide energy to phosphorylate adp into atp during oxidative phosporylation
+	- series of molecules within cristae membrane of mitochondria that provide energy to phosphorylate adp into atp during oxidative phosphorylation
+- endocytosis
+	- process where cells take in molecules and particles by forming new vesicles made from plasma membrane
