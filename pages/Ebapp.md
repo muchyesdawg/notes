@@ -15,3 +15,5 @@
 	- pinocytosis
 	- phagosytosis
 	- receptor-mediated endocytosis
+- endoderm
+	- innermost layer of an
