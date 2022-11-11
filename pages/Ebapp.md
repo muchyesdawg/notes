@@ -4,4 +4,7 @@
 	- outermost layer of an embryo
 	- develops into skin and nervous system
 - ectotherm
-	- an anim
+	- an animal that use environmental energy or behavioral adaptations to its body temperature
+	- cold blooded
+- egesion
+	-
