@@ -36,4 +36,11 @@
 	- part of testes where sperm becomes motile
 - epiglottis
 	- flap of cartilage in the back of the throat that directs food to the esophagus
-- er
+- erythrocytes
+	- red blood cells
+- ethylene
+	- gaseous plant hormone that promotes fruit ripening
+- eukaryotes
+	- cells that contain internal membranes
+- excited state
+	-
