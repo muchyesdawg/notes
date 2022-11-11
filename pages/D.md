@@ -32,3 +32,6 @@
 	- enzyme that catalyzes the elongation of the new ((635c61ea-e34d-45b8-a801-ceb0220ad24f)) strand during replication
 - domain
 	- all organisms are classified in one of three domains, which are further divided to kingdom,  phylum, class, order, family, genus and species
+- do
+	-
+	-
