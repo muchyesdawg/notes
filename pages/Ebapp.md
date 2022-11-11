@@ -17,3 +17,5 @@
 	- receptor-mediated endocytosis
 - endoderm
 	- innermost layer of an embryo
+	- develops into a viscera or the digestive system
+- endoplasmic reticu
