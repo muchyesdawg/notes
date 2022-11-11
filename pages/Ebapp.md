@@ -31,4 +31,9 @@
 - eohippus
 	- transition fossil that demonstrates that the ancient horse is an ancestor of the modern horse
 - epicotyl
-	- part of the embryo in a
+	- part of the embryo in a seed that becomes the upper part of the stem and leaves
+- epididymis
+	- part of testes where sperm becomes motile
+- epiglottis
+	- flap of cartilage in the back of the throat that directs food to the esophagus
+- er
