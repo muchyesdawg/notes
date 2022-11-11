@@ -16,4 +16,4 @@
 	- phagosytosis
 	- receptor-mediated endocytosis
 - endoderm
-	- innermost layer of an
+	- innermost layer of an embryo
