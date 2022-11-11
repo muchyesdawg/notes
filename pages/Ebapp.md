@@ -43,4 +43,11 @@
 - eukaryotes
 	- cells that contain internal membranes
 - excited state
-	-
+	- when atom absorbs energy, its electrons move to a higher energy level
+- excretion
+	- removal of metabolic wastes
+- exocytosis
+	- release of substances from cell
+- exons
+	- expressed sequences of DNA.
+	- dna that codes
