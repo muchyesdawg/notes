@@ -18,4 +18,10 @@
 - endoderm
 	- innermost layer of an embryo
 	- develops into a viscera or the digestive system
-- endoplasmic reticu
+- endoplasmic reticulum
+	- system of transport channels within the cytoplasm of an eukaryotic cell
+- endosperm
+	- Food for the growing embryo int he monocot seed.
+	- cells that make up the endosperm are triploid
+- endotherm
+	-
