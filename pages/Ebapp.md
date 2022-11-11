@@ -6,5 +6,6 @@
 - ectotherm
 	- an animal that use environmental energy or behavioral adaptations to its body temperature
 	- cold blooded
-- egesion
-	-
+- egestion
+	- removal of metabolic waste
+- E
