@@ -8,4 +8,5 @@
 	- cold blooded
 - egestion
 	- removal of metabolic waste
-- E
+- Electron Transport Chain
+	- series of molecules within cristae membrane of mitochondria that provide energy to phosphorylate adp into atp during oxidative phosporylation
