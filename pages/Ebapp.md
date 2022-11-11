@@ -1,0 +1,7 @@
+- ecosystem
+	- includes all organisms in a given area as well as the abiotic factors with which they interact
+- ectoderm
+	- outermost layer of an embryo
+	- develops into skin and nervous system
+- ectotherm
+	- an anim
