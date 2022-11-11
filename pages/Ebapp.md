@@ -24,4 +24,7 @@
 	- Food for the growing embryo int he monocot seed.
 	- cells that make up the endosperm are triploid
 - endotherm
-	-
+	- an animal that uses metabolic energy to maintain constant body temp
+	- warm blooded
+- energy of activation
+	- amount of energy needed to start a reaction
