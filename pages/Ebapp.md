@@ -28,3 +28,7 @@
 	- warm blooded
 - energy of activation
 	- amount of energy needed to start a reaction
+- eohippus
+	- transition fossil that demonstrates that the ancient horse is an ancestor of the modern horse
+- epicotyl
+	- part of the embryo in a
