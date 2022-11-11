@@ -50,4 +50,6 @@
 	- release of substances from cell
 - exons
 	- expressed sequences of DNA.
-	- dna that codes
+	- dna that codes for particular polypeptides
+- extremophiles
+	- organisms that live in extreme environments, like methanogens, halophiles, and thermophiles. these organism make up the domain archaea.
