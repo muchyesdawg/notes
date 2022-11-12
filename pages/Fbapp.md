@@ -14,4 +14,7 @@
 - final transcript
 	- strand of mRNA that is sent to the ribosome after processing. the final transcript is much shorter than the initial transcript.
 - fission
-	-
+	- division of an organism into two new cells.
+	- reproduction in protists
+- fixed action pattern
+	- innate, highly stereotypical behavior
