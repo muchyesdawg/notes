@@ -1,3 +1,6 @@
 - FAD
 	- flavin adenine dinucleotide
-	- coenzyme that shuttles protons and electrons from glycolysis and krebs cycle
+	- coenzyme that shuttles protons and electrons from glycolysis and krebs cycle to the electron transport chain
+- fallopian tube
+	- also known as the oviduct
+	-
