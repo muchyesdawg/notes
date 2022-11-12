@@ -6,4 +6,8 @@
 	- after ovulation, the egg moves through the oviduct to the uterus
 	- where fertilization occurs
 - fermentation
-	- anarobic
+	- anarobic phase of cell respiration
+- filament
+	- threadlike structure that holds up the anther in the male part of a flower
+- filtration
+	- process that occurs in the nephron where nutrients and wastes diffuse from glomerulus into Bowman's capsule
