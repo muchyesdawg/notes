@@ -1,0 +1,4 @@
+- FAD
+	- flavin adenine dinucloetide
+	- coenzyme that shuttles protons and electrons from glycolysis and the crebs cycle to the etc
+	-
