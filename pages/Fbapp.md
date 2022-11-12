@@ -11,4 +11,7 @@
 	- threadlike structure that holds up the anther in the male part of a flower
 - filtration
 	- process that occurs in the nephron where nutrients and wastes diffuse from glomerulus into Bowman's capsule
+- final transcript
+	- strand of mRNA that is sent to the ribosome after processing. the final transcript is much shorter than the initial transcript.
+- fission
 	-
