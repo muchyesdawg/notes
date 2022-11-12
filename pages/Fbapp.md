@@ -3,4 +3,7 @@
 	- coenzyme that shuttles protons and electrons from glycolysis and krebs cycle to the electron transport chain
 - fallopian tube
 	- also known as the oviduct
-	-
+	- after ovulation, the egg moves through the oviduct to the uterus
+	- where fertilization occurs
+- fermentation
+	- anarobic
