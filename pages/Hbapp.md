@@ -18,5 +18,8 @@
 	- cavities in body of insects for exchange of nutrients and wastes
 - hemophillia
 	- inherited disease caused by absence of one or more proteins for normal blood clotting
--
+- hermaphrodites
+	- organisms that contain both femal and male sex organs
+- heterotroph hypothesis
+	- theory that c
 	-
