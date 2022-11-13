@@ -29,4 +29,8 @@
 	- an organism's genetic material
 	- human genome consists of 3 billion base pairs of DNA and about 30000 genes.
 - genotype
-	- the
+	- the kind of genes an organism has
+- geographic isolation
+	- separation by mountain ranges, canyons, rivers, lakes, or glaciers. may cause significant isolation
+- gibberellins
+	-
