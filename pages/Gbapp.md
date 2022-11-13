@@ -40,4 +40,9 @@
 	- increase in average temperature of earth, due to the greenhouse effect
 - glucagon
 	- hormone released by the pancreas that raises blood sugar.
+- glycerol
+	- combines with fatty acids to make lipids
+- glycolysis
+	- anaerobic phase of aerobic respiration
+	- molecule of glucose breaks apart into two molecules of pyruvate
 -
