@@ -35,4 +35,9 @@
 - gibberellins
 	- plant hormones that promote stem and leaf elongation
 - gizzard
-	- structure in birds, insects, and earthworms
+	- structure in birds, insects, and earthworms where mechanical digestion of food occurs.
+- global warming
+	- increase in average temperature of earth, due to the greenhouse effect
+- glucagon
+	- hormone released by the pancreas that raises blood sugar.
+-
