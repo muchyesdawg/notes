@@ -3,4 +3,9 @@
 	- when an animal ignores persistent stimulus so it can do whatever it wants
 - half life
 	- amount of time ti takes for radioactive isotope to decay to half its mass
+- halophiles
+	- organisms that thrive in environments with high salt concentrations like utah's great salt lakes
+- haploid
+  id:: 63704413-823b-41ad-9a5a-3267b6359556
+	-
 -

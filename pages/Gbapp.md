@@ -5,7 +5,7 @@
 - gametangia
 	- a protective jacket of cells in which gametes and zygotes develop and which prevents drying out.
 - gametophyte
-	- haploid (n) generation of a plant
+	- ((63704413-823b-41ad-9a5a-3267b6359556))(n) generation of a plant
 - gastrin
 	- digestive hormone that stimulates sustained secretion of gastric juice from the stomach
 - gastrovascular cavity
