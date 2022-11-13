@@ -18,4 +18,5 @@
 	- reproduction in protists
 - fixed action pattern
 	- innate, highly stereotypical behavior
-	-
+	- when begun, will continue until completion, no matter how useless.
+	- initiated by external stimuli called sign stimuli
