@@ -4,4 +4,5 @@
 	- first sugar produced by photosynthesis
 - gametangia
 	- a protective jacket of cells in which gametes and zygotes develop and which prevents drying out.
--
+- gametophyte
+	- haploid (n)
