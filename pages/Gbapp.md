@@ -1,0 +1,7 @@
+- G3P
+	- glyceraldehyde 3 phosphate
+	- PGAL
+	- first sugar produced by photosynthesis
+- gametangia
+	- a protective jacket of cells in which gametes and zygotes develop and which prevents drying out.
+-
