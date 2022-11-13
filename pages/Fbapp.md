@@ -26,4 +26,5 @@
 	- a small population, which is not representative of the larger population
 	- breaks away from a larger one to colonize a new area. Rare alleles may be under or overrepresented
 - fragmentation
-	- a single parents organism break into parts that
+	- a single parents organism break into parts that regenerate into new individuals. reproduction in sponges, planaria, and sea stars.
+- framesh
