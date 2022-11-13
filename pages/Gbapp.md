@@ -33,4 +33,6 @@
 - geographic isolation
 	- separation by mountain ranges, canyons, rivers, lakes, or glaciers. may cause significant isolation
 - gibberellins
-	-
+	- plant hormones that promote stem and leaf elongation
+- gizzard
+	- structure in birds, insects, and earthworms
