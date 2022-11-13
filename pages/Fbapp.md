@@ -27,4 +27,7 @@
 	- breaks away from a larger one to colonize a new area. Rare alleles may be under or overrepresented
 - fragmentation
 	- a single parents organism break into parts that regenerate into new individuals. reproduction in sponges, planaria, and sea stars.
-- framesh
+- frameshift
+	- error in the dna which the entire reading frame is altered.
+	- can be caused by an insertion or deletion
+-
