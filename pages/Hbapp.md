@@ -7,5 +7,8 @@
 	- organisms that thrive in environments with high salt concentrations like utah's great salt lakes
 - haploid
   id:: 63704413-823b-41ad-9a5a-3267b6359556
-	-
+	- having half of the chromosome number
+- heat of vaporization
+	- amount of energy required to change a specified amount of liquid into gas.
+	- water has high heat of vaporization
 -
