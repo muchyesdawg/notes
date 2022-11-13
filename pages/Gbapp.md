@@ -14,4 +14,8 @@
 - gastrulation
 	- process by which a plastula develops into a gastrula with the formation of three embryonic layers
 - gel electrophoresis
-	- process that separates large molecules of dna on the basis of their rate of movement thj
+	- process that separates large molecules of dna on the basis of their rate of movement through an agarose gel in an electric field
+- gene flow
+	- movement of alleles into or out of a population
+- genetic drift
+	- change in the gene pool due to chance
