@@ -28,4 +28,4 @@
 - genome
 	- an organism's genetic material
 	- human genome consists of 3 billion base pairs of DNA and about 30000 genes.
--
+- genot
