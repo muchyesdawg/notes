@@ -50,5 +50,8 @@
 - gross primary productivity
 	- amount of energy converted to chemical energy by photosynthesis per unit time in an ecosystem
 - ground state
-	- not excited ()electron
+	- not excited(bored) electron
 	- lowest energy level
+- gymnosperms
+	- confers or cone bearing trees
+-
