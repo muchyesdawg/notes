@@ -8,4 +8,9 @@
 	- haploid (n) generation of a plant
 - gastrin
 	- digestive hormone that stimulates sustained secretion of gastric juice from the stomach
-	-
+- gastrovascular cavity
+	- gastrocoel
+	- primitive digestive cavity in hydra
+- gastrulation
+	- process by which a plastula develops into a gastrula with the formation of three embryonic layers
+-
