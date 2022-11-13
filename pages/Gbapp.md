@@ -22,4 +22,9 @@
 	- examples are
 		- bottleneck effect
 		- founder effect
-	-
+- genetic engineering
+	- branch of science that uses recombinant dna techniques for practical purposes
+	- biotechnology
+- genome
+	- an organism's genetic material
+	- human genome consists of 3 billion base pairs of DNA and about
