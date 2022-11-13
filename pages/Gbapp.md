@@ -45,4 +45,5 @@
 - glycolysis
 	- anaerobic phase of aerobic respiration
 	- molecule of glucose breaks apart into two molecules of pyruvate
--
+- golgi apparatus
+	- organelle that packages and secretes substances for the cell
