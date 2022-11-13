@@ -47,3 +47,8 @@
 	- molecule of glucose breaks apart into two molecules of pyruvate
 - golgi apparatus
 	- organelle that packages and secretes substances for the cell
+- gross primary productivity
+	- amount of energy converted to chemical energy by photosynthesis per unit time in an ecosystem
+- ground state
+	- not excited ()electron
+	- lowest energy level
