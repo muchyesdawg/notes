@@ -11,4 +11,7 @@
 - heat of vaporization
 	- amount of energy required to change a specified amount of liquid into gas.
 	- water has high heat of vaporization
+- heliobacter pylori
+	- bacteria that causes most ulcers
+- hemocoels
 -
