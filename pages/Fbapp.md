@@ -23,4 +23,5 @@
 - food chain
 	- pathway where food(energy) is transferred from one feeding level to another.
 - founder effect
-	- a small population,
+	- a small population, which is not representative of the larger population
+	- breaks away from a larger one to colonize a new area. Rare alleles may be under
