@@ -21,5 +21,7 @@
 - hermaphrodites
 	- organisms that contain both femal and male sex organs
 - heterotroph hypothesis
-	- theory that c
+	- theory that original cells were anaerobic, heterotrophic prokaryotes
+- heterotrophs
+	- organisms that must take in all their nutrients
 	-
