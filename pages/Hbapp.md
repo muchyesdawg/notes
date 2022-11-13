@@ -1,2 +1,6 @@
 - habituation
-	-
+	- simplest form of learning
+	- when an animal ignores persistent stimulus so it can do whatever it wants
+- half life
+	- amount of time ti takes for radioactive isotope to decay to half its mass
+-
