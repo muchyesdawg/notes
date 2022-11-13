@@ -19,3 +19,7 @@
 	- movement of alleles into or out of a population
 - genetic drift
 	- change in the gene pool due to chance
+	- examples are
+		- bottleneck effect
+		- founder effect
+	-
