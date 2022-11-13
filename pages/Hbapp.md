@@ -14,4 +14,9 @@
 - heliobacter pylori
 	- bacteria that causes most ulcers
 - hemocoels
+	- sinus
+	- cavities in body of insects for exchange of nutrients and wastes
+- hemophillia
+	- inherited disease caused by absence of one or more proteins for normal blood clotting
 -
+	-
