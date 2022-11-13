@@ -13,4 +13,5 @@
 	- primitive digestive cavity in hydra
 - gastrulation
 	- process by which a plastula develops into a gastrula with the formation of three embryonic layers
--
+- gel electrophoresis
+	- process that separates large molecules of dna on the basis of their rate of movement thj
