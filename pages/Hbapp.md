@@ -28,5 +28,6 @@
 	- having two different alleles
 - histamine
 	- an important chemical in the immune system that triggers vasodilation, increasing blood supply to an area
-	- is
+- histones
+	- special proteins that wrap around dna
 	-
