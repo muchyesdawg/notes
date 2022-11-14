@@ -44,5 +44,11 @@
 	- an intermolecular attraction between molecules that exert a strong pull on their electrons.
 	- this attraction keeps the two strands of a DNA molecule together
 - hydrophillic
-	- soluble
+	- soluble in water
+	- are either polar or ionic
+- hydrophobic
+	- insoluble in water
+	- nonpolar
+- hypertonic
+	- having a greater
 	-
