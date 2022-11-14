@@ -38,5 +38,6 @@
 - homologous structures
 	- same internal bone structure, although the function of each varies
 - huntington's disease
-	- a degenerative
+	- a degenerative inherited disease of the nervous system resulting in certain and early eath
+	-
 	-
