@@ -50,5 +50,7 @@
 	- insoluble in water
 	- nonpolar
 - hypertonic
-	- having a greater
+	- having a greater concentration of solute than another solution, as opposed to
+- hypocotyl
+	- part of the embryo
 	-
