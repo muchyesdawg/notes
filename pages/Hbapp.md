@@ -36,5 +36,7 @@
 	- endotherm
 	- animals that maintain consistent body temp
 - homologous structures
-	- same internal bone structure, although
+	- same internal bone structure, although the function of each varies
+- huntington's disease
+	- a degenerative
 	-
