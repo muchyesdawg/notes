@@ -25,6 +25,7 @@
 - heterotrophs
 	- organisms that must take in all their nutrients
 - hetrozygous hybrid
+	- also known as hybrid
 	- having two different alleles
 - histamine
 	- an important chemical in the immune system that triggers vasodilation, increasing blood supply to an area
@@ -39,5 +40,5 @@
 	- same internal bone structure, although the function of each varies
 - huntington's disease
 	- a degenerative inherited disease of the nervous system resulting in certain and early eath
-	-
+- hydrogen bonding
 	-
