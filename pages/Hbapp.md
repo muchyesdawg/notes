@@ -43,5 +43,6 @@
 - hydrogen bonding
 	- an intermolecular attraction between molecules that exert a strong pull on their electrons.
 	- this attraction keeps the two strands of a DNA molecule together
--
+- hydrophillic
+	- soluble
 	-
