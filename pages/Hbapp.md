@@ -52,5 +52,9 @@
 - hypertonic
 	- having a greater concentration of solute than another solution, as opposed to
 - hypocotyl
-	- part of the embryo
+	- part of the embryo in a seed that becomes the lower part of the stem and roots
+- hypothalamus
+	- major gland of brain that is the bridge between endocrine and nervous system
+- hypotonic
+	- having less concentration of solute
 	-
