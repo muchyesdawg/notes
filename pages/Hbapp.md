@@ -34,5 +34,5 @@
 	- internal stability
 - homeotherm
 	- endotherm
-	-
-	-
+	- animals that maintain consistent body temp
+-
