@@ -24,4 +24,9 @@
 	- theory that original cells were anaerobic, heterotrophic prokaryotes
 - heterotrophs
 	- organisms that must take in all their nutrients
+- hetrozygous hybrid
+	- having two different alleles
+- histamine
+	- an important chemical in the immune system that triggers vasodilation, increasing blood supply to an area
+	- is
 	-
