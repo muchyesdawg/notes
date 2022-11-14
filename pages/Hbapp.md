@@ -36,4 +36,5 @@
 	- endotherm
 	- animals that maintain consistent body temp
 - homologous structures
+	- same internal bone structure, although
 	-
