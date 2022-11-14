@@ -31,5 +31,8 @@
 - histones
 	- special proteins that wrap around dna
 - homeostasis
+	- internal stability
+- homeotherm
+	- endotherm
 	-
 	-
