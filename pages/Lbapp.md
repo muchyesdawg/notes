@@ -1,0 +1,32 @@
+- lacteal
+	- structures within the villi that line the small intestine and that absorb fatty acids and glycerol inthe the lymphatic system.
+- lactic acid fermentation
+	- occurs when a body can't keep up iwth the increased demand for oxygen by skeletal muscles
+- law of dominance
+	- Mendel's First law that states that when two organisms, each homozygous for two opposing traits are crossed, the offspring will be hybrid but will only exhibit the dominant trait.
+- law of segregration
+	- during the formation of gametes, the traits carried on homologous chromosomes seperate.
+- learning
+	- sophisticated process in which the response of the organism are modified as a result of experience
+- law of independent assortment
+	- best demonstrated by the dihybrid cross. a cross that is carried out between two individuals hybrid for two or more traits that are not on the same chromosome. results in a phenotype ratio of 9:3:3:1
+- leucoplast
+	- type of plastid that stores starch
+- leukocyte
+	- white blood cells
+- light dependent reactions
+	- part of photosynthesis that doesn't require liight directly, only the products of the light dependent reactions
+- light independent reactions
+	- part of photosynthesis that doesn't require light
+- limiting factor
+	- factor that limits something
+- lipid
+	- type of organic molecule.
+	- consists of one glycerol and 3 fatty acids
+- locomotion
+	- moving from place to place.
+- lysosome
+	- cell organelle that consists of digestive enzymes and is the principle site of intracellular digestion in the cell.
+	-
+	-
+	-

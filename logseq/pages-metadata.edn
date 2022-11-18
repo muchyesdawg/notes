@@ -1,7 +1,4 @@
-[{:block/name "395-396",
-  :block/created-at 1666997529136,
-  :block/updated-at 1666997743155}
- {:block/name "88-91",
+[{:block/name "88-91",
   :block/created-at 1666827382569,
   :block/updated-at 1666831381653}
  {:block/name "a",
@@ -15,7 +12,7 @@
   :block/updated-at 1667522260609}
  {:block/name "appendix",
   :block/created-at 1666997520939,
-  :block/updated-at 1668301743789}
+  :block/updated-at 1668741553455}
  {:block/name "b",
   :block/created-at 1668297157312,
   :block/updated-at 1668297157312}
@@ -91,39 +88,24 @@
  {:block/name "later",
   :block/created-at 1666826996538,
   :block/updated-at 1666826996538}
+ {:block/name "lbapp",
+  :block/created-at 1668741466671,
+  :block/updated-at 1668743622790}
  {:block/name "math",
   :block/created-at 1667522260592,
   :block/updated-at 1667522260592}
- {:block/name "nov 10th, 2022",
-  :block/created-at 1668124238688,
-  :block/updated-at 1668124238688}
- {:block/name "nov 12th, 2022",
-  :block/created-at 1668296557921,
-  :block/updated-at 1668296557921}
- {:block/name "nov 13th, 2022",
-  :block/created-at 1668383719246,
-  :block/updated-at 1668383719246}
- {:block/name "nov 2nd, 2022",
-  :block/created-at 1667523090795,
-  :block/updated-at 1667523090795}
- {:block/name "nov 3rd, 2022",
-  :block/created-at 1667501012512,
-  :block/updated-at 1667501012512}
- {:block/name "nov 5th, 2022",
-  :block/created-at 1667659382674,
-  :block/updated-at 1667659382674}
- {:block/name "nov 8th, 2022",
-  :block/created-at 1667966039952,
-  :block/updated-at 1667966039952}
- {:block/name "nov 9th, 2022",
-  :block/created-at 1668016305805,
-  :block/updated-at 1668016305805}
+ {:block/name "mbapp",
+  :block/created-at 1668741553453,
+  :block/updated-at 1668741553453}
+ {:block/name "minorbapp",
+  :block/created-at 1668739996738,
+  :block/updated-at 1668741283909}
+ {:block/name "nov 17th, 2022",
+  :block/created-at 1668739614598,
+  :block/updated-at 1668739614598}
  {:block/name "now",
   :block/created-at 1666826996538,
   :block/updated-at 1666826996538}
- {:block/name "oct 28th, 2022",
-  :block/created-at 1666997418172,
-  :block/updated-at 1666997418172}
  {:block/name "physics",
   :block/created-at 1667522260592,
   :block/updated-at 1667670960014}

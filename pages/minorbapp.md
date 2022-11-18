@@ -1,0 +1,11 @@
+- ## J
+	- junk
+		- noncoding regions of DNA. most human
+- ## K
+	- karyotype
+		- procedure that analyses the size, shape, and number of chromosomes.
+	- krebs cycle
+		- also known as the citric acid cycle
+		- first stage of aerobic phase of cellular respiration
+		- occurs in the inner matrix of mitochondria
+		-

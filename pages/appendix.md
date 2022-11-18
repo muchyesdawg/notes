@@ -6,4 +6,7 @@
 - [[Fbapp]]
 - [[Gbapp]]
 - [[Hbapp]]
+- [[minorbapp]]
+- [[Lbapp]]
+- [[Mbapp]]
 -
