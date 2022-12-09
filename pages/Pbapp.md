@@ -2,5 +2,12 @@
 	- single super-continent on ancient Earth
 	- it slowly separated into seven separate continents over the course of 150 million years
 	- this evidence of the theory of continental drift
--
+- parallel evolution
+	- two related species that have made similar evolutionary adaptations after their divergence from a common ancestor
+- parasitism
+	- symbiotic relationship
+	- one organisms benefits while harming the other
+- parenchyma cells
+	- traditional-looking plant cell.
+	- has primary cell wall that is thin and flexible but lacks a secondary cell wall.
 	-
