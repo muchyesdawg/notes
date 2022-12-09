@@ -12,4 +12,5 @@
 - notochord
 	- a rod that extends the length of the body
 	- serves as a flexible axis
-	-
+- nucleolus
+	- where components of ribosomes are synthesized
