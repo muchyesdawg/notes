@@ -7,5 +7,12 @@
 - oogenesis
 	- formation of ova by meiotic cell division
 - operant condition
-	-
+	- trial and error learning
+- osmosis
+	- diffusion of water across a membrane
+- ovary
+	- swollen part of pistil of a flower that contains the ovule. one ore more ova are produced
+- oviduct
+	- also called fallopian tube
+	- where fertilization occurs. After ovulation,
 	-
