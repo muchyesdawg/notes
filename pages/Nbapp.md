@@ -10,5 +10,6 @@
 - nondisjunction
 	- an error that sometimes happens during meiosis in which homologous chromosomes fail to seperate.
 - notochord
-	-
+	- a rod that extends the length of the body
+	- serves as a flexible axis
 	-
