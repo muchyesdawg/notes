@@ -1,0 +1,6 @@
+- pangaea
+	- single super-continent on ancient Earth
+	- it slowly separated into seven separate continents over the course of 150 million years
+	- this evidence of the theory of continental drift
+-
+	-
