@@ -14,5 +14,7 @@
 	- swollen part of pistil of a flower that contains the ovule. one ore more ova are produced
 - oviduct
 	- also called fallopian tube
-	- where fertilization occurs. After ovulation,
+	- where fertilization occurs. After ovulation, the egg moves through the oviduct to the uterus
+- ovule
+	-
 	-
