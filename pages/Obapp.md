@@ -6,4 +6,6 @@
 	- animal that normally eat both vegetables and meat in their diet
 - oogenesis
 	- formation of ova by meiotic cell division
+- operant condition
+	-
 	-
