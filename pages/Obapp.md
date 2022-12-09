@@ -19,4 +19,10 @@
 	- where fertilization occurs. After ovulation, the egg moves through the oviduct to the uterus
 - ovule
 	- structure within the ovary of a flower where the ova are produced
-	-
+- oxidation
+	- loss of electrons
+- oxidative phosphorylation
+	- process that provides most of the energy produced during cell respiration
+- oxytocin
+	- hormone secreted by the posterior pituitary that stimulates the uterus
+	- can cause contractions during labor
