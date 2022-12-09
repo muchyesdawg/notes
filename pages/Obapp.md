@@ -1,0 +1,8 @@
+- objective lens
+	- the lens on a light microscope that is the closest to the stage
+- ocular lens
+	- eyepiece of a microscope
+- omnivores
+	- animal that normally eat both vegetables and meat in their diet
+	-
+	-
