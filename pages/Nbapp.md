@@ -1,0 +1,3 @@
+- NAD
+	- nicotinamide adenine dinucleotide
+	- a conenzyme that shuttles protons or electrons from glycolysis and the krebs cycle to the electron transport chain
