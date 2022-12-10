@@ -48,4 +48,4 @@
 		- Niels Bohr
 			- suggested a model of the atom that explained why electrons do not fall into the nucleus and why the light emitted from excited atoms produces the oberved emmision spectra
 			- theorized that the elctrons could occpy exact energy levels.
-			- absorption and emission
+			- absorption and emission of specific wavelengs of light are related to
