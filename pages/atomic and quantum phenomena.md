@@ -44,4 +44,8 @@
 		- Albert Einstein
 			- applied Planck's idea of quantization of electromagnetic radiation
 			- suggested that light is quantized and it consists of massless, particle-like packets that have a specific quantity of energy
-			- these packets came to known as phot
+			- these packets came to be known as photons. determined that the energy of a photon, E, is product of h and frequency
+		- Niels Bohr
+			- suggested a model of the atom that explained why electrons do not fall into the nucleus and why the light emitted from excited atoms produces the oberved emmision spectra
+			- theorized that the elctrons could occpy exact energy levels.
+			- absorption and emission
