@@ -17,4 +17,4 @@
 			- made an experiment with charged rays from uranium crystals, and named then alpha and beta
 			- he determined that they consist of streams of particles.
 			- confirmed that the alpha particle is a doubly charged proton.(now known as a nucleus consisting of two protons and two neutrons)
-			- used radioactive source to fire alpha particles through a thin sheet of gold meold foil
+			- used radioactive source to fire alpha particles through a thin sheet of gold foil
