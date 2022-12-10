@@ -13,6 +13,7 @@
 			- theorized that an atom of matter has a mixture of positive and negative components.
 			- created the "raisin cake model", or the "plum-pudding model".
 		- Ernest Rutherford
+		  collapsed:: true
 			- a student of J.J. Thomson
 			- made an experiment with charged rays from uranium crystals, and named then alpha and beta
 			- he determined that they consist of streams of particles.
@@ -22,3 +23,11 @@
 			- if Thomson's model was right, the distribution of positive and negative components of gold atoms shouldn't greatly affect the path of positive alpha particles.
 			- the evidence he wanted that would reflect his hypothesis was that there shouldn't be too many alpha particles deflected.
 			- the result was some of the alpha particles deflected at extreme angles.
+			- proposed that
+				- the positive region inside the gold atoms were actually concentrated in a very tiny nucleus at its center.
+				- atoms are mostly empty space
+				- majority of the mass of an atom is concentrated in a tiny central nucleus
+				- central nucleus is positively charged.
+				- electrons orbit the nucleus
+				-
+		-
