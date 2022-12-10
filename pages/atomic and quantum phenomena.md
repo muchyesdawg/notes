@@ -14,4 +14,4 @@
 			- created the "raisin cake model", or the "plum-pudding model".
 		- Ernest Rutherford
 			- a student of J.J. Thomson
-			- made an experiment
+			- made an experiment with charged rays from uranium crystals.
