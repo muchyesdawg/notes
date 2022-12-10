@@ -37,4 +37,11 @@
 			- suggested that the oscillations were quantized.
 			- was able to develop a mathematical relationship for the oscillations.
 			- determined that it was based on a constant
-			- called the constant as Plan-
+			- called the constant as Planck's constant
+				- h
+				- 6.63*10^-34 joule⋅seconds
+				- 4.14*10^-15 electron volt⋅seconds.
+		- Albert Einstein
+			- applied Planck's idea of quantization of electromagnetic radiation
+			- suggested that light is quantized and it consists of massless, particle-like packets that have a specific quantity of energy
+			- these packets came to known as phot
