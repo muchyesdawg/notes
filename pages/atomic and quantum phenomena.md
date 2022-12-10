@@ -34,4 +34,7 @@
 			- wanted to explain the color spectrum seen when substances were heated to the point of glowing.
 			- light emitted was due to atomic oscillations.
 			- patterns seen could be explained only if assumed that atomic oscillations had very specific quantities of energy.
-			-
+			- suggested that the oscillations were quantized.
+			- was able to develop a mathematical relationship for the oscillations.
+			- determined that it was based on a constant
+			- called the constant as Plan-
