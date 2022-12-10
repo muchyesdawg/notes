@@ -18,3 +18,4 @@
 			- he determined that they consist of streams of particles.
 			- confirmed that the alpha particle is a doubly charged proton.(now known as a nucleus consisting of two protons and two neutrons)
 			- used radioactive source to fire alpha particles through a thin sheet of gold foil
+			- a screen sensitive to alpha particles surrounded the gold foil to record the strikes of alpha particles
