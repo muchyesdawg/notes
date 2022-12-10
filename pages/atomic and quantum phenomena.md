@@ -1,1 +1,2 @@
-- the theory that matter is composed of indivisible unites, or atoms, come from the ancient greeks.
+- the theory that matter is composed of indivisible unites, or atoms, come from the ancient Greeks.
+- At the turn of the nineteenth century
