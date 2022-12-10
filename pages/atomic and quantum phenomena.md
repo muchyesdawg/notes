@@ -6,8 +6,12 @@
 	- several observations and prominent experiments have led to a greater understanding of atoms.
 	- this section will cover the scientists that made such discoveries.
 		- J.J. Thomson
+		  collapsed:: true
 			- 1897
 			- discovered that even atoms were divisible.
 			- discovered the electron
 			- theorized that an atom of matter has a mixture of positive and negative components.
-			-
+			- created the "raisin cake model", or the "plum-pudding model".
+		- Ernest Rutherford
+			- a student of J.J. Thomson
+			- made an experiment
