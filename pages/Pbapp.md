@@ -10,4 +10,3 @@
 - parenchyma cells
 	- traditional-looking plant cell.
 	- has primary cell wall that is thin and flexible but lacks a secondary cell wall.
-	-
