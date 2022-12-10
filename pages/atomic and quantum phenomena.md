@@ -14,4 +14,7 @@
 			- created the "raisin cake model", or the "plum-pudding model".
 		- Ernest Rutherford
 			- a student of J.J. Thomson
-			- made an experiment with charged rays from uranium crystals.
+			- made an experiment with charged rays from uranium crystals, and named then alpha and beta
+			- he determined that they consist of streams of particles.
+			- confirmed that the alpha particle is a doubly charged proton.(now known as a nucleus consisting of two protons and two neutrons)
+			-
