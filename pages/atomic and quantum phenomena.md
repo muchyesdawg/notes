@@ -19,4 +19,6 @@
 			- confirmed that the alpha particle is a doubly charged proton.(now known as a nucleus consisting of two protons and two neutrons)
 			- used radioactive source to fire alpha particles through a thin sheet of gold foil
 			- a screen sensitive to alpha particles surrounded the gold foil to record the strikes of alpha particles
-			- if Thomson's model was right
+			- if Thomson's model was right, the distribution of positive and negative components of gold atoms shouldn't greatly affect the path of positive alpha particles.
+			- the evidence he wanted that would reflect his hypothesis was that there shouldn't be too many alpha particles deflected.
+			- the result was some of the alpha particles deflected at extreme angles.
