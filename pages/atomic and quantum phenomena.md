@@ -1,4 +1,13 @@
 - introduction
+  collapsed:: true
 	- the theory that matter is composed of indivisible unites, or atoms, come from the ancient Greeks.
-	- At the turn of the nineteenth century, scientists changed a lot of their previous ideas about the composition and behavior of atoms.
--
+	- At the turn of the nineteenth century, scientists changed a lot of their previous ideas about the composition and behavior of atoms
+- development of the atomic theory
+	- several observations and prominent experiments have led to a greater understanding of atoms.
+	- this section will cover the scientists that made such discoveries.
+		- J.J. Thomson
+			- 1897
+			- discovered that even atoms were divisible.
+			- discovered the electron
+			- theorized that an atom of matter has a mixture of positive and negative components.
+			-
