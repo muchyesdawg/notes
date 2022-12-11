@@ -5,4 +5,6 @@
 - Oswald Avery
 	- tried to find the reason for such transformation
 	- found out it was DNA.
-	-
+- Alfred Hershey and and Martha Chase
+	- proved that DNA was the genetic material
+-
