@@ -1,0 +1,7 @@
+- In DNA, there are 3 parts
+	- pentose sugar
+		- ![pentose sugar structure](https://chem.libretexts.org/@api/deki/files/125341/Figure_1.jpg?revision=1)
+		- depending on which side is on top, the end of the DNA will take the name of that and of the sugar.(5' end and 3' end)
+	- phosphate group
+		-
+		-
