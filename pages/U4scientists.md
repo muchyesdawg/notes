@@ -16,4 +16,4 @@
 - Rosalind Franklin
 	- found a picture of DNA's structure by DNA crystallography.
 - James Watson & Francis Crick
-	- used Rosalind's picture to find the
+	- used Rosalind's picture to find the shape of the DNA.
