@@ -11,4 +11,6 @@
 	- found the ATGC pairing rule
 		- Adenine and Guanine are purines
 		- Thymine and Cytosine are Pyrimidines
+		- Adenine and Thymine bond together through 2 hydrogen bonds
+		- Guanine and Cytosine bond together through 3 hydrogen bonds
 		-
