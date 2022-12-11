@@ -13,4 +13,7 @@
 		- Thymine and Cytosine are Pyrimidines
 		- Adenine and Thymine bond together through 2 hydrogen bonds
 		- Guanine and Cytosine bond together through 3 hydrogen bonds
-	-
+- Rosalind Franklin
+	- found a picture of DNA's structure by DNA crystallography.
+- James Watson & Francis Crick
+	- used Rosalind's picture to find the
