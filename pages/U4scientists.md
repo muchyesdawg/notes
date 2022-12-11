@@ -1,1 +1,4 @@
-- Fredrick G
+- Fredrick Griffith
+	- was reseearching for a vaccine for pneumonia
+	- Discovered that if some living cells and some dead cells are mixed, the dead cells can become living again.
+	-
