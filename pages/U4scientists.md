@@ -7,4 +7,8 @@
 	- found out it was DNA.
 - Alfred Hershey and and Martha Chase
 	- proved that DNA was the genetic material
--
+- Erwin Chargaff
+	- found the ATGC pairing rule
+		- Adenine and Guanine are purines
+		- Thymine and Cytosine are Pyrimidines
+		-
