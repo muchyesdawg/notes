@@ -1,4 +1,8 @@
 - Fredrick Griffith
-	- was reseearching for a vaccine for pneumonia
+	- was researching for a vaccine for pneumonia
 	- Discovered that if some living cells and some dead cells are mixed, the dead cells can become living again.
+	- called the change transformation.
+- Oswald Avery
+	- tried to find the reason for such transformation
+	- found out it was DNA.
 	-
