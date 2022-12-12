@@ -13,7 +13,6 @@
 		- an inorganic phosphate group(found anywhere)
 		- bonded to the pentose sugar by phosphodiester bonds.
 	- nitrogen base
-	  collapsed:: true
 		- DNA
 			- ATGC
 		- RNA
