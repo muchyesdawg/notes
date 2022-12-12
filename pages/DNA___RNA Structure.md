@@ -14,3 +14,17 @@
 		- an inorganic phosphate group(found anywhere)
 	- nitrogen base
 		- DNA
+			- ATGC
+		- RNA
+			- AUGC
+		- pyrimidines
+			- Thymine
+			- Cytosine
+			- Uracil
+			- has one ring
+		- purines
+			- Adenine
+			- Guanine
+			- has two rings
+		- Base paring rules
+		-
