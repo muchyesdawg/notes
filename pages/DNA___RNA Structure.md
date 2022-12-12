@@ -9,10 +9,11 @@
 			- RNA
 				- uses Ribose
 	- phosphate group
-	  collapsed:: true
 		- attached to the 5' end of the sugar
 		- an inorganic phosphate group(found anywhere)
+		- bonded to the pentose sugar by phosphodiester bonds.
 	- nitrogen base
+	  collapsed:: true
 		- DNA
 			- ATGC
 		- RNA
@@ -27,4 +28,8 @@
 			- Guanine
 			- has two rings
 		- Base paring rules
-		-
+			- Adenine pairs with Thymine
+				- has two hydrogen bonds
+			- Guanine pairs with Cytosine
+				- has three hydrogen bonds
+			-
