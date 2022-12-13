@@ -21,4 +21,5 @@
 - metaphase
 	- part of mitosis
 	- completely dissolved nucleus and nucleolus
+	- centrioles are at opposite sides
 	-
