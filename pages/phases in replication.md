@@ -20,4 +20,4 @@
 	- centrioles form mitotic spindle
 - metaphase
 	- part of mitosis
-	-
+	- completely dissolved
