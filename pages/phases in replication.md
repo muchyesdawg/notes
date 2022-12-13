@@ -15,7 +15,7 @@
 			- a cell creating organelles required for synthesis
 - prophase
 	- part of mitosis
-	- dissolving of nucleus, nucleolus
+	- dissolving of nuclear membrane, nucleolus
 	- condensing chromatin to chromosomes
 	- centrioles form mitotic spindle
 - metaphase
