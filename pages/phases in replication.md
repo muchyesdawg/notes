@@ -15,4 +15,5 @@
 			- a cell creating organelles required for synthesis
 - prophase
 	- part of mitosis
-	- creat
+	- dissolving of nucleus, nucleolus
+	-
