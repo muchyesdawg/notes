@@ -5,7 +5,10 @@
 	- the longest phase in mitosis
 	- composed of 4 "sub-phases"
 		- g1
+			- a normal cell growing
 		- g0
+			- a cell resting
 		- s
+			-
 		- g2
-		-
+			-
