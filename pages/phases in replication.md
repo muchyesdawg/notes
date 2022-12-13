@@ -2,4 +2,10 @@
 	- there are 6 different phases to replication
 	- replication is used for growth, repair, and reproduction
 - interphase
-	- the longest phase in
+	- the longest phase in mitosis
+	- composed of 4 "sub-phases"
+		- g1
+		- g0
+		- s
+		- g2
+		-
