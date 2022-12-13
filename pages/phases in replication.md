@@ -8,6 +8,7 @@
 			- a normal cell growing
 		- g0
 			- a cell resting
+			- is used to limit amount of cells within a system
 		- s
 			-
 		- g2
