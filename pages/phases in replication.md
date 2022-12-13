@@ -10,6 +10,9 @@
 			- a cell resting
 			- is used to limit amount of cells within a system
 		- s
-			-
+			- DNA replication
 		- g2
-			-
+			- a cell creating organelles required for synthesis
+- prophase
+	- part of mitosis
+	- creat
