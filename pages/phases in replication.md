@@ -19,3 +19,5 @@
 	- condensing chromatin to chromosomes
 	- centrioles form mitotic spindle
 - metaphase
+	- part of mitosis
+	-
