@@ -16,4 +16,6 @@
 - prophase
 	- part of mitosis
 	- dissolving of nucleus, nucleolus
-	-
+	- condensing chromatin to chromosomes
+	- centrioles form mitotic spindle
+- metaphase
