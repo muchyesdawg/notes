@@ -31,4 +31,8 @@
 				- has two hydrogen bonds
 			- Guanine pairs with Cytosine
 				- has three hydrogen bonds
-	-
+	- there are three types of rna
+		- Messenger RNA
+		- Transfer RNA
+		- Ribosomal RNA
+		-
