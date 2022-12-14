@@ -2,3 +2,8 @@
 	- the enzyme helicase separates DNA strands by breaking hydrogen bonds
 	- single strand binding proteins attach to keep the 2 DNA strands seperated
 	- primase RNA Polymerase makes RNA Primers
+	- Then it splits off from here
+		- the lagging strand (5') end
+			- the lagging strand willbe synthesized discontinuously against direction of replication
+			-
+		- the leading strand (3') end
