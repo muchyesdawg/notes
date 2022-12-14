@@ -9,5 +9,5 @@
 			  collapsed:: true
 				- ozaki fragments are series of short segments on the lagging strand.
 			- DNA poleymerase replaces rna primers with dna nucleotides
-			-
+			- ligase maintains integrity by repairing dna.
 		- the leading strand (3') end
