@@ -11,3 +11,5 @@
 			- DNA poleymerase replaces rna primers with dna nucleotides
 			- ligase maintains integrity by repairing dna.
 		- the leading strand (3') end
+			- the leading strand doesn't form ozaki fragments
+			- ligase maintains integrity by repairing dna.
