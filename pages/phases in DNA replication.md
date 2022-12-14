@@ -1,4 +1,4 @@
 - when replicating DNA, there are a lot of steps
 	- the enzyme helicase separates DNA strands by breaking hydrogen bonds
 	- single strand binding proteins attach to keep the 2 DNA strands seperated
-	- primase RNA
+	- primase RNA Polymerase makes RNA Primers
