@@ -4,6 +4,10 @@
 	- primase RNA Polymerase makes RNA Primers
 	- Then it splits off from here
 		- the lagging strand (5') end
-			- the lagging strand willbe synthesized discontinuously against direction of replication
+			- the lagging strand will be synthesized discontinuously against direction of replication
+			- ozaki fragments will form
+			  collapsed:: true
+				- ozaki fragments are series of short segments on the lagging strand.
+			- DNA poleymerase replaces rna primers with dna nucleotides
 			-
 		- the leading strand (3') end
