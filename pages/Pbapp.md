@@ -31,7 +31,38 @@
 	- an inherited disease characterized by the inability to break down the amino acid phenylalanine.
 	- requires elimination of phenylalanine from diet, or else serious mental retardation will result
 - photolysis
-	- process that occurs during the light dependent reactions in which water is ripped apart to provide electrons to replace those lost by chlorophyll α
+	- process that occurs during the light dependent reactions in which water is ripped apart to provide electrons to replace those lost by chlorophyll α, chlorophyll b, carotenoids and phycobilins
+- phycobilins
+	- phtosynthetic pigment
+- pinocytosis
+	- cellular process by which cells take in large dissolved molecules
+	- referred to cell drinking
+- pioneer organisms
+	- first to colonize a barren environment in primary ecological succession
+- pistils
+	- femal part of the flower
+	- consists of an ovary stigma and style
+	- also called carpel
+- pith
+	- specialized region in the root of a plant for storage
+- plasma
+	- liquied portion of the blood
+- plasmodesmata
+	- openings in cell walls of plants for the passage of materials from one cell to another
+- plasmolysis
+	- cell shrinking
+	- occurs when a cell is in a hypertonic environment
+- plastids
+	- organelles found only in plant cells
+- point mutation
+	- mutation in one nucleotide on DNA
+- polarized
+	- condition of an axon of a nerve when it is at rest
+	- also known as resting potential
+	- sodium and potassium are pumped to opposite sides of the membrane
+- polygenic
+	- there are more than two allelic forms of a gene
+- polymerase chain reaction
 	-
 	-
 	-
