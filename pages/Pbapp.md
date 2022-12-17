@@ -10,3 +10,17 @@
 - parenchyma cells
 	- traditional-looking plant cell.
 	- has primary cell wall that is thin and flexible but lacks a secondary cell wall.
+- parthenogenesis
+	- development of an egg without fertilization
+	- resulting adult is haploid
+- pathogen
+	- organism that causes disease
+- pedigree
+	- family that indicates the phenotyupe of one trait being studied for every member of a family
+- peptidase
+	- enzymes that break down proteins into amino acids
+- PGAL
+	- ((63896930-80ae-4a92-a60e-0c084d5c45a4))
+- phagocytosis
+	-
+	-

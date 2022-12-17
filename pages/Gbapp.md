@@ -1,4 +1,5 @@
 - G3P
+  id:: 63896930-80ae-4a92-a60e-0c084d5c45a4
 	- glyceraldehyde 3 phosphate
 	- PGAL
 	- first sugar produced by photosynthesis
