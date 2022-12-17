@@ -70,5 +70,5 @@
 	- vase shaped body
 - polyploid
 	- an organism with extra sets of chromosomes
-	- commonly occurs in plants. m
+	- commonly occurs in plants.
 	-
