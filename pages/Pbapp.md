@@ -31,7 +31,8 @@
 	- an inherited disease characterized by the inability to break down the amino acid phenylalanine.
 	- requires elimination of phenylalanine from diet, or else serious mental retardation will result
 - photolysis
-	- process that occurs during the light dependent reactions in which water is ripped apart to provide electrons to replace those lost by chlorophyll _a_
+	- process that occurs during the light dependent reactions in which water is ripped apart to provide electrons to replace those lost by chlorophyll α
+	-
 	-
 	-
 	-
