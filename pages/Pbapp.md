@@ -66,5 +66,9 @@
 	- cell free, automated technique by which a piece of DNA can be rapidly copied or amplified
 - polymers
 	- molecules that are chains of repeating units
-	-
+- polyp
+	- vase shaped body
+- polyploid
+	- an organism with extra sets of chromosomes
+	- commonly occurs in plants. m
 	-
