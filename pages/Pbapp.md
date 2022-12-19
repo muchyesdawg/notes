@@ -71,4 +71,15 @@
 - polyploid
 	- an organism with extra sets of chromosomes
 	- commonly occurs in plants.
+- polysaccharides
+	- molecules that consist of many monosaccharides joined together
+- population
+	- group of indivduals of one species living in one area that have the ability of interbreeding and interacting with each other
+- precision
+	- exact
+- primary growth
+	- vertical growth of a plant
+- prions
+	- misfolded proteins that cause mad cow disease
+-
 	-
