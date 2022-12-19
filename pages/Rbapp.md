@@ -1,4 +1,26 @@
 - radioisotopes
-- radioactive isotopes
-- decays as they emit particles from the nucleus
+	- radioactive isotopes
+	- decays as they emit particles from the nucleus
+- reabsorption
+	- nephron of the kidneys
+	- most of the water and solutes that initially entered the tubule during filtration are transported back into the capillaries and back to the body
+- receptor mediated endocytosis
+	- process by which cells take in specific molecules for which the cell has the specific receptor
+- recognition sequences
+	- also called sites
+	- specific sites on dna that restriction enzymes cut
+- recominant dna
+	- taking dna from two sources and combining them into a molecule or cell
+- redox
+	- combination of reduction and oxidation reactions
+- reduction
+	- gaining electrons
+- reduction division
+	- another name of meiosis 1
+	- division where homologous pairs separate
+- regulation
+	- ability to maintain internal stability
+	- ((63896930-a556-4ee8-be28-f3481b6e94bd))
+- releaser
+	-
 	-
