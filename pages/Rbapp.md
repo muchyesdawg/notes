@@ -22,5 +22,8 @@
 	- ability to maintain internal stability
 	- ((63896930-a556-4ee8-be28-f3481b6e94bd))
 - releaser
-	-
+	- sign stimuli exchanged between members of the same species
+- replication bubbles
+	- sections of DNA where the two strands separate in order to enable replication
+	- speeds up the process of replication along the giant human DNA molecule
 	-
