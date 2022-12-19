@@ -81,5 +81,13 @@
 	- vertical growth of a plant
 - prions
 	- misfolded proteins that cause mad cow disease
--
+- prokaryotes
+	- cells that have no internal membranes or internal organelles, like nuclei or mitochondria
+- pseudocoelomate
+	- animal with false coelom
+- psuedopods
+	- false feet
+- puberty
+	- onset of menstrual cycle in girls and sperm production of boys
+- punctuated equilibrium
 	-
