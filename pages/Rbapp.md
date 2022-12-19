@@ -1,0 +1,4 @@
+- radioisotopes
+- radioactive isotopes
+- decays as they emit particles from the nucleus
+	-

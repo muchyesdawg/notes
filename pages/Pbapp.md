@@ -90,4 +90,12 @@
 - puberty
 	- onset of menstrual cycle in girls and sperm production of boys
 - punctuated equilibrium
+	- theory that proposes that new species appear suddenly after long periods of stasis
+- purines
+	- adenine and guanine
+- pyloric sphincter
+	- band of muscle at the bottom of the stomach that keeps food in the stomach long enough to be digested
+- pyrimidines
+	- thymine and cytosine
+	-
 	-
