@@ -26,4 +26,6 @@
 - replication bubbles
 	- sections of DNA where the two strands separate in order to enable replication
 	- speeds up the process of replication along the giant human DNA molecule
+- replication bubbles
+	- a y shaped region where the new strands of DNA are enlongating during dna replication
 	-
