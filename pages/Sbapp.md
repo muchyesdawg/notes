@@ -12,5 +12,27 @@
 - secretin
 	- digestive hormone that stimulates pancrease to release bicarbonate to neutralize acid from duodenum
 - secretion
+	- occurs in the tubule of nephron
+	- an active selective update of molecules that did not get filtered into bowman's capsule
+- semiconservative replication
+	- the way in which DNA replicates itself.
+	- new DNA molecule consists of one old and one new strand.
+- sepals
+	- outermost circle of leaves around a flower
+- serum
+	- plasma without clotting factors
+- sessile
+	- nonmoving
+- sex-influenced trait
+	- inheritance is influenced by the sex of the individuals carrying the traits
+- sex-linked
+	- traits carried on the x chromosome
+- sieve tube elements
+	- make up phloem, along with companion cells
+- sign stimuli
+  id:: 63a531d9-1ed5-4c32-8752-8e249c27a090
+	- initiates a fixed action pattern
+- Sinoatrial node
+	- pacemaker of the heart
 	-
 	-

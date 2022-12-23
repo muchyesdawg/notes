@@ -19,7 +19,7 @@
 - fixed action pattern
 	- innate, highly stereotypical behavior
 	- when begun, will continue until completion, no matter how useless.
-	- initiated by external stimuli called sign stimuli[[Sbapp]]
+	- initiated by external stimuli called ((63a531d9-1ed5-4c32-8752-8e249c27a090))
 - food chain
 	- pathway where food(energy) is transferred from one feeding level to another.
 - founder effect
