@@ -34,5 +34,12 @@
 	- measure of clarity of an image seen under a microscope
 - respiration
 	- metabolic processes that produce ((63896930-c04b-4418-ad8c-3ccf9834732a)) for all the life processes
-	-
+- restirction enzymes
+	- extracted from bacteria
+	- cut DNA at specific recognition sequences or sites
+- restriction fragments
+	- fragments of DNA that result from cuts made by restriction enzymes
+- rhizobium
+	- symbiotic bacterium that lives in the nodules on roots of specific legumes and that fixes nitrogen gas from air
+-
 	-
