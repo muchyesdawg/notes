@@ -41,5 +41,10 @@
 	- fragments of DNA that result from cuts made by restriction enzymes
 - rhizobium
 	- symbiotic bacterium that lives in the nodules on roots of specific legumes and that fixes nitrogen gas from air
--
+- Ribosomal RNA
+	- structural RNA that is synthesized in the nucleolus
+- ribosome
+	- structure in cells where proteins are synthesized
+- RNA processing
+	- occurs in the nucleus before the newly formed mRNA is sent out to the ribosome
 	-
