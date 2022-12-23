@@ -27,5 +27,12 @@
 	- sections of DNA where the two strands separate in order to enable replication
 	- speeds up the process of replication along the giant human DNA molecule
 - replication bubbles
-	- a y shaped region where the new strands of DNA are enlongating during dna replication
+	- a y shaped region where the new strands of DNA are elongating during DNA replication
+- reproduction
+	- ability to create offsprings
+- resolution
+	- measure of clarity of an image seen under a microscope
+- respiration
+	- metabolic processes that produce ((63896930-c04b-4418-ad8c-3ccf9834732a)) for all the life processes
+	-
 	-

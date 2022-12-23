@@ -87,6 +87,7 @@
 	- one type of learning in which one stimulus becomes linked to another through experience
 - atp
   collapsed:: true
+  id:: 63896930-c04b-4418-ad8c-3ccf9834732a
 	- adenosine triphosphate
 	- special high energy molecule that stores energy for immediate us in cells
 - atp synthetase
