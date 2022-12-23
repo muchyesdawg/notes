@@ -1,0 +1,16 @@
+- saprobes
+	- organisms that obtain food from decaying organic matter
+- sclerenchyma cells
+	- plant cells that have very thick primary and secondary cell walls
+	- fortified with lignin
+	- only used for support
+- scrotum
+	- sac outside abdominal cavity that holdes the testes
+	- cooler temperature there enables sperm to survive
+- secondary growth
+	- lateral growth of a plant
+- secretin
+	- digestive hormone that stimulates pancrease to release bicarbonate to neutralize acid from duodenum
+- secretion
+	-
+	-
