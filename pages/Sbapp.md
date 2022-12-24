@@ -57,5 +57,22 @@
 	- formation of sperm by meiosis
 - spindle fibers
 	- made of microtubules
-	-
+	- assist in cell division
+- spontaneous generation
+	- theory that living things emerge from nonliving or inanimate objects
+- sporophyte
+	- diploid generation of a plant
+- sporopollenin
+	- a polymer that is resistant to almost all kinds of environmental damage and that protests plants in a harsh terrestrial environment
+	- found in walls of spores and pollen
+- stabilizing selection
+	- type of natural selection that eliminates the extremes and favors common forms
+- stamen
+	- male part of the flower
+	- consists of anther and filament
+- stele
+	- vascular cylinder in a plant root
+- stomates
+	- openings in leaves to exchange photosynthetic gasses
+- stroma
 	-
