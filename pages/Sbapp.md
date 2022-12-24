@@ -34,5 +34,16 @@
 	- initiates a fixed action pattern
 - Sinoatrial node
 	- pacemaker of the heart
-	-
+- sinuses
+	- cavities in the body for exchange of fluid
+- sister chromatids
+	- replicated chromosome consists two of these
+- spliceosomes
+	- special molecules that assist in the editing of mRNA during RNA processing
+- sodium potassium pump
+	- elaborate molecule that sits within neuron membranes
+	- pumps sodium and potassium ions across the membrane
+- solute
+	- substance that does the dissolving
+-
 	-
