@@ -45,5 +45,17 @@
 	- pumps sodium and potassium ions across the membrane
 - solute
 	- substance that does the dissolving
--
+- somatic cells
+	- body cells
+- somatic system
+	- part of the nervous system that controls voluntary muscles
+- species
+	- population whose members have the potential to interbreed and produce viable fertile offspring
+- specific heat
+	- amount of heat thjat must be absorbed in order for 1 gram of a substance to change its temperature by 1 degree celsius
+- spermatogenesis
+	- formation of sperm by meiosis
+- spindle fibers
+	- made of microtubules
+	-
 	-
