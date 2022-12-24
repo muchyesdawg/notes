@@ -75,4 +75,16 @@
 - stomates
 	- openings in leaves to exchange photosynthetic gasses
 - stroma
-	-
+	- part of the chloroplasts that holds the grana
+- style
+	- long stallk of the pistil of a flower
+- substrate level phosphorylation
+	- process where atp is produced as a special enzyme that moves a phosphate from one molecule to adp
+- symplast
+	- system of transport within a plant consisting of openings in cell walls called plasmodesmata
+- synapsis
+	- process which homologous chromosomes pair up
+- synthesis
+	- combining small molecules or substances into larger complex ones
+- systole
+	- contraction of the ventricles of the heart
