@@ -53,5 +53,9 @@
 - translocation
 	- fragment of a chromosome becomes attach to a nonhomologous chromosome
 - transcription
-	- loss of water from
+	- loss of water from a leaf of a plant through stomates
+- transport
+	- intake and distribution of substances in cells or tissue
+	- not the same as locomotion
+-
 	-
