@@ -20,5 +20,15 @@
 	- used to protect DNA during cell division
 - territory
 	- area an organism defends from other members
+- testcross
+	- ((63896930-6baa-4529-9f2f-141f44e3601e))
+- testes
+	- testis singular
+	- male gonads
+- theory of endosymbiosis
+	- this theory states that cell organelles were once free living prokaryotic organisms that took up permanent residence inside larger prokaryotic organisms
+- thermophiles
+	- organisms that thrive in very high temperatures
+- thrombocytes
 	-
 	-

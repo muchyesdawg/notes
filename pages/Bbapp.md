@@ -1,4 +1,5 @@
 - backcross
+  id:: 63896930-6baa-4529-9f2f-141f44e3601e
 	- testcross
 	- technique to determine whether an individual plant or animal showing the dominant trait is homozygous dominant or hetrozygous
 - bacterial transformation
