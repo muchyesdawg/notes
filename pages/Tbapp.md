@@ -1,0 +1,18 @@
+- taproot
+	- single, large root like a carrot
+- taxon
+	- levels of organisations in our system of classification
+		- domain
+		- kingdom
+		- phylum
+		- class
+		- order
+		- family
+		- genus
+		- species
+- taxonomy
+	- system to name and classify all organisms
+- tay-sachs disease
+	- an inherited disease with onset early in life
+	-
+	-
