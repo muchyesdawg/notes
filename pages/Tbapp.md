@@ -30,5 +30,28 @@
 - thermophiles
 	- organisms that thrive in very high temperatures
 - thrombocytes
-	-
+	- platelets
+- thylakoids
+	- specialized membranes that make up grana in chloroplasts
+	- site of light dependent reactions
+- tracer
+	- radioactive substance that is used to track substances as it moves through organisms or a metabolic pathway
+	- used in research or as a diagnostic tool in medicine
+- tracheids
+	- cells that make up xylem
+- transcription
+	- process by which DNA makes RNA
+- transfer RNA
+	- tRNA
+	- carries amino acids to the mRNA at the ribosome as proteins are synthesized
+- transformation
+	- phenomenon in bacteria.
+	- they have the ability to transform themselves by transferring genetic factors from one bacteria cell to another
+- translation
+	- process in which dna code is translated into amino acid sequence and a polypeptide is formed
+	- occurs at the ribosome
+- translocation
+	- fragment of a chromosome becomes attach to a nonhomologous chromosome
+- transcription
+	- loss of water from
 	-
