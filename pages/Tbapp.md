@@ -14,5 +14,11 @@
 	- system to name and classify all organisms
 - tay-sachs disease
 	- an inherited disease with onset early in life
+	- caused by the lack of enzyme necessary to break down lipids needed for normal brain function
+- telomeres
+	- special nonsense nucleotide sequences located at the ends of chromosomes that repeate thousands of times
+	- used to protect DNA during cell division
+- territory
+	- area an organism defends from other members
 	-
 	-
