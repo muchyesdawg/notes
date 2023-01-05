@@ -40,4 +40,10 @@
 	- Wave of depolarization
 		- condition of an axon when an impulse is passing
 		- referred to as an action potential
--
+- ## X
+	- xylem
+		- vessels in plants that carry water and nutrients from the soil to the rest of the plant
+- ## Y
+	- yolk sac
+	- membrane that encloses the yolk of an egg
+	- food for the growing embryo
