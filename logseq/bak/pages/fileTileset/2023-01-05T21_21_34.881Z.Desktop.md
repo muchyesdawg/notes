@@ -1,0 +1,3 @@
+- have several proprietary files
+- use numbers encrypted in bins to store files
+-

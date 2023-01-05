@@ -57,5 +57,21 @@
 - transport
 	- intake and distribution of substances in cells or tissue
 	- not the same as locomotion
--
+- trichomes
+	- tine spikelike projections on some leaves for protection
+- triploblastic
+	- animal consisting of three cell layers.
+	- includes every animal more sophisticated than flatworms
+- trisomy
+	- having a chromosome in triplicate instead of duplicate
+	- down syndrome is caused by this
+- Tropic hormones
+	- hormones that stimulate other glands to release their hormones
+- tropism
+	- growth of a plant tworad or away from a stimulus
+- turgid
+	- property of plant cells
+	- swollen
+- turgor pressure
+	- pressure exerted when a plant cell swells
 	-

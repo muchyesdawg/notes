@@ -8,4 +8,12 @@
 		- also known as the citric acid cycle
 		- first stage of aerobic phase of cellular respiration
 		- occurs in the inner matrix of mitochondria
-		-
+- ## U
+	- ultracentrifuge
+		- machine that spins mashed tissue so that it separates homogenate into pellets of different organelles
+	- urethra
+		- tube that carries semen and urine in males
+		- carries only urine in females
+	- uterus
+		- where the
+	-
