@@ -1,5 +1,6 @@
 - have several proprietary files
 - use numbers encrypted in hex to store data
 - use data to create map
--
--
+- have two files
+	- one file dictates the entire world and how the tileset and crap are laid out, what is exchangeable, what isnt
+	- another dictates the specific level and how the level is laid out, the background, etc.
