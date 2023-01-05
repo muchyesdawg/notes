@@ -15,5 +15,29 @@
 		- tube that carries semen and urine in males
 		- carries only urine in females
 	- uterus
-		- where the
-	-
+		- where the blastula stage of the embryo implants and develops during the nine months of gestation if fertilization occurs
+- ## V
+	- vacuoles
+		- organelles in cells whose only function is storage
+	- vagina
+		- birth canal
+	- vas deferens
+		- duct that carries sperm during ejaculation from the testes to the penis
+	- vegetative propagation
+		- asexual reproduction in a plant where a piece of the root, stem, or leaf produces an entirely new plant genetically identical to the parent
+	- vesicles
+		- small vacuoles
+	- vessel elements
+		- structures that make up xylem
+	- vestigial structures
+		- structures that are remnants of an earlier active structure, such as the appendix
+	- villus
+		- millions of fingerlike projections that line the small intestine and absorb all nutrients that were previously released from digested food
+	- visible spetrum
+		- wavelengths of light that humans can see
+		- 380nm to 750 nm
+- ## W
+	- Wave of depolarization
+		- condition of an axon when an impulse is passing
+		- referred to as an action potential
+-
