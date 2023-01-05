@@ -1,3 +1,5 @@
 - have several proprietary files
-- use numbers encrypted in bins to store files
+- use numbers encrypted in hex to store data
+- use data to create map
+-
 -
