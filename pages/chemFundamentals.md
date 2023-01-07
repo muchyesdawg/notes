@@ -2,9 +2,11 @@
 	- a table of elements
 	- organised in groups(vertical columns) and periods(horizontal columns)
 	- shows atomic number of the elements
+	  collapsed:: true
 		- atomic number shows amount of protons within an atom
 		- 1 proton equates to one amu(atmoic mass unit)
 	- shows subshell areas
+	  collapsed:: true
 		- group 1(1A) and 2(2A) are the s subshell
 			- s subshell contains two electrons
 		- group 3 to 12 are the d subshell
@@ -14,3 +16,14 @@
 			- metals, metalloids and noble gases
 			- contains 6 electrons
 			- excludes helium(but still a noble gas)
+- atoms
+	- have a nucleus
+		- nucleus has protons and neutrons
+			- protons are positively charged
+			- neutrons are neutral
+			- both have 1 amu
+			- atomic weight is the sum of number of protons and number of neutrons
+			- protons define the element but neutrons define its variant
+			-
+	- have electrons in an orbital(the spdf subshells)
+	-
