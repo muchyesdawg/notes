@@ -19,7 +19,6 @@
 			- excludes helium(but still a noble gas)
 - atoms
 	- have a nucleus
-	  collapsed:: true
 		- nucleus has protons and neutrons
 			- protons are positively charged
 			- neutrons are neutral
@@ -28,12 +27,25 @@
 			- protons define the element but neutrons define its variant
 			- atoms with different amount of protons are different elements
 			- atoms with the same amount of protons but different amount of neutrons are the same element but different isotopes
-			- isotopes are atoms that are the same elements but vary in neutrons
+				- isotopes are atoms that are the same elements but vary in neutrons
+				- isotopes can be chemically identical but very different
+					- example:
+						- carbon-12 and carbon-14 are isotopes of carbon
+						- carbo
 	- have electrons
 		- exist in an orbital(the spdf subshells)
+		  collapsed:: true
 			- atoms (normally) have the same amount electrons as there are protons
+			  collapsed:: true
 				- if number of protons and electrons aren't equal, the atoms becomes an ion
+				  collapsed:: true
 					- a cation is when there are less electrons than protons
-						- since protons are positively charged, the
+					  collapsed:: true
+						- since protons are positively charged, the protons overpower the electrons and the atom becomes positively charged(becomes a cation)
+					- an anion is when there are more electrons than protons
+					  collapsed:: true
+						- since electrons are negatively charged charged, the electrons overpower the protons and the atom becomes negatively charged(becomes a anion)
+		- are used for bonding
+		-
 - bonds
 	-
