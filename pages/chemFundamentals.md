@@ -19,6 +19,7 @@
 			- excludes helium(but still a noble gas)
 - atoms
 	- have a nucleus
+	  collapsed:: true
 		- nucleus has protons and neutrons
 			- protons are positively charged
 			- neutrons are neutral
@@ -29,8 +30,10 @@
 			- atoms with the same amount of protons but different amount of neutrons are the same element but different isotopes
 			- isotopes are atoms that are the same elements but vary in neutrons
 	- have electrons
-		- exist in  an orbital(the spdf subshells)
+		- exist in an orbital(the spdf subshells)
 			- atoms (normally) have the same amount electrons as there are protons
-				- if
+				- if number of protons and electrons aren't equal, the atoms becomes an ion
+					- a cation is when there are less electrons than protons
+						- since protons are positively charged, the
 - bonds
 	-
