@@ -47,9 +47,11 @@
 	- an intermolecular attraction between molecules that exert a strong pull on their electrons.
 	- this attraction keeps the two strands of a DNA molecule together
 - hydrophillic
+  id:: 63896930-9e0f-4373-9b14-4131f25fc845
 	- soluble in water
 	- are either polar or ionic
 - hydrophobic
+  id:: 63896930-3bba-46c8-bb6a-559122e7c1b3
 	- insoluble in water
 	- nonpolar
 	  id:: 63896930-8f45-4823-ae3c-92580099368d

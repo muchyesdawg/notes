@@ -57,7 +57,9 @@
 				- ((63b9c5ca-c674-45f2-b863-63ca13fa7426))
 				- ((63896930-4ad3-4361-ac85-b74301e9aad5))
 				- ((63896930-dd21-4d6e-8bfd-6376aebc8b0d))
+					- is one of the factors of determining of something is ((63896930-9e0f-4373-9b14-4131f25fc845)) or ((63896930-3bba-46c8-bb6a-559122e7c1b3))
 					- has two types
+						- is one of the factors of determining of something is ((63896930-9e0f-4373-9b14-4131f25fc845)) or ((63896930-3bba-46c8-bb6a-559122e7c1b3))
 						- polar
 							- electrons shared non equally
 							- has no partial charge
@@ -68,5 +70,4 @@
 							- electrons shared equally
 							- has partial charge
 							- formed between any two atoms that are alike
-				- ((63896930-4ad3-4361-ac85-b74301e9aad5))
-				-
+	-
