@@ -109,6 +109,7 @@
 	- food for the growing embryo in a dicot seed. the cell that make up the cotyledon are triploid
 - covalent bonds
   collapsed:: true
+  id:: 63896930-dd21-4d6e-8bfd-6376aebc8b0d
 	- bonds formed between atoms where electrons are shared
 - crassulacean acid metabolism(CAM)
   collapsed:: true

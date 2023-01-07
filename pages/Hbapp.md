@@ -43,6 +43,7 @@
 - huntington's disease
 	- a degenerative inherited disease of the nervous system resulting in certain and early eath
 - hydrogen bonding
+  id:: 63896930-4ad3-4361-ac85-b74301e9aad5
 	- an intermolecular attraction between molecules that exert a strong pull on their electrons.
 	- this attraction keeps the two strands of a DNA molecule together
 - hydrophillic
