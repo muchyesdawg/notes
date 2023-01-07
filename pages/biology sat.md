@@ -1,2 +1,2 @@
+- [[chemFundamentals]](are basically the same)
 - [[appendix]]
--
