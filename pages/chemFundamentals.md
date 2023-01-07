@@ -1,4 +1,5 @@
 - periodic table
+  collapsed:: true
 	- a table of elements
 	- organised in groups(vertical columns) and periods(horizontal columns)
 	- shows atomic number of the elements
@@ -27,5 +28,9 @@
 			- atoms with different amount of protons are different elements
 			- atoms with the same amount of protons but different amount of neutrons are the same element but different isotopes
 			- isotopes are atoms that are the same elements but vary in neutrons
-	- have electrons in an orbital(the spdf subshells)
+	- have electrons
+		- exist in  an orbital(the spdf subshells)
+			- atoms (normally) have the same amount electrons as there are protons
+				- if
+- bonds
 	-
