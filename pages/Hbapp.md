@@ -2,6 +2,7 @@
 	- simplest form of learning
 	- when an animal ignores persistent stimulus so it can do whatever it wants
 - half life
+  id:: 63896930-8f4e-4efc-afbb-f8b1259c222d
 	- amount of time ti takes for radioactive isotope to decay to half its mass
 - halophiles
 	- organisms that thrive in environments with high salt concentrations like utah's great salt lakes

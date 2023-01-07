@@ -19,6 +19,7 @@
 			- excludes helium(but still a noble gas)
 - atoms
 	- have a nucleus
+	  collapsed:: true
 		- nucleus has protons and neutrons
 			- protons are positively charged
 			- neutrons are neutral
@@ -31,7 +32,12 @@
 				- isotopes can be chemically identical but very different
 					- example:
 						- carbon-12 and carbon-14 are isotopes of carbon
-						- carbo
+						- carbon-12 and carbon-14 both have 6 protons and electrons
+						- carbon-12 has 6 neutrons while carbon-14 has 8
+						- isotopes, like carbon-14, are radioactive, thus are called ((63b2624c-f5fb-4bc0-9db1-effa51a49dc4))
+						- ((63b2624c-f5fb-4bc0-9db1-effa51a49dc4)) emits particles and decay at a known rate
+						  collapsed:: true
+							- this is called ((63896930-8f4e-4efc-afbb-f8b1259c222d))
 	- have electrons
 		- exist in an orbital(the spdf subshells)
 		  collapsed:: true
@@ -46,6 +52,4 @@
 					  collapsed:: true
 						- since electrons are negatively charged charged, the electrons overpower the protons and the atom becomes negatively charged(becomes a anion)
 		- are used for bonding
-		-
-- bonds
-	-
+			-

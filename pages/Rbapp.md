@@ -1,4 +1,5 @@
 - radioisotopes
+  id:: 63b2624c-f5fb-4bc0-9db1-effa51a49dc4
 	- radioactive isotopes
 	- decays as they emit particles from the nucleus
 - reabsorption
