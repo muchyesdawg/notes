@@ -2,4 +2,11 @@
 	- a table of elements
 	- organised in groups(vertical columns) and periods(horizontal columns)
 	- shows atomic number of the elements
-		- atomic numbe
+		- atomic number shows amount of protons within an atom
+		- 1 proton equates to one amu(atmoic mass unit)
+	- shows subshell areas
+		- group 1 and 2 are the s subshell
+			- s subshell contains two electrons
+		- group 3 to 13 are the d subshell
+			- transition metals
+			- contains
