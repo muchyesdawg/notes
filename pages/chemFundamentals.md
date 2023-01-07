@@ -24,6 +24,8 @@
 			- both have 1 amu
 			- atomic weight is the sum of number of protons and number of neutrons
 			- protons define the element but neutrons define its variant
-			-
+			- atoms with different amount of protons are different elements
+			- atoms with the same amount of protons but different amount of neutrons are the same element but different isotopes
+			- isotopes are atoms that are the same elements but vary in neutrons
 	- have electrons in an orbital(the spdf subshells)
 	-
