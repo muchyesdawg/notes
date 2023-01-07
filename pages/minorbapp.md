@@ -1,6 +1,7 @@
 - ## I
 	- imprinting
-		- learniing that occurs during
+		- learning that occurs during a sensitive or critical period in the early life of an individual
+	- incomplet
 		-
 - ## J
 	- junk
