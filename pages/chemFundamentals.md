@@ -52,4 +52,6 @@
 					  collapsed:: true
 						- since electrons are negatively charged charged, the electrons overpower the protons and the atom becomes negatively charged(becomes a anion)
 		- are used for bonding
-			-
+			- a bond is formed when two atomic nuclei attract the same electrons
+			- exists in different types
+				- (())
