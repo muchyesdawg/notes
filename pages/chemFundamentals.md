@@ -1,0 +1,5 @@
+- periodic table
+	- a table of elements
+	- organised in groups(vertical columns) and periods(horizontal columns)
+	- shows atomic number of the elements
+		- atomic numbe
