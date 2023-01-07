@@ -5,8 +5,12 @@
 		- atomic number shows amount of protons within an atom
 		- 1 proton equates to one amu(atmoic mass unit)
 	- shows subshell areas
-		- group 1 and 2 are the s subshell
+		- group 1(1A) and 2(2A) are the s subshell
 			- s subshell contains two electrons
-		- group 3 to 13 are the d subshell
+		- group 3 to 12 are the d subshell
 			- transition metals
-			- contains
+			- contains 10 electrons
+		- groups 13(3A) to 18(8A) are the p subshell
+			- metals, metalloids and noble gases
+			- contains 6 electrons
+			- excludes helium(but still a noble gas)
