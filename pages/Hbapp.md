@@ -52,6 +52,7 @@
 - hydrophobic
 	- insoluble in water
 	- nonpolar
+	  id:: 63896930-8f45-4823-ae3c-92580099368d
 - hypertonic
   id:: 6371aef9-a285-44b4-bdbf-97eda607e400
 	- having a greater concentration of solute than another solution, as opposed to ((6371af68-72c0-497e-9e56-6134f3c01c59))

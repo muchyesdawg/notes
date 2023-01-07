@@ -55,7 +55,18 @@
 			- a bond is formed when two atomic nuclei attract the same electrons
 			- exists in different types
 				- ((63b9c5ca-c674-45f2-b863-63ca13fa7426))
+				- ((63896930-4ad3-4361-ac85-b74301e9aad5))
 				- ((63896930-dd21-4d6e-8bfd-6376aebc8b0d))
-				-
+					- has two types
+						- polar
+							- electrons shared non equally
+							- has no partial charge
+							- formed between any two atoms that aren't alike
+							- is the basis of ((63896930-4ad3-4361-ac85-b74301e9aad5))
+						- nonpolar
+						  id:: 63b9c69b-d4ef-4d74-9ac9-246bc3d426ff
+							- electrons shared equally
+							- has partial charge
+							- formed between any two atoms that are alike
 				- ((63896930-4ad3-4361-ac85-b74301e9aad5))
 				-
