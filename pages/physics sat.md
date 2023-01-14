@@ -1,3 +1,4 @@
 - [[thermondynamics]]
 - [[atomic and quantum phenomena]]
+- [[nuclear reactions]]
 -
