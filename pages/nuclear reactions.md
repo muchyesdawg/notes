@@ -6,6 +6,6 @@
 			- since the atomic number is the number of protons only, the number of neutrons can be deduced.
 		- the mass number is also the atomic mass.
 		- the mass number is also the molar mass.(mass of one mole of atoms)
-			-
+			- measured in grams per mole
 - subatomic particles
-	- fundamen
+	- fundamental particles
