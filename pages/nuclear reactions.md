@@ -1,0 +1,5 @@
+- atomic number and mass number
+	- when the symbol for an element is used in a nuclear reaction, the atomic number and the mass number are written as subscripts and superscripts preceding the element's symbol.
+	- the atomic number is the number of protons in an atom. the number of protons defines an element.
+- subatomic particles
+-
