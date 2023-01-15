@@ -59,4 +59,4 @@
 		- example:
 			- 12^6_C, 13^6_C, 14^6_C, with 6, 7, and 8 respectively.
 			- 1^1_h and 2^1_h are isotopes of hydrogen, but if all the was made of the latter and not the former, then we would've gone extinct a long time ago
-	- this means that the atomic
+	- this means that the atomic number may stay the same, but the mass numbercan chan ge very much.
