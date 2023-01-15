@@ -43,4 +43,6 @@
 - beta particles
 	- an electron produced when a neutron undergoes a transmutation to become a proton
 	- more info about neutrons: [[chemFundamentals]]((63c33173-3b84-43b2-abe4-e38481d8a6ab))
-	-
+	- BETA PARTICLES ARE ELECTRONS
+	- it and electrons have too little mass to affect atomic mass noticeably.
+	- has
