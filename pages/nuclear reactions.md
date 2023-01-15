@@ -14,4 +14,11 @@
 	- fundamental particles, like protons and neutrons, are most likely to be encountered in nuclear reactions.
 	- |Name                             |symbol|charge|rest mass(u)|
 	  |--|--|--|--|
-	  |proton||||
+	  |proton|1^1_|+1|1.00728|
+	  |electron|0^-1_|-1|0.00055|
+	  |neutron|1^_0|0|1.00866|
+	  |neutrino|ν_e|0|nearly zero|
+	  |antineutrino|̅νe|0|nearly zero|
+	  |alpha particle(helium nucleus)||||
+	  |beta particle||||
+	  |gama radiation||||
