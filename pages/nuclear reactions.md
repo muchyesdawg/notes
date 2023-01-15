@@ -48,4 +48,6 @@
 	- beta particles and electrons has an atomic number of negative one
 	- its basically an electron that got shot out of a nucleus.
 - gamma ray
-	-
+	- protons and neutrons can move between energy levels within the nucleus.
+	- nuclear reactions can excite nucleons to higher energy levels (nucleons as in protons and neutrons)
+	- when nucleons
