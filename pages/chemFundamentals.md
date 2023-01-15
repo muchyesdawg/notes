@@ -16,12 +16,13 @@
 			- contains 6 electrons
 			- excludes helium(but still a noble gas)
 - atoms
-  collapsed:: true
 	- nucleus
 		- nucleus has protons and neutrons
 			- protons are positively charged
 			- neutrons are neutral
+			  id:: 63c33173-3b84-43b2-abe4-e38481d8a6ab
 				- are basically protons and electrons mushed together, which creates the neutral charge(maybe???)
+				- under right conditions, may spontaneously divide and turn into a proton,electron and a
 			- both have 1 amu
 			- atomic weight is the sum of number of protons and number of neutrons
 			- protons define the element but neutrons define its variant
