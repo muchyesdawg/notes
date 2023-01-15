@@ -56,4 +56,7 @@
 - isotopes
 	- an atom can have a variable amount of neutrons.
 	- each element have several combinations of neutrons that allow atoms of that atom to be of a different flavor of the original.
-	- 12^6_C
+		- example:
+		  collapsed:: true
+			- 12^6_C, 13^6_C, 14^6_C, with 6, 7, and 8 respectively.
+	- this means that the atomic
