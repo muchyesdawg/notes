@@ -24,4 +24,6 @@
 	  |gama radiation|0^0_γ|0|0|
 - neutrino
 	- are often a product of radioactive decay and nuclear reactions.
-	- A neutrino,ν_e, is a neutral particle with very little mass. Neutrinos are more common in the universe than electrons and protons.
+	- A neutrino,ν_e, is a neutral particle with very little mass.
+	- are more common in the universe than electrons and protons.
+	- they do not interact with matter
