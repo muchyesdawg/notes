@@ -8,4 +8,9 @@
 		- the mass number is also the molar mass.(mass of one mole of atoms)
 			- measured in grams per mole
 - subatomic particles
-	- fundamental particles
+	- notes:
+	  collapsed:: true
+		- it is important to know the mass and atomic number of these basic particles when analyzing nuclear reactions
+	- fundamental particles, like protons and neutrons, are most likely to be encountered in nuclear reactions.
+		-
+	-
