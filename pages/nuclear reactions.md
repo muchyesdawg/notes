@@ -27,3 +27,8 @@
 	- A neutrino,ν_e, is a neutral particle with very little mass.
 	- are more common in the universe than electrons and protons.
 	- they do not interact with matter
+	- has another varient called antineutrino  ̅νe
+	- can be ignored in basic physics problems
+- alpha particles
+	- is the nucleus of a helium atom without any electrons (2 protons and neutrons)
+	-
