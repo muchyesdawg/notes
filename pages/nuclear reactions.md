@@ -62,3 +62,8 @@
 	- this means that the atomic number may stay the same, but the mass numbe r an change very much.
 	- the isotope of an element is often denoted with the element followed by the mass number.
 	- isotopes can vary in mass and stability.
+- the strong force
+	- a force that attracts nucleons to one another.
+	- it is the reason why protons are fixed to the middle and not repelling each other due to electrostatic forces.
+	- it is stronger than electrostatic forces.
+	-
