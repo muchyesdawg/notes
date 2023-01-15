@@ -22,4 +22,5 @@
 	  |alpha particle(helium nucleus)|4^2_α|+2|4.00150|
 	  |beta particle|0^-1_β|-1|0.00055|
 	  |gama radiation|0^0_γ|0|0|
-	-
+- neutrino
+	- are often a product of radioactive decay
