@@ -12,5 +12,4 @@
 	  collapsed:: true
 		- it is important to know the mass and atomic number of these basic particles when analyzing nuclear reactions
 	- fundamental particles, like protons and neutrons, are most likely to be encountered in nuclear reactions.
-		-
 	-
