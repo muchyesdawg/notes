@@ -18,9 +18,10 @@
 	  |electron|0^-1_e|-1|0.00055|
 	  |neutron|1^0_n|0|1.00866|
 	  |neutrino|ν_e|0|nearly zero|
-	  |antineutrino|̅νe|0|nearly zero|
+	  |antineutrino|̅ν_e|0|nearly zero|
 	  |alpha particle(helium nucleus)|4^2_α|+2|4.00150|
 	  |beta particle|0^-1_β|-1|0.00055|
 	  |gama radiation|0^0_γ|0|0|
 - neutrino
-	- are often a product of radioactive decay
+	- are often a product of radioactive decay and nuclear reactions.
+	- A neutrino,ν_e, is a neutral particle with very little mass. Neutrinos are more common in the universe than electrons and protons.
