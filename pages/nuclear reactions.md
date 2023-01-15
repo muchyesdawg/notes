@@ -31,4 +31,5 @@
 	- can be ignored in basic physics problems
 - alpha particles
 	- is the nucleus of a helium atom without any electrons (2 protons and neutrons)
+	- has a mass number of 4
 	-
