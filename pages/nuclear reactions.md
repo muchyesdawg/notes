@@ -57,6 +57,6 @@
 	- an atom can have a variable amount of neutrons.
 	- each element have several combinations of neutrons that allow atoms of that atom to be of a different flavor of the original.
 		- example:
-		  collapsed:: true
 			- 12^6_C, 13^6_C, 14^6_C, with 6, 7, and 8 respectively.
+			- 1^1_h and 2^1_h are isotopes of hydrogen, but if all the was made of the latter and not the former, then we would've gone extinct a long time ago
 	- this means that the atomic
