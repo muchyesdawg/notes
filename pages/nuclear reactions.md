@@ -21,4 +21,4 @@
 	  |antineutrino|̅νe|0|nearly zero|
 	  |alpha particle(helium nucleus)|4^2_α|+2|4.00150|
 	  |beta particle|0^-1_β|-1|0.00055|
-	  |gama radiation|0^0_γ|0|0|
+	  |gama radiation|0^0_γ|0|0
