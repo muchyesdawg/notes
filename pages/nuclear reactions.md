@@ -50,4 +50,5 @@
 - gamma ray
 	- protons and neutrons can move between energy levels within the nucleus.
 	- nuclear reactions can excite nucleons to higher energy levels (nucleons as in protons and neutrons)
-	- when nucleons
+	- when nucleons subsequently drop to lower energy levels, they emit photons.
+	- photons emitted when nucleons drop are incredibly energetic compared to electrons
