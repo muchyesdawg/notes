@@ -52,4 +52,8 @@
 	- nuclear reactions can excite nucleons to higher energy levels (nucleons as in protons and neutrons)
 	- when nucleons subsequently drop to lower energy levels, they emit photons.
 	- photons emitted when nucleons drop are energetic compared to electrons
-	-
+	- the energetic photons are called gamma rays. they are a form of electromagnetic radiation.
+- isotopes
+	- an atom can have a variable amount of neutrons.
+	- each element have several combinations of neutrons that allow atoms of that atom to be of a different flavor of the original.
+	- 12^6_C
