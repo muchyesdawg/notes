@@ -23,7 +23,7 @@
 		- nucleus has protons and neutrons
 			- protons are positively charged
 			- neutrons are neutral
-			-
+				- are basically protons and electrons mushed together, which creates the neutral charge(maybe???)
 			- both have 1 amu
 			- atomic weight is the sum of number of protons and number of neutrons
 			- protons define the element but neutrons define its variant
