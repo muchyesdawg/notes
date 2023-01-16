@@ -68,3 +68,4 @@
 	- it is stronger than electrostatic forces.
 	- it operates within a short distance
 	- neutrons help hold the nucleus together. it adds to the strong force.
+	-
