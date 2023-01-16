@@ -41,6 +41,7 @@
 	- has a mass number of 4
 	- is the biggest in the ((63c36683-0519-4a97-8ac7-ab77056bec48))
 - beta particles
+  collapsed:: true
 	- an electron produced when a neutron undergoes a transmutation to become a proton
 	- more info about neutrons: [[chemFundamentals]]((63c33173-3b84-43b2-abe4-e38481d8a6ab))
 	- BETA PARTICLES ARE ELECTRONS
@@ -48,12 +49,14 @@
 	- beta particles and electrons has an atomic number of negative one
 	- its basically an electron that got shot out of a nucleus.
 - gamma ray
+  collapsed:: true
 	- protons and neutrons can move between energy levels within the nucleus.
 	- nuclear reactions can excite nucleons to higher energy levels (nucleons as in protons and neutrons)
 	- when nucleons subsequently drop to lower energy levels, they emit photons.
 	- photons emitted when nucleons drop are energetic compared to electrons
 	- the energetic photons are called gamma rays. they are a form of electromagnetic radiation.
 - isotopes
+  collapsed:: true
 	- an atom can have a variable amount of neutrons.
 	- each element have several combinations of neutrons that allow atoms of that atom to be of a different flavor of the original.
 		- example:
@@ -63,9 +66,15 @@
 	- the isotope of an element is often denoted with the element followed by the mass number.
 	- isotopes can vary in mass and stability.
 - the strong force
+  collapsed:: true
 	- a force that attracts nucleons to one another.
 	- it is the reason why protons are fixed to the middle and not repelling each other due to electrostatic forces.
 	- it is stronger than electrostatic forces.
 	- it operates within a short distance
 	- neutrons help hold the nucleus together. it adds to the strong force.
-	-
+	- every atom has an optimum mix of protons and neutrons
+- mass energy equivalence.
+	- during nuclear reaction, the mass of the reactants at the start does not equal the products at the end of the reaction
+	- the difference in mass is known as the mass defect, Δm
+	- is associated with energy involved in a nuclear reaction.
+	- amount of energy, E, associ
