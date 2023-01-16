@@ -79,3 +79,4 @@
 	- is associated with energy involved in a nuclear reaction.
 	- amount of energy, E, associated with mass defect can be calculated using the speed of light in a vacuum, c, and Albert's e=mc^2, which is the mass-energy equivalence
 	- under certain conditions, mass can convert into matter and vice versa.
+	- nuclear reactions release energy by converting a small amount of the original mass into energy.
