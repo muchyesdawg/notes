@@ -80,5 +80,6 @@
 	- amount of energy, E, associated with mass defect can be calculated using the speed of light in a vacuum, c, and Albert's e=mc^2, which is the mass-energy equivalence
 	- under certain conditions, mass can convert into matter and vice versa.
 	- nuclear reactions release energy by converting a small amount of the original mass into energy.
-	- in nuclear reactions, reactants have more mass than the products formed during the reaction.
+	- in nuclear reactions, reactants have more mass than the products formed during the reaction. in order to balance this, mass defect must be added to the products side of a reaction
+	- when the symbol of each particle is replaced by the appropriate mass in the amu, then it becomes apparent that the products side is missing mass.
 	-
