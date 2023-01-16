@@ -77,4 +77,4 @@
 	- during nuclear reaction, the mass of the reactants at the start does not equal the products at the end of the reaction
 	- the difference in mass is known as the mass defect, Δm
 	- is associated with energy involved in a nuclear reaction.
-	- amount of energy, E, associ
+	- amount of energy, E, associated with mass defect can be calculated using the speed of light in a vacuum, c, and albert's
