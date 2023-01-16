@@ -66,4 +66,5 @@
 	- a force that attracts nucleons to one another.
 	- it is the reason why protons are fixed to the middle and not repelling each other due to electrostatic forces.
 	- it is stronger than electrostatic forces.
+	- it operates within a short distance
 	-
