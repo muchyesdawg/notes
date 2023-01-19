@@ -74,6 +74,7 @@
 	- neutrons help hold the nucleus together. it adds to the strong force.
 	- every atom has an optimum mix of protons and neutrons
 - mass energy equivalence.
+  collapsed:: true
 	- during nuclear reaction, the mass of the reactants at the start does not equal the products at the end of the reaction
 	- the difference in mass is known as the mass defect, Δm
 	- is associated with energy involved in a nuclear reaction.
