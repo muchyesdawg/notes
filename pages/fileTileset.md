@@ -2,5 +2,5 @@
 - use numbers encrypted in hex to store data
 - use data to create map
 - have two files
-	- one dictates what one world is, what the blocks situation is(hitbox, properties, yareyare), which is placed in db/world/*.mydwg
-	- another dictates the specific level and how the level is laid out, the background, etc. which is placed in db/level/
+	- one dictates what one world is, what the blocks situation is(hitbox, properties, yareyare), which is placed in db/world/*.mydw
+	- another dictates the specific level and how the level is laid out, the background, etc. which is placed in db/levels/*.mydl
