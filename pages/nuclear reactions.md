@@ -100,7 +100,9 @@
 		- involve in the release of energy
 		- typically induced by shooting neutrons at larger atoms.
 		- steps of nuclear fission
-			- the addition of free neutron temporarily creates a larger unstable nucleus
+			- neutrons are shot at the atom
+			- atoms turn into larger unstable atoms, so they undergo fission
+			-
 	- fusion
 		- combining smaller atoms to make a larger one
 		- involve in the release of energy
