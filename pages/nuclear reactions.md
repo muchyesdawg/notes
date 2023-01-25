@@ -108,4 +108,5 @@
 	- fusion
 		- combining smaller atoms to make a larger one
 		- involve in the release of energy
-		- the
+		- atoms involved as the reactants need enough kinetic energy to overcome electrostatic repulsion.
+		-
