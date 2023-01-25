@@ -99,7 +99,8 @@
 		- reaction splitting a large atom into smaller atoms
 		- involve in the release of energy
 		- typically induced by shooting neutrons at larger atoms.
-		-
+		- steps of nuclear fission
+			- the addition of free neutron temporarily creates a larger unstable nucleus
 	- fusion
 		- combining smaller atoms to make a larger one
 		- involve in the release of energy
