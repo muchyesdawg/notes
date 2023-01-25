@@ -112,4 +112,5 @@
 		- fusion naturally happens in stars, such as the sun
 			- the hydrogen within the sun exist in the fourth form, plasma because of the immense temperature and pressure.
 			- they provide energy to initiate fusion reactions
-			- fusion reactions produce excess energy, which cause
+			- fusion reactions produce excess energy, which causes a chain reaction.
+			-
