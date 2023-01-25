@@ -84,4 +84,7 @@
 	- in nuclear reactions, reactants have more mass than the products formed during the reaction. in order to balance this, mass defect must be added to the products side of a reaction
 	- when the symbol of each particle is replaced by the appropriate mass in the amu, then it becomes apparent that the products side is missing mass.
 	-
-- G
+- Gamma rays
+	- are a result of radioactive decay reactions, including alpha and beta decay.
+	- travels at the speed of light and have greater penetration than alpha and beta radiation
+	-
