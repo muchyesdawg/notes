@@ -92,4 +92,6 @@
 	- does not affect the atomic number or mass number of the atoms
 - Decay Rate
 	- the rate which radioactive decay occurs is normally measured in half-life
-	-
+	- calculating remaining grams after a certain amount of time's formula
+		- initial amount in grams * 1/2^(time/amount of time in one half life)=result in grams
+- #### fission
