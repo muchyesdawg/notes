@@ -87,4 +87,5 @@
 - Gamma rays
 	- are a result of radioactive decay reactions, including alpha and beta decay.
 	- travels at the speed of light and have greater penetration than alpha and beta radiation
-	-
+	- can only be stopped by dense materials like lead
+	- does not affect the
