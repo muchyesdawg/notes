@@ -48,7 +48,7 @@
 	- beta particles and electrons and electrons have too little mass to affect atomic mass noticeably.
 	- beta particles and electrons has an atomic number of negative one
 	- its basically an electron that got shot out of a nucleus.
-- gamma ray
+- gamma radiation
   collapsed:: true
 	- protons and neutrons can move between energy levels within the nucleus.
 	- nuclear reactions can excite nucleons to higher energy levels (nucleons as in protons and neutrons)
@@ -84,3 +84,4 @@
 	- in nuclear reactions, reactants have more mass than the products formed during the reaction. in order to balance this, mass defect must be added to the products side of a reaction
 	- when the symbol of each particle is replaced by the appropriate mass in the amu, then it becomes apparent that the products side is missing mass.
 	-
+- G
