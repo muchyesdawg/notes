@@ -85,7 +85,11 @@
 	- when the symbol of each particle is replaced by the appropriate mass in the amu, then it becomes apparent that the products side is missing mass.
 	-
 - Gamma rays
+  collapsed:: true
 	- are a result of radioactive decay reactions, including alpha and beta decay.
 	- travels at the speed of light and have greater penetration than alpha and beta radiation
 	- can only be stopped by dense materials like lead
-	- does not affect the
+	- does not affect the atomic number or mass number of the atoms
+- Decay Rate
+	- the rate which radioactive decay occurs is normally measured in half-life
+	-
