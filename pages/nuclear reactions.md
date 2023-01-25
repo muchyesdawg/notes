@@ -55,7 +55,7 @@
 	- when nucleons subsequently drop to lower energy levels, they emit photons.
 	- photons emitted when nucleons drop are energetic compared to electrons
 	- the energetic photons are called gamma rays. they are a form of electromagnetic radiation.
-- isotopes
+- #### isotopes
   collapsed:: true
 	- an atom can have a variable amount of neutrons.
 	- each element have several combinations of neutrons that allow atoms of that atom to be of a different flavor of the original.
@@ -94,4 +94,11 @@
 	- the rate which radioactive decay occurs is normally measured in half-life
 	- calculating remaining grams after a certain amount of time's formula
 		- initial amount in grams * 1/2^(time/amount of time in one half life)=result in grams
-- #### fission
+- #### fission and fusion
+	- fission
+		- reaction splitting a large atom into smaller atoms
+		- involve in the release of energy
+		-
+	- fusion
+		- combining smaller atoms to make a larger one
+		- involve in the release of energy
