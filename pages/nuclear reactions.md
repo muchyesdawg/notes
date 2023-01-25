@@ -102,7 +102,10 @@
 		- steps of nuclear fission
 			- neutrons are shot at the atom
 			- atoms turn into larger unstable atoms, so they undergo fission
-			- th
+			- the strong force no longer holds onto the protons, so they break off, forming two smaller nuclei
+			- outputs nuclei, electron, and energy in the form of gamma rays.
+		- is used in nuclear power plants
 	- fusion
 		- combining smaller atoms to make a larger one
 		- involve in the release of energy
+		- the
