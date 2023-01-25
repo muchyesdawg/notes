@@ -109,4 +109,7 @@
 		- combining smaller atoms to make a larger one
 		- involve in the release of energy
 		- atoms involved as the reactants need enough kinetic energy to overcome electrostatic repulsion.
-		-
+		- fusion naturally happens in stars, such as the sun
+			- the hydrogen within the sun exist in the fourth form, plasma because of the immense temperature and pressure.
+			- they provide energy to initiate fusion reactions
+			- fusion reactions produce excess energy, which cause
