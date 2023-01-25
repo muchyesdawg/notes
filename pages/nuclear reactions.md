@@ -102,7 +102,7 @@
 		- steps of nuclear fission
 			- neutrons are shot at the atom
 			- atoms turn into larger unstable atoms, so they undergo fission
-			-
+			- th
 	- fusion
 		- combining smaller atoms to make a larger one
 		- involve in the release of energy
