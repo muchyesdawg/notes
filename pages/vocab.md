@@ -1,0 +1,20 @@
+- # KINEMATICS
+	- ## displacement
+		- straight line distance bewteen the initial and final points
+		- has both magnitude and direction
+		- symbol is delta x, delta means change, x means position
+		- change in position of an object - delta x = xf-xi
+		- can either be positive and negative
+		- displacement doesn't equal distance
+	- ## distance
+		- scalar(magnitude only)
+		- path length traveled from one location to another, varies depending on the path
+	- ## velocity
+		- symbol, v
+		- equation is v=deltax/deltat
+		- has magnitude and direction
+		- units m/s
+	- ## speed
+		- distance traveled over time
+		- avg speed = total distance traveled/ total time
+		- units m/s

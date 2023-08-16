@@ -1,8 +1,5 @@
 - [[programming]]
-- [[biology]]
-- [[chemistry]]
-- [[physics]]
-- [[math]]
 - [[TODO]]
+- [[schoolwork]]
 -
 -
