@@ -6,4 +6,4 @@
 		- $$v_{avg}=\frac{Displacement}{Time}=\frac{\Delta x}{\Delta t}=Slope$$
 	- horizontal line on a velocity versus time graph
 - ## instantaneous velocity#vocabp
-	-
+	- the slope of a v/t graph at any given point
