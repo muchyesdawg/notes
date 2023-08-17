@@ -6,4 +6,5 @@
 		- $$\lim_{x\to c^+}f\left(x\right)=L_1\&\lim_{x\to c^-}f\left(x\right)=L_2\\$$
 		                                                                                and
 		- $$\lim_{x\to c^+}f\left(x\right) \iff L_1 = L_2$$
--
+- basic rules
+	-
