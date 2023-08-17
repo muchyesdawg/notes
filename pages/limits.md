@@ -26,4 +26,5 @@
 	- infinity limits
 		- $$\lim_{x\to\pm\infty}\frac{1}{x}=0$$
 		- {{renderer :mathlive_qswxxhw}}[:div {:is "mathlive-qswxxhw"}]
+		  output:: \lim_{\placeholder{▢}}
 		-
