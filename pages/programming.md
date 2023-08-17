@@ -1,6 +1,5 @@
 - [[the ten towers]]
-- [[algs]]
-- [[pgeneral]]
+- [[pnotes]]
 - [[metroidTODO]]
 -
 -
