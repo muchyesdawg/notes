@@ -22,4 +22,6 @@
 		- rules$$
 			- 1.$$ f(c)$$is defined
 			- 2.$$ \lim_{x\to a}f(x)$$ exists
-			- 3.
+			- 3.$$ \lim_{x\to a}f(x)=f(c)$$
+	- infinity limits
+		-
