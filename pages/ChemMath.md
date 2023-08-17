@@ -1,3 +1,5 @@
 - percent Value
 	- $$\frac{m-a}{a}\cdot100=P_v$$
--
+- significant figures
+	- if decimal exists
+		- all
