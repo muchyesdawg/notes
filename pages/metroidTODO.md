@@ -1,3 +1,3 @@
 - {{renderer :kanban_irrtfayyf}}
-	- TODO
+	- T
 		-
