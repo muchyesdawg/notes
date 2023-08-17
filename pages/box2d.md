@@ -5,4 +5,5 @@
 - b2vec2
 	- box2d vector 2 component
 - bodies
-	- bodies are the backbone for fixtures
+	- bodies are the backbone for fixtures/shapes
+	- are a point that fixture(shape of an entity) moves with
