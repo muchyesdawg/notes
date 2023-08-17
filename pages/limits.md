@@ -34,4 +34,6 @@
 		  $$\lim_{x \to\infty}=a$$or
 		  $$\lim_{x \to -\infty}=a$$
 	- limits of ratios of two functions
-		- if evaulating limit as x goes to
+		- if evaulating limit as $$x$$ goes to $$\pm\infty$$ of the ratio of two functions, consider which function grows faster than the other
+		- $$<$$
+		-
