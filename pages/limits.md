@@ -7,4 +7,6 @@
 		                                                                                and
 		- $$\lim_{x\to c^+}f\left(x\right) \iff L_1 = L_2$$
 - basic rules
-	- $$\lim_{x\to c}x=a\\\lim_x{x\to a}k=k\\$$
+	- $$\lim_{x\to c}x=a$$
+	- $$\lim_{x\to a}k=k$$
+	-
