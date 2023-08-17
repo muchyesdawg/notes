@@ -13,4 +13,4 @@
 	- squeeze theorem
 		- if
 		  $$f(x)\leq g(x)\leq h(x)$$
-		  $$If \lim_{x\to a}g(x)=$$
+		  $$ \lim_{x\to a}g(x)=$$
