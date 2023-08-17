@@ -9,4 +9,4 @@
 - basic rules
 	- $$\lim_{x\to c}x=a$$
 	- $$\lim_{x\to a}k=k$$
-	-
+	- $$\lim_{x\toa}[f\leftx)]$$
