@@ -1,4 +1,3 @@
 - percent Value
-	- {{renderer :mathlive_ttysstnvl}}[:div {:is "mathlive-ttysstnvl"}]
-	  output:: \frac{\placeholder{▢}}{\placeholder{▢}}
-	-
+	- $$\frac{m-a}{a}\cdot100=P_v$$
+-
