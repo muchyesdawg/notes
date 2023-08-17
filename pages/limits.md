@@ -19,6 +19,7 @@
 		- $$f(x)\leq g(x)\leq h(x)$$
 		  $$ \lim_{x\to a}f(x)=\lim_{x\to a}h(x)=L\implies\lim_{x\to a}=L$$
 	- continuinty
-		- rules
-			- $$f(c)$$is defined
-			-
+		- rules$$
+			- 1.$$ f(c)$$is defined
+			- 2.$$ \lim_{x\to a}f(x)$$ exists
+			- 3.
