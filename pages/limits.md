@@ -12,4 +12,4 @@
 	- $$\lim_{x\to a}[f \left(x\right)+g \left(x\right)]$$
 	- squeeze theorem
 		- if
-		  $$\\\lim_{x\to a}f(x)$$
+		  $$if f(x)\se\\\lim_{x\to a}g(x)$$
