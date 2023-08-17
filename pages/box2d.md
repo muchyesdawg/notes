@@ -1,4 +1,5 @@
 - b2world
 	- a physics hub that manages memory, objects and simulation.
 	- the manager of all data.
+	- physics world can be allocated on stack, heap or data section (make sense of this)
 	-
