@@ -25,6 +25,6 @@
 			- 3.$$ \lim_{x\to a}f(x)=f(c)$$
 	- infinity limits
 		- $$\lim_{x\to\pm\infty}\frac{1}{x}=0$$
-		- {{renderer :mathlive_qswxxhw}}[:div {:is "mathlive-qswxxhw"}]
-		  output:: \lim_{\placeholder{▢}}
+		- $$\lim_{x\to\pm\infty}\left(1+\frac{1}{x}^{}\right)^x=e$$
+		- {{renderer :mathlive_qkjpanikjg}}[:div {:is "mathlive-qkjpanikjg"}]
 		-
