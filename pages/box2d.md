@@ -2,4 +2,7 @@
 	- a physics hub that manages memory, objects and simulation.
 	- the manager of all data.
 	- physics world can be allocated on stack, heap or data section (make sense of this)
-	-
+- b2vec2
+	- box2d vector 2 component
+- bodies
+	- bodies are the backbone for fixtures
