@@ -7,3 +7,5 @@
 - bodies
 	- bodies are the backbone for fixtures/shapes
 	- are a point that fixture(shape of an entity) moves with
+	- are also called rigid bodies (???)
+	- based on unity, bodies( or rigid bodies)
