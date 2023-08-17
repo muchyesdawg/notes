@@ -12,4 +12,5 @@
 	- $$\lim_{x\to a}[f \left(x\right)+g \left(x\right)]$$
 	- squeeze theorem
 		- if
-		  $$f(x)\leq g(x)\leq h(x)$$$$\lim_{x\to a}g(x)$$
+		  $$f(x)\leq g(x)\leq h(x)$$
+		  $$\lim_{x\to a}g(x)$$
