@@ -13,7 +13,7 @@
 	- $$\lim_{x\to a}[f \left(x\right)-g \left(x\right)] = \lim_{x\to a}f \left(x\right)-\lim_{x\to a}f \left(x\right)$$
 	- $$\lim_{x\to a}[f \left(x\right)g \left(x\right)] = \left(\lim_{x\to a}f \left(x\right)\right)\left(\lim_{x\to a}f \left(x\right)\right)$$
 	- {{renderer :mathlive_xofxrqxm}}[:div {:is "mathlive-xofxrqxm"}]
-	  output:: \lim_{x\to a}
+	  output:: \lim_{x\to a}\frac{f\left(x\right)}{\placeholder{▢}}
 	-
 	- squeeze theorem
 		- $$f(x)\leq g(x)\leq h(x)$$
