@@ -24,6 +24,6 @@
 			- 2.$$ \lim_{x\to a}f(x)$$ exists
 			- 3.$$ \lim_{x\to a}f(x)=f(c)$$
 	- infinity limits
-		- {{renderer :mathlive_byicznvjvu}}[:div {:is "mathlive-byicznvjvu"}]
-		  output:: \lim_{x\to\pm\infty}
+		- $$\lim_{x\to\pm\infty}\frac{1}{x}=0$$
+		- {{renderer :mathlive_qswxxhw}}[:div {:is "mathlive-qswxxhw"}]
 		-
