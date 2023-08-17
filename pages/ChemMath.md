@@ -1,5 +1,6 @@
 - percent Value
 	- $$\frac{m-a}{a}\cdot100=P_v$$
 - significant figures
-	- if decimal exists
-		- all
+	-
+	- if decimal exists(regardless of number afterwards)
+		- all trailing zeros are significant
