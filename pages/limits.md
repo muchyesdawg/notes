@@ -31,5 +31,6 @@
 		  $$\lim_{x \to a^-}=\pm\inf$$
 	- definition horizontal asymptotes
 		- line x=a is vertical asymptote iff
-		  $$\lim_{x \to a^+}=\pm\inf$$or
-		  $$\lim_{x \to a^-}=\pm\inf$$
+		  $$\lim_{x \to\inf}=a$$or
+		  $$\lim_{x \to - \inf}=a$$
+		-
