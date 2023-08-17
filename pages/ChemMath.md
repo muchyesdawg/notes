@@ -2,5 +2,5 @@
 	- $$\frac{m-a}{a}\cdot100=P_v$$
 - significant figures
 	- non zero and between zeros are significant
-	- if decimal exists(regardless of number afterwards)
-		- all trailing zeros are significant
+	- if decimal exists(regardless of number afterwards) all trailing zeros are significant
+	- else they aren't
