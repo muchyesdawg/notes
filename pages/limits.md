@@ -24,4 +24,5 @@
 			- 2.$$ \lim_{x\to a}f(x)$$ exists
 			- 3.$$ \lim_{x\to a}f(x)=f(c)$$
 	- infinity limits
+		- {{renderer :mathlive_byicznvjvu}}[:div {:is "mathlive-byicznvjvu"}]
 		-
