@@ -10,4 +10,5 @@
 	- $$\lim_{x\to c}x=a$$
 	- $$\lim_{x\to a}k=k$$
 	- $$\lim_{x\to a}[f \left(x\right)+g \left(x\right)]$$
-	-
+	- squeeze theorem
+		- if $$\\\lim_x \to c$$
