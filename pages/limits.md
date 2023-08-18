@@ -49,5 +49,5 @@
 		- if $$f$$ grows faster than $$s$$ then
 		- $$\lim_{x\to\infty}\dfrac{s\left(x\right)}{f\left(x\right)}=0\\\\\lim_{x\to0}\dfrac{f\left(x\right)}{s\left(x\right)}=\infty$$
 	- trig limits
-		- $$\lim_{x\to0}\dfrac{\sin(x)}{x}=1$$
-		- $$\lim_{x\to0}\dfrac{\sin(x)}{x}=1$$
+		- $$\lim_{x\to0}\dfrac{\sin x}{x}=1$$
+		- $$\lim_{x\to0}\dfrac{1-\cos x}{x}=0$$
