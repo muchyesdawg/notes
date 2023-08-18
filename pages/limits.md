@@ -25,10 +25,9 @@
 			- 3.$$ \lim_{x\to a}f(x)=f(c)$$
 	- Intermediate Value Theorem(IVT)
 		- rules
-			- logseq.order-list-type:: number
-			  $$f$$is continuous on a closed interval [a,b]
-			- d
+			- if $$f(x)$$is continuous on a closed interval [a,b]
 			  logseq.order-list-type:: number
+			-
 			- s
 			  logseq.order-list-type:: number
 	- infinity limits
