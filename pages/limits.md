@@ -29,11 +29,10 @@
 			  logseq.order-list-type:: number
 			- if $$f\left(a\right)\neq f\left(b\right)$$
 			  logseq.order-list-type:: number
-			- if k is between $$f\left( a \right) \wedge f\left(b\right)$$
+			- if $$k$$ is between $$f\left( a \right) \wedge f\left(b\right)$$
 			  logseq.order-list-type:: number
-		- then there exists a number c between a and b for which $$f \left(c\right)=k$$
+		- then there exists a number $$c$$ between a and b for which $$f \left(c\right)=k$$
 		-
-	-
 	- infinity limits
 		- $$\lim_{x\to\pm\infty}\frac{1}{x}=0\\\lim_{x\to\pm\infty}\left(1+\frac{1}{x}^{}\right)^x=e\\\lim_{x\to-\infty}\tan^{-1}x=-\frac{\pi}{2}\\\lim_{x\to+\infty}\tan^{-1}x=\frac{\pi}{2}$$
 	- definition vertical asymptotes
