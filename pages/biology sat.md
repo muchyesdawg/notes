@@ -1,2 +1,2 @@
-- [[chemFundamentals]](are basically the same)
+- [[atom Properties]](are basically the same)
 - [[appendix]]

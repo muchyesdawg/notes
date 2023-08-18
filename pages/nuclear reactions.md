@@ -43,7 +43,7 @@
 - beta particles
   collapsed:: true
 	- an electron produced when a neutron undergoes a transmutation to become a proton
-	- more info about neutrons: [[chemFundamentals]]((63c33173-3b84-43b2-abe4-e38481d8a6ab))
+	- more info about neutrons: [[atom Properties]]((63c33173-3b84-43b2-abe4-e38481d8a6ab))
 	- BETA PARTICLES ARE ELECTRONS
 	- beta particles and electrons and electrons have too little mass to affect atomic mass noticeably.
 	- beta particles and electrons has an atomic number of negative one
