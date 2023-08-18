@@ -48,4 +48,4 @@
 		- $$\ln^da<x^c<x^cln^da<x^{c+d}<a^x<x!<x^x$$
 		- if $$f$$ grows faster than $$s$$ then
 		- $$\lim_{x\to\infty}\dfrac{s\left(x\right)}{f\left(x\right)}=0\\\\\lim_{x\to0}\dfrac{f\left(x\right)}{s\left(x\right)}=\infty$$
-		-
+	-
