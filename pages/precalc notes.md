@@ -1,2 +1,2 @@
 - pythag IDs
-	- if on a the unit circle exists a point ()
+	- if on a the unit circle exists a point (cosx,sinx)
