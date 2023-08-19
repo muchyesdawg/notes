@@ -1,2 +1,3 @@
 - pythag IDs
+	- sin(x) and cos(x) works by
 	- if on a the unit circle exists a point (cosx,sinx)
