@@ -1,3 +1,3 @@
 - pythag IDs
-	- sin(x) and cos(x) works by
+	- sin(x) and cos(x) works by putting a dot on the unit circle from origin in which x is the angle formed angle 0(positive side of x axis) and
 	- if on a the unit circle exists a point (cosx,sinx)
