@@ -1,3 +1,4 @@
 - pythag IDs
+	- sin(x) and cos(x) works by drawing a line in the angle x on a unit circle relative to the positive x axis in a ccw direction,and
 	- sin(x) and cos(x) works by putting a dot on the unit circle from origin in which x is the angle formed angle 0(positive side of x axis) and a line extended from the point to origin, and finding the x (cos) and y(sin) values
 	- if on a the unit circle exists a point (cosx,sinx)
