@@ -38,7 +38,9 @@
 		- ## KEEP IN MIND
 			- if in a fraction and limit tends to infinity, the lower terms can be ignored and the highest ones be considered.
 			- when this happens, the simplified fraction will be the answer to the limit IFF the x/variable cancels out entirely. else follow rule
-			  $$$$
+			  $$\lim_{x\to\infty}\dfrac{s\left(x\right)}{f\left(x\right)}=0\\\\\lim_{x\to0}\dfrac{f\left(x\right)}{s\left(x\right)}=\infty$$
+			  where f grows faster than s
+				- example
 	- definition vertical asymptotes
 		- line x=a is vertical asymptote iff
 		  $$\lim_{x \to a^+}=\pm\infty$$or
