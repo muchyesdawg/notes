@@ -6,4 +6,5 @@
 	- the other ID is derived by the previous formula. proof:
 	  $$\sin^2\left(x\right)+\cos^2\left(x\right)=1\\\dfrac{\sin^2\left(x\right)}{cos^2\left(x\right)}+\dfrac{\cos^2\left(x\right)}{cos^2(x)}=\dfrac1{cos^2(x)}
 	  \\\tan^2\left(x\right)+1=\sec^2(x)$$
-- [
+- {{renderer excalidraw, excalidraw-2023-08-19-19-33-39}}
+-
