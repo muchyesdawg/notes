@@ -7,5 +7,5 @@
 	  $$\sin^2\left(x\right)+\cos^2\left(x\right)=1\\\dfrac{\sin^2\left(x\right)}{cos^2\left(x\right)}+\dfrac{\cos^2\left(x\right)}{cos^2(x)}=\dfrac1{cos^2(x)}
 	  \\\tan^2\left(x\right)+1=\sec^2(x)$$
 - sum and difference IDs
-	- ![Addition and Subtraction Formulas for Sine and Cosine](https://www.cut-the-knot.org/triangle/SinCosAddition.gif)
-	-
+	- ![Sine and Cosine Addition Formula Proof - YouTube](https://i.ytimg.com/vi/XdYTTBFm5Hw/maxresdefault.jpg){:height 429, :width 749}
+	- as shown in the image,
