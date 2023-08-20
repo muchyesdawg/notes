@@ -35,6 +35,7 @@
 		-
 	- infinity limits
 		- $$\lim_{x\to\pm\infty}\frac{1}{x}=0\\\lim_{x\to\pm\infty}\left(1+\frac{1}{x}^{}\right)^x=e\\\lim_{x\to-\infty}\tan^{-1}x=-\frac{\pi}{2}\\\lim_{x\to+\infty}\tan^{-1}x=\frac{\pi}{2}$$
+		-
 	- definition vertical asymptotes
 		- line x=a is vertical asymptote iff
 		  $$\lim_{x \to a^+}=\pm\infty$$or
