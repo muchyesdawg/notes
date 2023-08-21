@@ -59,5 +59,6 @@
 	- trig limits
 		- $$\lim_{x\to0}\dfrac{\sin x}{x}=1$$
 		- $$\lim_{x\to0}\dfrac{1-\cos x}{x}=0$$
-- tips ((64e2b3a1-5d57-4524-a3c5-2b0ff0f2663c))
+- tips ((64e2b3a1-5d57-4524-a3c5-2b0ff0f2663c))#tips#limits#calcbc
+-
 -
