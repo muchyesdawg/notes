@@ -8,7 +8,7 @@
 			- $$\left(a+b\right)^2=a^2+2ab+b^2$$
 			- $$\left(a+b\right)\left(a-b\right)=a^2+b^2$$
 		- multiply
-			- $$\lim_{x \to c}$$
+			- $$\lim_{x \to c}\left(a+b\right)=\lim_{x \to c}\left(a+b\right) \dot$$
 	- conditional
 		- if $$\lim_{x \to 0}$$ then try to get all x on above fractions
 		- if $$\lim_{x\to\infty}f\left(x\right)$$ then
