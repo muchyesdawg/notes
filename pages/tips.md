@@ -3,8 +3,10 @@
 	- ways to do limits
 	- general
 		- isolate x
-			- basically multiply by fraction 1/x
-		-
+			- basically multiply by fraction (1/x)/(1/x) or any variation of that
+		- factor
+			- (x+)
+		- multiply
 	- conditional
 		- if $$\lim_{x \to 0}$$ then try to get all x on above fractions
 		- if $$\lim_{x\to\infty}f\left(x\right)$$ then
