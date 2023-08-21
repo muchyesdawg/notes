@@ -7,7 +7,7 @@
 		- factor
 			- $$\left(a+b\right)^2=a^2+2ab+b^2$$
 			- $$\left(a+b\right)\left(a-b\right)=a^2+b^2$$
-			- $$$$
+			- $$\left(a+b\right)$$
 		- multiply
 	- conditional
 		- if $$\lim_{x \to 0}$$ then try to get all x on above fractions
