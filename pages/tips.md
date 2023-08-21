@@ -1,6 +1,12 @@
 - limits
   id:: 64e2b3a1-5d57-4524-a3c5-2b0ff0f2663c
-	- if $$\lim_{x \to 0}$$ then try to get all x on above fractions
-	- if $$\lim_{x\to\infty}f\left(x\right)$$ then
-		- try to get x below the fraction
-		- or only consider the highest order
+	- ways to do limits
+	- general
+		- isolate x
+			- basically multiply by fraction 1/x
+		-
+	- conditional
+		- if $$\lim_{x \to 0}$$ then try to get all x on above fractions
+		- if $$\lim_{x\to\infty}f\left(x\right)$$ then
+			- try to get x below the fraction
+			- or only consider the highest order
