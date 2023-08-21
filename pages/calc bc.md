@@ -1,3 +1,5 @@
 - [[precalc notes]]
 - [[limits]]
+- [[tips]]
+-
 -
