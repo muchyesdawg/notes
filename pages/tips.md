@@ -5,7 +5,8 @@
 		- isolate x
 			- basically multiply by fraction (1/x)/(1/x) or any variation of that
 		- factor
-			- (x+)
+			- $$\left(a+b\right)^2=a^2+2ab+b^2$$
+			- $$$$
 		- multiply
 	- conditional
 		- if $$\lim_{x \to 0}$$ then try to get all x on above fractions
