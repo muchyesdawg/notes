@@ -19,5 +19,6 @@
 		- distance traveled over time
 		- avg speed = total distance traveled/ total time
 		- units m/s
-	- Acceleration
-		-
+	- ## Acceleration
+		- vf-vi/deltat
+		- vf=vi+at
