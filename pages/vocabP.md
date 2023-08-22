@@ -21,6 +21,7 @@
 		- units m/s
 	- ## Acceleration #vocabp
 		- rate of change of velocity
+		- opposite of deceleration
 		- a vector
 		- symbol $$a$$
 		- positive acceleration increases velocity
