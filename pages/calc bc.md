@@ -1,5 +1,5 @@
 - [[precalc notes]]
 - [[limits]]
 - [[tips]]
--
+- [[derivatives]]
 -
