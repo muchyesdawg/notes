@@ -11,7 +11,7 @@
 		- scalar(magnitude only)
 		- path length traveled from one location to another, varies depending on the path
 	- ## velocity#vocabp
-		- symbol, v
+		- symbol, $$v$$
 		- equation is v=deltax/deltat
 		- has magnitude and direction
 		- units m/s
@@ -19,6 +19,9 @@
 		- distance traveled over time
 		- avg speed = total distance traveled/ total time
 		- units m/s
-	- ## Acceleration
-		- vf-vi/deltat
+	- ## Acceleration #vocabp
+		- rate of change of velocity
+		- a vector
+		- symbol $$a$$
+		- $$\dfrac{V_f-V_i}{t}$$
 		- vf=vi+at
