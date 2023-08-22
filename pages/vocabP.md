@@ -23,5 +23,6 @@
 		- rate of change of velocity
 		- a vector
 		- symbol $$a$$
-		- $$\dfrac{V_f-V_i}{t}$$
-		- vf=vi+at
+		- $$A_{avg}=\dfrac{V_f-V_i}{t}$$
+		- $$V_f=V_i+at$$
+		- pocit
