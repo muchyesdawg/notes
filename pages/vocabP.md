@@ -19,3 +19,5 @@
 		- distance traveled over time
 		- avg speed = total distance traveled/ total time
 		- units m/s
+	- Acceleration
+		-
