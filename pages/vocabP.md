@@ -27,6 +27,7 @@
 		- positive acceleration increases velocity
 		- can be caused by change of speed/direction
 		- $$A_{avg}=\dfrac{V_f-V_i}{t}$$
+		-
 		- $$V_f=V_i+at$$
 		-
 		-
