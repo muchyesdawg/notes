@@ -23,6 +23,8 @@
 		- rate of change of velocity
 		- a vector
 		- symbol $$a$$
+		- positive acceleration increases velocity
 		- $$A_{avg}=\dfrac{V_f-V_i}{t}$$
 		- $$V_f=V_i+at$$
-		- pocit
+		-
+		-
