@@ -1,2 +1,2 @@
-- {{renderer :mathlive_mjwcjbwr}}[:div {:is "mathlive-mjwcjbwr"}]
-  de
+- $$\frac{\Delta y}{\Delta x}=\frac{f\left(b\right)-f\left(a\right)}{b-a}$$
+- $$f'(x)=\lim_{h\to}$$
