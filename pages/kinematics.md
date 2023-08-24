@@ -8,4 +8,4 @@
 	  $$V^2_f=V^2_i+2ad$$
 	- $$\Delta x=\frac{1}{2}(v_f+v_i)t$$
 	- $$v_{avg}=\dfrac{\Delta x}{\Delta t}$$
-	- $$d$$ in ((64e77df1-45a3-4c62-b90f-345fbf781f1f)) can
+	- $$d$$ in ((64e77df1-45a3-4c62-b90f-345fbf781f1f)) can be changed to
