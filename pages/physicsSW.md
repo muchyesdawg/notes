@@ -1,3 +1,4 @@
 - [[uniform motion]]
+- [[kinematics]]
 - [[vocabP]]
 -
