@@ -4,7 +4,8 @@
 	- $$f'(x)=\lim_{h\to0}$$
 - tangent
 - kinematics eq
-	- uses velocity
+	- uses velocity v time graphs
+	-
 	- $$V_f=V_i+at$$
 	- $$x_f=x_i+V_it+1/2at^2$$
 	- $$V^2_f=V^2_i+2a(x_f-x_i)$$
