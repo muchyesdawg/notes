@@ -3,4 +3,7 @@
 	- $$\frac{\Delta y}{\Delta x}=\frac{f\left(b\right)-f\left(a\right)}{b-a}$$
 	- $$f'(x)=\lim_{h\to0}$$
 - tangent
-- kinematics equ
+- kinematics eq
+	- $$V_f=V_i+at$$
+	- $$x_f=x_i+V_it+1/2at^2$$
+	- $$V^2_f=V^2_$$
