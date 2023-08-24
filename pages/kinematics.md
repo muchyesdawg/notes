@@ -8,4 +8,5 @@
 	  $$V^2_f=V^2_i+2ad$$
 	- $$\Delta x=\frac{1}{2}(v_f+v_i)t$$
 	- $$v_{avg}=\dfrac{\Delta x}{\Delta t}$$
-	- $$d$$ in $$V^2_f=V^2_i+2ad$$ can be changed to
+	- the $$d$$ in $$V^2_f=V^2_i+2ad$$ can be changed to $$(x_i+x_f)$$
+	-
