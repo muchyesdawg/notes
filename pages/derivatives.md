@@ -3,3 +3,4 @@
 	- $$\frac{\Delta y}{\Delta x}=\frac{f\left(b\right)-f\left(a\right)}{b-a}$$
 	- $$f'(x)=\lim_{h\to0}$$
 - tangent
+- kinematics equ
