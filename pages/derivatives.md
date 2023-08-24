@@ -7,7 +7,7 @@
 	- uses velocity v time graphs
 	-
 	- $$V_f=V_i+at$$
-	- $$x_f=x_i+V_it+1/2at^2$$
+	- $$x_f=x_i+V_it+\dfrac{at^2}{2}$$
 	- $$V^2_f=V^2_i+2a(x_f-x_i)$$
 	- $$\Delta x=\frac{1}{2}(v_f+v_i)t$$
 	- $$v_{avg}=\dfrac{\Delta x}{\Delta t}$$
