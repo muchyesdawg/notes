@@ -7,7 +7,8 @@
 			- the smaller base of the trapezoid is $$v_i$$, and the bigger base is $$v_f$$
 			-
 		- the equation is essentially the area of a trapezoid
-	- $$v_f=v_i+at$$
+	- collapsed:: true
+	  $$v_f=v_i+at$$
 		- this equation uses the properties of $$a$$, where $$a$$ is the acceleration of object/slope of the graph
 		- since $$slope=\dfrac{\Delta y}{\Delta x}$$, then $$slope\: \cdot\: \Delta x = \Delta y$$, rewritten as $$at = \Delta v$$
 		  id:: 64ea470a-3314-4a3b-8f40-060a174076df
