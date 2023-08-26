@@ -1,7 +1,8 @@
 - equations(works because fo the properties of a $$v/t$$ graph)
 	- $$\Delta x=\frac{1}{2}(v_f+v_i)t$$
 		- this works because the shape below the line is a trapezoid
-		- the
+			- the smaller base of the trapezoid is $$v_i$$, and the bigger base is $$v_f$$
+			-
 	- $$V_f=V_i+at$$
 	- $$x_f=x_i+V_it+\dfrac{at^2}{2}$$
 	- id:: 64e77df1-45a3-4c62-b90f-345fbf781f1f
