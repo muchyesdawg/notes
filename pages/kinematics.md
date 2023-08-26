@@ -28,7 +28,7 @@
 		- this works by forming a square with the side length of $$v_f$$
 		- the reason behind $$2a\Delta x$$ is because by multiplying the trapezoids by a, we get a trapezoid with the height equaling to the difference of $$v_i$$ and $$v_f$$
 		- the equaling height and difference creates a trapezoid with a slope of 1, which allows it to be multiplied by two, forming the square of $$v_f$$
-		-
+		- if $$$$ is positive, it adds towards $$v_i$$, if a is negative, it subtracts from vi,
 	- $$v_{avg}=\dfrac{\Delta x}{\Delta t}$$
 	-
 	-
