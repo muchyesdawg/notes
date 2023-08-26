@@ -30,4 +30,5 @@
 		-
 		- $$V_f=V_i+at$$
 		-
-		-
+		- ## kinematics #vocabP
+			- objects in motion
