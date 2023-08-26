@@ -24,5 +24,7 @@
 	- id:: 64e77df1-45a3-4c62-b90f-345fbf781f1f
 	  $$v^2_f=v^2_i+2a\Delta x$$
 		- the $$\Delta x$$ in $$v^2_f=v^2_i+2a\Delta x$$ can be changed to $$t^2$$
+		- this works by forming a square
 	- $$v_{avg}=\dfrac{\Delta x}{\Delta t}$$
+	-
 	-
