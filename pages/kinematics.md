@@ -27,7 +27,7 @@
 		- the $$\Delta x$$ can be changed to $$t^2$$ or $$(x-x_0)$$ or just $$s$$
 		- this works by forming a square with the side length of $$v_f$$
 		- the reason behind $$2a\Delta x$$ is because by multiplying the trapezoids by a, we get a trapezoid with the height equaling to the difference of $$v_i$$ and $$v_f$$
-		- the equaling height and difference creates a trapezoid with a slope of 1, which allows
+		- the equaling height and difference creates a trapezoid with a slope of 1, which allows it to be multiplied by two,
 	- $$v_{avg}=\dfrac{\Delta x}{\Delta t}$$
 	-
 	-
