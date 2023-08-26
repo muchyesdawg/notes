@@ -6,11 +6,12 @@
 			- the smaller base of the trapezoid is $$v_i$$, and the bigger base is $$v_f$$
 			-
 		- the equation is essentially the area of a trapezoid
-	- $$V_f=V_i+at$$
+	- collapsed:: true
+	  $$V_f=V_i+at$$
 		- this equation uses the properties of $$a$$, where $$a$$ is the acceleration of object/slope of the graph
-		- since $$slope=\dfrac{\Delta y}{\Delta x}$$, then $$slope\: \cdot\: \Delta x = \Delta y$$, rewritten as $$a\: \cdot\: $$
-		-
+		- since $$slope=\dfrac{\Delta y}{\Delta x}$$, then $$slope\: \cdot\: \Delta x = \Delta y$$, rewritten as $$at = \Delta v$$
 	- $$x_f=x_i+V_it+\dfrac{at^2}{2}$$
+		-
 	- id:: 64e77df1-45a3-4c62-b90f-345fbf781f1f
 	  $$V^2_f=V^2_i+2a\Delta x$$
 		- the $$\Delta x$$ in $$V^2_f=V^2_i+2a\Delta x$$ can be changed to $$t^2$$
