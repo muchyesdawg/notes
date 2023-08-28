@@ -23,6 +23,7 @@
 			- {{embed ((64ea470a-3314-4a3b-8f40-060a174076df))}}
 		- the $$x_i$$ can be taken out if not necessary, as it only adds previous displacement
 	- id:: 64e77df1-45a3-4c62-b90f-345fbf781f1f
+	  collapsed:: true
 	  $$v^2_f=v^2_i+2a\Delta x$$
 		- the $$\Delta x$$ can be changed to $$t^2$$ or $$(x-x_0)$$ or just $$s$$
 		- this works by forming a square with the side length of $$v_f$$
