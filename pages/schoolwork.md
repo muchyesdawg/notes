@@ -1,7 +1,6 @@
 - [[biology]]
 - [[chemistry]]
 - [[physics]]
-	-
 - [[math]]
 - [[whap]]
 - [[swTODO]]

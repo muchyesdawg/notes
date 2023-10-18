@@ -1,0 +1,6 @@
+- vocab
+	- {{embed ((652816f3-7a17-46c0-844b-5571b67cd789))}}
+	-
+- main equations
+	- $$T=1/f$$
+	-

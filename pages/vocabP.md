@@ -1,4 +1,5 @@
 # KINEMATICS
+id:: 652f3d0a-9912-44ed-9451-599e31a37b19
 	- ## displacement #vocabp
 		- straight line distance bewteen the initial and final points
 		- has both magnitude and direction
@@ -32,3 +33,51 @@
 		-
 		- ## kinematics #vocabP
 			- objects in motion
+		- ## hooke's law
+		  id:: 652ff1bf-9dd5-4f69-9e02-9528a7a9d070
+			- $$f_{spring}=-kx$$
+			- where $$k$$ is spring constant, and $$x$$ is the displacement
+			-
+- # FORCES
+	- ## gravitational forces
+	- ## inverse square law
+		- at a distance $$r$$, the energy on an object is $$E$$
+		- as the object moves further $$\Delta Dr$$, then the energy on the object will be $$\dfrac{E}{\Delta D^2}$$
+		- as the object moves closer $$\Delta Dr$$, the energy on the object will be $$E\cdot\Delta D^2$$
+	-
+		- $$$$
+- # ROTATIONAL MOTION
+  id:: 652816f3-7a17-46c0-844b-5571b67cd789
+	- motion of a body that spins about an axis
+	- ### rotation
+		- when an object turns about an internal axis
+	- ### revolution
+		- when an object turns about an external
+	- ### uniform circular motion
+	  id:: 652816f3-cf73-4806-ae03-b66268cdd474
+		- motion in which there is not change in speed, only a change in direction
+		- constant speed and motion
+		- #### period
+		  id:: 65281526-1448-4be6-b9c2-b2935f5e5bab
+			- time it takes for one full rotation/revolution of an object
+			- equation $$T=\dfrac{1}{f}$$ or $$R/t$$
+			- units is $$T$$
+			- units:seconds $$s$$
+		- #### frequency
+			- number of rotations or revolutions per unit time
+			- units $$Hz,s^{-1}$$
+			- equation $$f = \frac{1}{T}$$
+			- inversely proportional with ((65281526-1448-4be6-b9c2-b2935f5e5bab))
+	- ### tangential speed
+		- speed of something moving along a circular path
+		- direction of a motion is always tangent to the circle.
+		- $$V_t=\dfrac{2\pi r}{T}$$
+	- ### rotational speed(angular speed)
+		- number of rotations per unit of time
+	- ### centripetal force
+		- any force that causes an object to follow a circular path
+		- always directed to the center
+		- inertia is tangential to the circle
+		- $$a_c=\dfrac{V^2_T}{r}$$
+	- ### centrifugal force
+		- not real
