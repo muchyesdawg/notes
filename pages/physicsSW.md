@@ -1,6 +1,0 @@
-- [[uniform motion]]
-- [[kinematics]]
-- [[vocabP]]
-- [[circular motion]]
-- [[PHYequations]]
--

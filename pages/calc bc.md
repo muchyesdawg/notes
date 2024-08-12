@@ -1,6 +1,0 @@
-- [[precalc notes]]
-- [[limits]]
-- [[tips]]
-- [[derivatives]]
-- [[notes]]
--

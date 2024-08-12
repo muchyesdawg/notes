@@ -1,2 +1,0 @@
-- [[atom Properties]](are basically the same)
-- [[appendix]]
