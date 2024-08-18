@@ -8,26 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5635cf08aa861b1",
+            "id": "2bcb9ed0dca6b0df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Courses/Junior 2024-25/AP Physics C/AP Physics C.md",
+                "file": "School/Courses/Junior 2024-25/AP Biology/Unit 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e53d693029389496",
+            "id": "cc13b27aba71ba8a",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Statistics/Independent Variable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "056ed1fd09330ae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/AP Biology/Statistics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:chemistry",
+                "query": "tag:#biology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 245.5
   },
   "right": {
     "id": "ec525ba42d7f6714",
@@ -96,31 +113,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c89fc45fbc9542a2",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "School/Courses/Junior 2024-25/AP Physics C/AP Physics C.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "afbe8f97f72a6b51",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Courses/Junior 2024-25/AP Physics C/AP Physics C.md",
+                "file": "Notes/Statistics/Independent Variable.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Courses/Junior 2024-25/AP Physics C/AP Physics C.md"
+                "file": "Notes/Statistics/Independent Variable.md"
               }
             }
           },
@@ -161,8 +161,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "45fa27996d1d3957",
@@ -180,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 343.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,34 +200,44 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d5635cf08aa861b1",
+  "active": "cc13b27aba71ba8a",
   "lastOpenFiles": [
+    "Notes/AP Biology/Statistics.md",
+    "Notes/Statistics/Independent Variable.md",
+    "Untitled.md",
+    "Notes/Statistics/Standard Deviation.md",
+    "Notes/Statistics 1",
+    "Tags/Statistics.md",
+    "Notes/Statistics",
+    "Notes/AP Chemistry/review.md",
+    "School/Courses/Junior 2024-25/AP Chemistry/Unit 1.md",
+    "School/Courses/Junior 2024-25/AP Biology/Unit 1.md",
+    "Notes/Untitled.md",
+    "Notes/AP Biology",
+    "Notes/AP Chemistry",
     "School/Courses/Junior 2024-25/AP Chemistry/AP Chemistry.md",
+    "Notes/AP Chemistry",
     "School/Courses/Junior 2024-25/AP Biology/AP Biology.md",
+    "Notes",
     "School/Courses/Junior 2024-25/AP Physics C/AP Physics C.md",
+    "School/Courses/Junior 2024-25/Calculus 3/Calculus 3.md",
     "School/Courses/Junior 2024-25/Junior year.md",
+    "Untitled.canvas",
     "Templates/Course title card.md",
+    "School/Courses/Junior 2024-25/Calculus 3",
+    "2024-08-13.md",
+    "2024-08-17.md",
     "School/Courses/Courses.md",
+    "School/Assignments/Assignments.md",
     "School/Courses/Junior 2024-25/AP Physics C",
     "Tags/#",
     "Tags",
     "School/Courses/Junior 2024-25/AP Chemistry/AP Chemistryf.md",
-    "Untitled.canvas",
-    "School/Courses/Junior 2024-25/AP Biology",
-    "2024-08-13.md",
-    "Templates",
     "0002-05-06.md",
     "Vault.md",
-    "School/Courses/Junior 2024-25/AP Chemistry",
     "School/School.md",
     "School/Courses/Junior 2024-25/Junior 2024-25.md",
     "School/Courses/Junior 2024-25/AP Chemstry/AP Chemstry.md",
-    "School/Courses/Junior 2024-25/AP Chemistry",
-    "Tags/#sciences",
-    "Tags/#chemistry",
-    "Tags/#courses2425",
-    "School/Courses/Junior 2024-25/goofy.md",
-    "School/Assignments/Assignments.md",
-    "School/Courses/Junior 2024-25/nah.md"
+    "School/Courses/Junior 2024-25/goofy.md"
   ]
 }
