@@ -1,9 +1,0 @@
-- add player jumping#ttt
-- sprites#ttt
-	- draw sprites
-	- render sprites
-- make test map#ttt
-- find math for gravity and stuff(no using third parties)#ttt
-- collision#ttt
-	- create horizontal collision
-	- create vertical collision

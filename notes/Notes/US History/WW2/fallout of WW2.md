@@ -1,0 +1,15 @@
+- wasn't predicting the radioactive fallout of the bombs
+- kills a lot of people through the atomic radiation
+- kills
+	- 20 million soldiers
+	- 50 million civilians
+		- destroy arms manufacturers
+			- civilians in cities
+	- America lost ~322,000
+	- Russia lost ~30,000,000
+- changes to america
+	- a lot of new tech
+	- ties with russia in strength
+- changes to russia
+	- a lot of people 
+	- ties with america in strength

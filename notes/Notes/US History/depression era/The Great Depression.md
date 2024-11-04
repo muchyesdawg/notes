@@ -1,0 +1,91 @@
+---
+date: 2024-10-15
+course/tag:
+  - "[[template]]"
+Teacher: Redgraves, Christopher
+tags:
+  - lecture
+files:
+  - "[[dustbowl]]"
+---
+- trigger
+	- black Tuesday
+		- October 29, 1929
+		- Stock Market
+			- will only go up during the time
+			- $14 Billion disappear
+				- when companies declare bankrupt, the money disappears
+			- people start selling every single stock they own, which eventually collapses the company
+- cause 
+	- lack of diversity of products
+	- credit
+		- people create credit problems for themselves by projecting the money they will have within a certain period of time
+	- international trade
+- progression towards depression
+	- banking
+		- if a bank failed, it was your fault
+		- it was viewed as gambling
+			- if/when you put money into bank, the interest is from the interest of loans
+		- run on the banks
+			- when people demand their money from banks, causing their neighbors to demand their money, which cause banks to fail (not enough money to sustain that much money demand)
+			- when banks fail and go bankrupt, houses and buildings owned by banks are no longer owned by anyone
+				- homeowners become squatters 
+	- unemployment
+- ## effects
+	- places other than America suffer as well
+	- domino effect of failing banks and businesses
+	- ### affects on the next generation
+		- affects the children of these times the most
+		- intense focus on leading a simple life
+			- spend much less money, saving more
+			- don't buy unless you absolutely need it
+		- work values
+			- no more taking time offs
+		- distrust in banks
+			- stopped trusting the banks
+			- even when the government fixes these issues, people still don't completely trust them
+		- President Hoover
+			- Perception
+				- people say it is his fault
+					- this is unfair, there was nothing he could've done to stop a decades' worth of buildup to the great depression
+				- his way of fixing this is not good
+					- he does nothing during his presidency
+					- he pushes for people to spend money
+						- no one has money, a surplus of products doesn't make any change
+			- Hoovervilles
+				- nickname homeless encampments to tell him this is his fault
+			- Reconstruction Finance Corporation 1932
+				- funding companies in danger of failing
+				- President hoover stops them and tells them to fund company that they know won't fail
+					- funds [[Markets during boom time#^43a66b|ford]] instead
+	- ### 1932
+		- fascism
+			- Europe is getting violent 
+				- protests and army "quelling" the protests
+		- voting year
+		- #### election
+		- Franklin D. Roosevelt
+			- cousin of theodore roosevelt
+			- career
+				- started in NY
+				- assistant secretary of the navy
+				- vp candidate at some point
+			- had polio
+				- if you're young and had it you die
+				- if you get it when you're older, you'd still die, but if you don't, you get crippled 
+			- campaigns
+				- FDR was in a wheelchair, but no one  knew
+				- did his best to hide this fact
+				- people in the political world knew
+					- the republicans could've pointed it out but no one did
+						- it was not polite
+						- 
+				- Hoover does nothing
+				- FDR
+					- won by the biggest landslide
+					- Interregnum
+						- a time when the new president is in office, but the old president is in charge.
+						- normally the two presidents don't do anything during this time
+						- Hoover makes a speech about wishing that Roosevelt sticks with the hoover plan
+							- not doing anything and telling America to spend more money
+							- FDR takes action so no one thinks the two had some secret meeting

@@ -1,0 +1,7 @@
+- NATO
+	- Mutual defense
+		- if one country is attacked, all countries in the pact goes to war
+	- Strong Military
+- Warsaw Pact
+	- Warsaw, the capital of Poland. make it look like Poland wanted it
+	- Russia's NATO 

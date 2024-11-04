@@ -1,0 +1,27 @@
+- Born 1865- ohio
+- Mediocre at best in college
+- newspaper
+	- starts his pro-business newspaper in an anti-business world
+	- wife helps his newspaper business by shifting it to an acceptable pro-business
+		- this gets successful
+		- Warren takes credit
+	- gets recognized by republican party
+- during his presidential election campaign
+	- looked presidential
+		- he only looked like he should be president
+		- this gets him all the way to being asked if he wants to be president
+	- gets turned into a republic puppet
+		- return to normalcy
+			- not a word
+		- Democrats during this time pick a guy that wants league of nation
+		- was a bad person
+			- had a mistress
+			- liked gambling and [[18th amendment|drinking]]
+- During his presidential running
+	- return to normalcy
+	- do nothing president
+		- just a puppet
+	- scandal
+		- teapot dome scandal
+		- 
+	- death

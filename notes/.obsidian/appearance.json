@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "AnuPpuccin",
+  "baseFontSize": 21,
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "jetbrains mono",
+  "enabledCssSnippets": [
+    "fonts"
+  ]
+}

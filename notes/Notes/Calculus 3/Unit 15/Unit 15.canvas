@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"096e8c4652b5babb","x":-640,"y":160,"width":400,"height":400,"type":"file","file":"Notes/Calculus 3/Unit 15/partial derivatives.md"},
+		{"id":"c5a6bdae04b1eac9","x":-80,"y":240,"width":400,"height":400,"type":"file","file":"Notes/Calculus 3/Unit 15/implicit differentiation.md"},
+		{"id":"c4137daa639350ed","type":"file","file":"Notes/Calculus 3/Unit 15/Chain Rule(multivar).md","x":-120,"y":-300,"width":400,"height":400},
+		{"id":"a06cf578c18d2eaa","type":"file","file":"Notes/Calculus 3/Unit 15/directional derivative.md","x":600,"y":-40,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"340c6e1ea4d614f1","fromNode":"096e8c4652b5babb","fromSide":"right","toNode":"c5a6bdae04b1eac9","toSide":"left"},
+		{"id":"8f4ddb885dab14dd","fromNode":"096e8c4652b5babb","fromSide":"right","toNode":"c4137daa639350ed","toSide":"left"}
+	]
+}

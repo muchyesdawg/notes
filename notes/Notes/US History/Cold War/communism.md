@@ -1,0 +1,3 @@
+- everyone paid the same
+- no motivation for work
+	- no one runs for higher positions because there is no 

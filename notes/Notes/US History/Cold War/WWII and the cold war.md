@@ -1,0 +1,37 @@
+- invasion of egypt
+- invasion of italy
+- tehran conference
+	- occurs in iran controlled by England
+	- when Poland is brought up, Stalin is pressed by this accusation
+		- Stalin throws a fit and brushes them off
+		- gets defensive, which is a red flag for everyone else
+		- stalin might have plans to take over poland
+- Yalta february 1945
+	- ending war
+	- united nations
+		- FDR proposed another one called the UN
+			- wanted to be able to make changes 
+			- general assembly
+				- composed of any nations that want to join
+				- everybody can join, vote, propose, defend ideas.
+				- all equal in assembly
+			- security council
+				- allows for vetos
+			- wants american citizens and russia to agree to the UN
+			- composed of the allies
+				- America
+				- france
+				- england
+				- china
+			- russia agrees
+				- the only communist country
+			- russia's treatment of
+				- poland
+					- when poland is invaded by germans, all the people left for England
+					- Russia takes the land over, and puts communists onto the land
+					- loose promis to talk about the 
+				- Germany
+					- Russia treat germans a
+					- zones of occupation
+	- roosevelt dies
+		- april 12,1945

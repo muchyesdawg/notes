@@ -1,0 +1,4 @@
+- first half: war
+	- 
+- second half: dealing with loss of identity
+- "aww man, im so glad this war is almost over"

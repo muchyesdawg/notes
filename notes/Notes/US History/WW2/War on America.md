@@ -1,0 +1,33 @@
+- End of Depression
+	- Worker Shortage
+- Production
+	- supply as many things as we can
+	- Number 1 producer
+		- quick production of war materials
+- Unintended Consequences
+	- African Americans and Military
+		- labor
+			- was denied labor
+			- now allows them to work in factories
+		- Integrated Training
+			- mixed training with no segregation
+			- was segregated 
+			- basically announces African Americans are equal to White people
+		- Combat
+		- Tuskegee Airmen
+			- Shielding the bombers
+			- Red Tails
+			- was to insult Germans and racist Americans
+		- hoping there is would be a change of heart that African Americans are equal
+	- Japanese Americans
+		- escaped Japan because of the Japanese government
+		- Less anti-Germany
+			- the hate of Nazis instead of Germans
+		- Race Hatred
+			- people hate Japanese people because of media portrayal
+		- Fear of Betrayal
+			- fear of Japanese Americans will betray Americans
+		- Concentration camps
+			- concentrating people into a camp
+			- renamed to relocation centers after America learns what Japan calls their camps
+			- due to this, it makes them feel like they're in another dictatorship/militarism

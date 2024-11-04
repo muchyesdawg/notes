@@ -1,0 +1,12 @@
+- deficit spending ^242354
+	- if the government give money to citizen
+	- the citizens will spend it, which causes companies to need workers, jobs will come back
+	- risky
+		- if they fail
+			- less value in money
+				- inflation
+			- more tax
+			- less trust in currency
+- Hydroelectric Dams
+	- create dams that create electricity
+- Tennessee & Muscle Shoals Rivers

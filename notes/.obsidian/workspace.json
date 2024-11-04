@@ -1,0 +1,312 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stories/Untitled/his squadmates personality.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "his squadmates personality"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "198b16cf3ee3c487",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7f8c1de9ea5bb82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b5421bd54330ea4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1e9ce74ec5f23779",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#todo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ad806d032e583913",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "6b971eee5b83b6c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Stories/Stories.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Stories"
+            }
+          },
+          {
+            "id": "0c2618d9600d1a7b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "right": {
+    "id": "4d56396514ee932a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c71f1e89610d9a5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1689e961bbb17d8c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Stories/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "a1a931bfd75976d0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a8ba87f7b0b1668c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "28497551c4742783",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fb4db8fa39541b9f",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "media-extended:Open media": true,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "homepage:Open homepage": false,
+      "templates:Insert template": true,
+      "zk-prefixer:Create new unique note": true,
+      "workspaces:Manage workspace layouts": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "canvas:Create new canvas": false,
+      "templater-obsidian:Templater": true,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-projects:Open projects": false,
+      "darlal-switcher-plus:Open in Headings Mode": true,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "command-palette:Open command palette": true,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "daily-notes:Open today's daily note": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-day-planner:Timeline": false
+    }
+  },
+  "floating": {
+    "id": "3c0c493f56f71d9b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7d53d1ea230b26d4",
+        "type": "window",
+        "children": [
+          {
+            "id": "966bb20033858224",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "40b332c8f8ca77a9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Stories/Untitled/ways of portrayal.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "ways of portrayal"
+                }
+              },
+              {
+                "id": "6f21b78d71fc6349",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Stories/Untitled/protag.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "protag"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 816,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5b5421bd54330ea4",
+  "lastOpenFiles": [
+    "Home.md",
+    "Stories/Untitled/ways of portrayal.md",
+    "Stories/Untitled/his squadmates personality.md",
+    "Stories/Untitled/Draft 1.md",
+    "Stories/Untitled/protag.md",
+    "Stories/Untitled/scenes.md",
+    "Stories/Untitled/Untitled 1.md",
+    "Stories/Untitled/nation of steel.md",
+    "Stories/Untitled/Untitled.md",
+    "Stories/Stories.md",
+    "Untitled.md",
+    "Tags/Untitled.md",
+    "Templates/lecture.md",
+    "calendar/2024-10-30 text sishir about ftc.md",
+    "daily notes/10/30/2024.md",
+    "daily notes/10/30",
+    "Stories/Untitled",
+    "outline.md",
+    "untitled 2.md",
+    "Notes/US History/US History.md",
+    "Notes/US History/WW2/WW2.md",
+    "Notes/US History/Cold War/soviet american tensions.md",
+    "Notes/US History/WW2/Women during the war.md",
+    "watch list.md",
+    "calendar/2024-10-31 short story due.md",
+    "daily notes/10/29/2024.md",
+    "daily notes/10/29",
+    "daily notes/10",
+    "Notes/US History/Cold War/Cold War.md",
+    "Notes/US History/Cold War/soviet union.md",
+    "Notes/US History/Cold War",
+    "Stories",
+    "Notes/US History/WW2",
+    "Notes/Calculus 3/unit 13-14/Unit 13-14 overview.canvas",
+    "Notes/Calculus 3/Unit 15/Unit 15.canvas",
+    "Notes/US History/post depression era",
+    "Notes/Calculus 3/Unit 15",
+    "Media/Courses/Calculus 3/calc3.pdf",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Pasted image 20241007193639.png"
+  ]
+}

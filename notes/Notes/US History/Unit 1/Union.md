@@ -1,0 +1,74 @@
+---
+Link: "[[Us History]]"
+---
+- ## Unions 
+	- a group that comes together for change
+	- going on strike.
+	- examples:
+		- the Knights of Labor
+			- 8 hour day
+				- get paid enough for working 8 hours to get over poverty line
+			- no child labor
+				- kids don't compete with adults for work
+				- kids can focus on education
+			- economic reform
+			- worker run factories
+				- workers can ask for changes in factories.
+			- gets replaced because of no one willing to go on strike
+		- American Federation of Labor
+			- only allowed skilled labor
+			- same wishes as knights of labor
+			- Haymarket square protest
+				- someone throws a bomb [[Union#^bcb79f|, which gets people to link unions to terrorists.]]
+	- because these things also happen in Europe
+		- people attach strikes to European ideas
+			- European factory workers can't vote
+			- because of this, they believe the only way to get government attention is violence
+			- more militant
+		- believed to be brought over by immigrants
+		- is attached to socialists
+		- anarchy (political theory): destroying the government  ^bcb79f
+			- spontaneous 
+			- if someone does an act of terrorism, other anarchists will take action as well.
+				- like throwing bombs and killing monarchs in Europe or killing governors
+			- chaotic, violent
+		- example
+			- homestead strike
+				- Amalgamated association of Iron and Steel Workers
+				- steelmaking is easier
+				- workers aren't as skilled
+				- scab workers
+					- during strike, people get paid more
+					- when scab workers tries getting in, union people beat up the scab workers.
+				- during this strike, the Pinkerton Detective Agency gets called
+					- detectives are allowed to carry concealed weapons
+					- for this reason, it gets turned into riots
+- ## Labor weakness
+	- unions are small
+		- no unskilled, women, or minorities
+	- immigrants
+		- thought they will bring bad qualities
+		- the reason immigrants move over is because American factories pay more than European factories.
+			- Immigrants 
+	- owners
+		- not enough power over owners
+			- owners own a lot of businesses, so if unions go on strike against some factory, they can just shut the factory down, leading to not much difference to profit of the owners, but nothing gets changed for union.
+		-  owners believe if they gave workers something, workers will keep making demands, leading to more strikes
+	- public opinion
+		- class warfare
+- ## Urban Life
+	- Threats
+		- fire
+			- wooden buildings and factories, so fire spreads easier.
+		- disease
+			- germ theory: doesn't matter yet
+			- no trash pickups
+				- trash rots in the middle of the roads
+			- no sewage wastes
+				- human waste is on streets, alongside mules(wagons) wastes
+				- dysentery and cholera
+		- pollution
+- what type of document? is this how does this affect the message?
+- do they do a good job proving their argument? why?
+- how might this person's life affect the decisions they are making?
+- is this document good for research? what kind of research would it work well with what kind of research? would it not work well with?

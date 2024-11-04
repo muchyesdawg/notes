@@ -1,0 +1,16 @@
+- voices of descent (populist)
+	- Dr. Francis Townsend ^1e5e4f
+	- townsend plan
+		- argued there is a problem with old people
+		- old people lost everything during the great depression
+		- because they have no immediate family they also have to go back to work during the great depression
+		- his idea is to pay the old people to stay at home and bonuses
+		- isn't possible because the government will go in debt
+	- populist dont deliver on their promises
+	- the populist will deliver empty promises to be elected into senate
+	- will keep voting no for everything
+- workers progress administration
+	- public works
+	- intellectual endeavors
+- [[national youth administration]]
+- 

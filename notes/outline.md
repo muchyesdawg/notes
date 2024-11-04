@@ -1,0 +1,3 @@
+- Another point to consider is that the Earth has experienced natural climate fluctuations for millions of years. Scientists like Rachel Johnson remind us that during the Ice Age, the planet was much colder than it is today, and human activity had nothing to do with it (Johnson 45). <font color="#c0504d">If climate change is natural, then it must be part of the Earth’s normal cycle. Humans can’t possibly be causing global warming when the Earth has warmed and cooled on its own countless times.</font> Any argument that claims otherwise is simply ignoring history.
+- Hasty generalization and false assumption
+	- assumes that the change that is present is natural?

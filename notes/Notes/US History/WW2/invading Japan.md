@@ -1,0 +1,28 @@
+- take over Okinawa 
+	- Japanese island
+	- Japanese do not want to lose those islands
+- battle of Okinawa
+	- 30000 kamikaze planes
+	- a lot of propaganda of Americans 
+		- they are really bad people and it is better to kill yourself instead
+- options
+	- invasion
+		- could be the bloodiest battle
+		- might lose 500,000 Americans, 10,000,000 Japanese people
+		- Japanese training all the civilians
+			- woman and old people with sharp objects to kill
+			- children as suicide bombers
+			- cause a lot of mental stress and damage on Americans
+	- blockade of Japanese people and bombing it was another option
+		- lose less Americans because it will just be bomber planes
+	- atomic bomb (best option???)
+		- Manhattan project
+			- a chain reaction of nuclear fission
+			- Albert Einstein predicted that these nuclear reactions can be used for energy and weapons
+			- a secret project
+		- little boy - Hiroshima - august 6 - 40 - 80,000 Germans in a week
+		- Fatman - Nagasaki - august 9 - 90 - 150,000
+		- emperor surrenders
+			- military backs out
+		- VJ Day - August 15,1945
+	- 

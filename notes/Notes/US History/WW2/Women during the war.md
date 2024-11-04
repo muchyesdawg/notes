@@ -1,0 +1,10 @@
+- Workers
+	- the need for workers during the war, not enough men to work
+- created rosie the riveter
+	- used to encourage women to work
+	- was used as a symbol as a feminism for women 
+- eleanor roosevelt
+	- background
+	- first lady
+	- vocal for rights
+		- rights for African Americans and women

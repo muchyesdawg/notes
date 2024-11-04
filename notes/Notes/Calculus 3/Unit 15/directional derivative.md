@@ -1,0 +1,3 @@
+- much like [[partial derivatives]], they are derivatives of a multivariate function along an axis
+- however, directional derivatives must provide a vector as well, which provides the direction of which the function is being split
+	- what this is means is that if partial derivative is slicing along an axis, directional is slicing along a $\hat v$

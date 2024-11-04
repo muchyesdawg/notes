@@ -1,5 +1,0 @@
-- [[ChemMath]]
--
-- [[atom Properties]]
-- [[periodic Table Props]]
--

@@ -1,0 +1,18 @@
+- unified nations
+	- Russia gets pulled into the war
+- Germany & Italy
+	- nazi territory that follow Japan into war with America/unified nations
+	- America prioritizes Germany/Italy
+	- will deal with japan later
+	- Uses military bases already nearby to fight Japan
+- Axis
+	- Germany
+	- Italy
+	- Japan
+- Allies(Struggling currently)
+	- America
+	- England
+	- Russia
+	- China
+	- France
+- 

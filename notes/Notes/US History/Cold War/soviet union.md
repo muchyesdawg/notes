@@ -1,0 +1,11 @@
+- formation
+	- communism
+- Joseph Stalin
+	- comes to power before WWII
+	- maintains absolute control through fear
+	- "the death of one is a tragedy, the death of a million is a statistic"
+	- kills all people that opposes him
+	- if anyone is considered a potential threat
+		- they will be accused of fake crimes and tortured until they confessed
+		- when this happens, they will kill them and their family
+- WWII

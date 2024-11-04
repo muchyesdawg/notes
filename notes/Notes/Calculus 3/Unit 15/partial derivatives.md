@@ -1,0 +1,3 @@
+- the rate of change along a certain axis
+- denoted by the notation $\dfrac{\delta f}{\delta x}=f_x$ where in $f$, $x$ is being derived while $y$ is held as constant
+- a way to imagine this is if you were to place a plane on $f$ along an axis, $x$ or $y$, the function, the intersection between the plane and $f$ is what will be derived.

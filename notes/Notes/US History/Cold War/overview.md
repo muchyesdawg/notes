@@ -1,0 +1,6 @@
+- America and Russia compete to take over with their world ideas
+- America
+	- capitalism
+- Russia
+	- [[communism]]
+- war without bombs

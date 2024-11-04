@@ -1,0 +1,62 @@
+---
+Link: "[[Us History]]"
+---
+- old imperialism:
+	- a country would try to take a group of people and their culture and transplant them somewhere else them
+	- when America was first colonized, the colonizers considered themselves English, and this benefited both the English and colonizers
+- new imperialism
+	- control land outside of your country 
+	- make money off that land.
+- American reasons for empire
+	- ![[American West#^8d0c09|manifest Destiny]]
+	- Fredrick Jackson Turner
+		- journey into unventured lands makes us into better people.
+		- as the west settles, people that believe in turner's morals cause panic that people are going to become corrupt and lazy
+	- Social Darwinism
+		- encouraged that rich people are rich because they are superior and vice versa.
+		- people who overcome challenges are superior
+	- Alfred Thayer Mahan
+		- argued that if you don't take control of sea power, then Americans aren't gonna win
+	- Rudyard Kipling (wrote the jungle books)
+		- white man's burden
+			- white people must educate the inferior people(non White Americans)
+	- the Jingos
+		- hypernationalism
+		- believe that your country is the best and superior
+		- believe that anything that you do that benefits you are justified.
+		- ### Theodore Roosevelt
+			- was in New York when it was still known as New Amsterdam owned by the Dutch
+			- comes from a rich family
+			- his father is a leading and well respected doctor in America
+				- he was forced to work out and run laps with his asthma
+				- was made to smoke cigars
+			- outgrew asthma after puberty
+				- believed it was his father's work and the struggle he was put in
+			- believed in social Darwinism through his background
+			- masculinity (message they get from college)
+				- qualities that made a man a man
+				- physical strength, sacrifice, hard work, courage
+				- started illegal boxing rings to artificially create hardships
+				- started American football to simulate American war
+					- caused problems such as physical harm
+					- people broke bones and died on football fields
+					- sacrifice to win
+					- listen to orders
+			- published some books
+			- after getting married, he runs for a seat in new york state legislature
+				- being the gilded age, he tries to fight the corruption
+				- becomes a republican
+				- fights for change against corruption
+				- ran a ranch to become a cowboy, hunts buffalo (American identity)
+				- his wife and mom dies on valentines day
+				- his daughter gets born the same day
+				- he goes out to his ranch and goes on expeditions to kill himself
+				- he comes back from grieving
+			- goes back for change
+			- runs for police commissioner for NYPD
+			- normally their job is to sit behind a desk doing nothing, but he goes out to fight crime (like batman)
+			- tries to fix things and get national fame.
+			- tries to get politically assassinated by his own party(they want corruption)
+			- 
+ 
+___

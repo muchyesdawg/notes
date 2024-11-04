@@ -1,0 +1,2 @@
+- alcohol is illegal
+	- only legal for religious or medical reasons

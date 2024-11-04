@@ -1,0 +1,9 @@
+- American response
+- Hyper inflation
+	- kept on printing money
+	- their money isn't worth anything
+- [[fascism]]
+	- adolf hitler proposes fascism
+	- proposes him to have all power
+	- label jews as the power 
+	- holocaust

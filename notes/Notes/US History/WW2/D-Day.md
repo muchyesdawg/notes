@@ -1,0 +1,7 @@
+- crushing germany
+	- america
+		- unloading war supplies continually to push back germans
+		- creates a way to push through france to germany
+			- france restored
+	- russia
+		- pushing germany from the east

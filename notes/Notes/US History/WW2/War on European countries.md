@@ -1,0 +1,18 @@
+- 1942
+	- russia vs england
+		- russia is desperate for any help
+		- wants to push an army to the west side of germany so they will put another army off Russia
+	- egypt
+		- England wants to take (protect) Egypt
+	- America pushes from the west towards Libya
+- 1943
+	- near the European countries
+		- stalingrad
+			- a russian land that opens a path from Germany to Russia's oil fields
+			- named after Stalin
+		- Italy
+			- Germany loses Italy to America
+		- Allies regain power over the axis
+		- promise for 1944
+			- looking better for allies 
+	- 

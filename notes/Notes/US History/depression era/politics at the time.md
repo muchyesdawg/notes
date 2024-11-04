@@ -1,0 +1,14 @@
+- democrats in trouble
+	- divided party
+	- failure at election time
+- Republican victories
+	- 3 do nothing presidents
+		- Warren G. Harding
+			- Teapot Dome Scandal
+		- Calvin Coolidge
+			- role as President
+		- Herbert Hoover
+			- an engineer in big business
+			- in the 20's, he removes all restrictions on businesses
+				- every time restrictions were removed, good things happens
+				- created a strong looking economy (wasn't really strong)

@@ -1,2 +1,0 @@
-- [trello kanban](https://trello.com/b/0i2h1Z8H/the-ten-towers)
--

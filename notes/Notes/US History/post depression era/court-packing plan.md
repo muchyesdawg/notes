@@ -1,0 +1,16 @@
+- a new term of [[During FDR's Presidency|FDR's]] presidency
+- supreme court case never agreed to FDR's cases
+- make up of the court
+	- 4 against
+	- 3 for
+	- 2 split
+	- NEVER AGREED TO ANYTHING
+- court overworked
+- changes
+	- more people in supreme court
+	- the president appoints supreme court people
+	- people aren't entirely afraid of him, but they fear the next one have the ability to take power and become a dictator
+	- they dislike the idea that FDR can take too much power if he also has power over the Supreme court
+- fallout
+	- he receives backlash
+	- stops the plan

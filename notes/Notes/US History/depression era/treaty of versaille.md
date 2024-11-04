@@ -1,0 +1,31 @@
+- treaty details
+	- German repartitions
+		- $33 billion
+		- are already broke
+	- loss of territory
+		- loss of empire
+	- guilt 
+		- Germany is to accept and prove guilt
+		- battlefields in France were turned into graveyards and memorials
+			- France has a white cross, Germany has black cross
+	- no more military
+		- small military so they can't defend itself against anyone
+			- if Germany refuses to pay or rebel against the treaty, France and Britain can reinvade Germany
+	- league of nations ^12df9d
+		- a place for all nations to come to argue
+		- PR purposes
+			- make "agreements" public
+			- distract people to cover up the bad stuff
+		- isn't a binding league
+			- if any law or act gets passed where every nation agrees to pass, you don't have to follow
+			- it doesn't have any power to force any 
+- America
+	- irreconcilables
+		- Woodrow Wilson, the person representing America, brings back a peace treaty for senate to sign
+		- people disagree with the treaty
+		- those who don't like it calls themselves irreconcilables
+		- Wilson doesn't like people doing this, so he goes on tour to talk to people 
+	- change of league
+		- rejected
+	- Wilson stroke
+		- Wilson had a stroke during his tour, so supposedly his vice president should take over, but instead his assistant and wife took over instead.
