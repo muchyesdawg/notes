@@ -1,0 +1,3 @@
+- dustbowl was something that was caused by american farmers that was caused by bad farming practices
+- the soil was very weak, so when wind blew across, there were constant dust storms that covered everything in its way in dust. all the soil was uprooted which caused livestock to die of thirst, crops couldn't grow, which caused the farmers to be unable to make any money
+- due to this and the problems during the great depression and the treatment of farmers in the south, farmers lived in severe poverty

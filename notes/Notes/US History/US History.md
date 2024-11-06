@@ -13,6 +13,7 @@ important links/lectures
 ### [Canvas](https://collin.instructure.com/courses/934124)
 
 %% Begin Waypoint %%
+- **[[assignments]]**
 - **Unit 1**
 	- [[age of progressives]]
 	- [[American Empire]]

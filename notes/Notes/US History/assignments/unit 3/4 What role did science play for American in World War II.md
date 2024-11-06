@@ -1,0 +1,3 @@
+- the development of science such as the development of ways for fighting 
+- more importantly, the development of the atomic bomb ceased a lot of the japanese activities after the bombing of hiroshima and nagasaki.
+- because of this, the atomic bomb stopped most if not all of facism activities in 
