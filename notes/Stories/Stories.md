@@ -5,7 +5,7 @@ type: folder_brief_live
 ```
  
 %% Begin Waypoint %%
-- **[[Untitled]]**
+- **[[USHIST essays]]**
 	- [[Draft 1]]
 	- [[his squadmates personality]]
 	- [[nation of steel]]
