@@ -6,8 +6,14 @@ type: folder_brief_live
  
 %% Begin Waypoint %%
 - [[communism]]
+- [[containment]]
+- [[eisenhower]]
 - [[harry truman]]
+- [[ike and cold war]]
+- [[korean war]]
 - [[overview]]
+- [[pacts for defense]]
+- [[Russia's progression]]
 - [[soviet american tensions]]
 - [[soviet union]]
 - [[WWII and the cold war]]
@@ -22,4 +28,9 @@ type: folder_brief_live
 	- [[harry truman]]
 	- [[containment]]
 	- [[pacts for defense]]
+- lecture on 5/11/24
+	- [[Russia's progression]]
+	- [[korean war]]
+	- [[eisenhower]]
+	- [[ike and cold war]]
 	- 

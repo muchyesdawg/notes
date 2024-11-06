@@ -1,0 +1,4 @@
+- russia has bomb
+- china falls
+- korean war
+- world destruction

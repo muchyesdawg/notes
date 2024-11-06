@@ -1,0 +1,30 @@
+- lived in constant living in fear in a city of being bombed
+- seen what happens with the aftermath of atomic bomb
+- cognitive dissonance
+	- put what we don't like into the back of our minds
+- in Europe
+	- creates operas and classical music that are more erratic and chaotic
+- cultural artifacts
+	- film noir
+		- had existed since the 30s
+		- often is about a person investigating something/a detective
+		- are very dark(both setting and thematic)
+		- almost always the woman that the detective falls for and then gets betrayed
+		- shows the concern for being betrayed by anyone
+		- detective almost always dies
+		- reflects people's fear of dying spontaneously
+		- is popular because people feel connected 
+	- twilight zone
+		- scifi tv show
+		- brings up uncomfortable questions
+		- makes everyone feel comforted through knowing there are people out there that think the same thing
+	- comics
+		- introduce global threats into little kids 
+		- show them that there are real big threats that adults are worried about
+		- good endings so the kids know its all going to be ok
+- Solutions?
+	- Emergency Broadcasting System
+	- Fallout Shelter
+		- bunkers
+	- Duck-and-Cover
+	- they are all lies that are only used to quell the panic

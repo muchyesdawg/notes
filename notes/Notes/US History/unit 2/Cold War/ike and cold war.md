@@ -1,0 +1,12 @@
+- South America
+	- suspect SA for Russian communist activities
+	- every bad/suspected communist activity gets assassinated by CIA
+- Vietnam
+	- Vietnam gets signed off to be allowed to be half communist
+	- despite the previous [[eisenhower#^12efff|threats]]
+	- doesn't believe Vietnam to be worth fighting for 
+- Cuba
+- U2 Incident
+	- flown U2 aircrafts over russia to take pictures and guess what they're up to
+	- U2 gets shot down by russia, which makes russia cease all peace talk
+- Military Industrial Complex

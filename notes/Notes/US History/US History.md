@@ -13,26 +13,6 @@ important links/lectures
 ### [Canvas](https://collin.instructure.com/courses/934124)
 
 %% Begin Waypoint %%
-- **[[Cold War]]**
-- **depression era**
-	- [[18th amendment]]
-	- [[19th amendment]]
-	- [[America's role in 1920]]
-	- [[Consumerism]]
-	- [[Disenchanted]]
-	- [[dustbowl]]
-	- [[Markets during boom time]]
-	- [[politics at the time]]
-	- [[Post WW1]]
-	- [[The Great Depression]]
-	- [[The New Era(Roaring 20's)]]
-	- [[The Red scare]]
-	- [[The Spanish Flu]]
-	- [[treaty of versaille]]
-	- [[Warren G. Harding]]
-	- [[Women in Workforce]]
-	- [[WWI]]
-- **[[post depression era]]**
 - **Unit 1**
 	- [[age of progressives]]
 	- [[American Empire]]
@@ -43,7 +23,8 @@ important links/lectures
 	- [[Spanish American war]]
 	- [[Union]]
 	- [[Women's rights]]
-- **[[WW2]]**
+- **[[unit 2]]**
+- **[[Unit 3]]**
 
 %% End Waypoint %%
 

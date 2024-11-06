@@ -1,0 +1,11 @@
+- Every new Presidency changes the laws, international affairs, and by extension, the cold war
+- Eisenhower was a soldier in the war
+	- doesn't want war because soldiers know what its like
+- during this time, the public didn't want their cities to be wiped off earth
+- John Foster Dulles
+	- russia throws its weight around to get what it wants
+	- Massive Retaliation ^12efff
+		- every bad thing happens, it was Russia's fault
+		- if Russia doesn't back down, America will launch Atomic Bombs which will cause Mutually Assured Destruction(MAD)
+	- More bang for the buck
+		- cheaper to maintain bomber jets than massive military
