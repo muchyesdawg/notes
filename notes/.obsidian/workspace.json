@@ -13,15 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fear of subversion.md",
+                "file": "Notes/US History/unit 2/depression era/America's role in 1920.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fear of subversion"
+              }
+            }
+          },
+          {
+            "id": "3b5a4ff590625fbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/US History/unit 2/post depression era/court-packing plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2d43ad8c26302c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/US History/unit 2/post depression era/post depression era.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89544121a98b8cb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "USHIST essays.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1812089dae2c8958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/US History/unit 2/post depression era/2nd new deal.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -41,9 +88,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              }
             }
           },
           {
@@ -58,9 +103,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -68,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           },
           {
@@ -79,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fear of subversion.md",
+                "file": "USHIST essays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,9 +128,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for fear of subversion"
+              }
             }
           },
           {
@@ -98,10 +137,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Home"
+                "file": "USHIST essays.md"
+              }
             }
           }
         ]
@@ -124,12 +161,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stories/Untitled.md",
+                "file": "USHIST essays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              }
             }
           },
           {
@@ -141,9 +176,7 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              }
             }
           },
           {
@@ -151,9 +184,7 @@
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "state": {}
             }
           },
           {
@@ -164,9 +195,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
@@ -174,9 +203,7 @@
             "type": "leaf",
             "state": {
               "type": "timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "state": {}
             }
           },
           {
@@ -184,9 +211,7 @@
             "type": "leaf",
             "state": {
               "type": "timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "state": {}
             }
           }
         ],
@@ -209,50 +234,50 @@
       "command-palette:Open command palette": true,
       "daily-notes:Open today's daily note": false,
       "obsidian-day-planner:Timeline": false,
-      "media-extended:Open media": false,
       "obsidian-statusbar-pomo:Start pomodoro": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
       "obsidian-projects:Open projects": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "media-extended:Open media": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "89544121a98b8cb8",
   "lastOpenFiles": [
-    "Notes/US History/Unit 3/Cold war in America/Cold war in America.md",
-    "fear of subversion.md",
-    "Notes/US History/Unit 3/Cold war in America/nuclear age.md",
+    "Notes/US History/unit 2/post depression era/During FDR's Presidency.md",
+    "Notes/US History/unit 2/post depression era/post depression era.md",
+    "Notes/US History/unit 2/post depression era/court-packing plan.md",
+    "Notes/US History/unit 2/post depression era/2nd new deal.md",
+    "Notes/US History/unit 2/post depression era/retreat from change.md",
+    "Notes/US History/unit 2/depression era/America's role in 1920.md",
+    "USHIST essays.md",
+    "watch list.md",
+    "Notes/US History/Unit 3/Unit 3.md",
+    "Notes/US History/unit 2/WW2/WW2.md",
+    "Notes/US History/unit 2/WW2/FDR fourth presidency.md",
+    "Notes/US History/unit 2/WW2/D-Day.md",
+    "Notes/US History/unit 2/WW2/invading Japan.md",
+    "Notes/US History/unit 2/WW2/America in WW2.md",
+    "Notes/US History/unit 2/WW2/War on America.md",
     "Notes/US History/unit 2/unit 2.md",
+    "Notes/US History/US History.md",
+    "Stories/Stories.md",
+    "fear of subversion.md",
+    "untitled 2.md",
+    "Notes/US History/Unit 3/Cold war in America/Cold war in America.md",
+    "Notes/US History/Unit 3/Cold war in America/nuclear age.md",
     "Notes/US History/unit 2/Cold War/Cold War.md",
     "Notes/US History/unit 2/Cold War/containment.md",
-    "Notes/US History/Unit 3/Unit 3.md",
     "Notes/US History/Unit 3/Cold war in America",
     "Notes/US History/Unit 3",
     "Notes/US History/unit 2/Cold War/ike and cold war.md",
     "Notes/US History/unit 2",
     "Notes/US History/unit 2/Cold War/eisenhower.md",
-    "Notes/US History/unit 2/Cold War/pacts for defense.md",
-    "Notes/US History/unit 2/Cold War/Russia's progression.md",
-    "Notes/US History/unit 2/Cold War/korean war.md",
-    "Notes/US History/unit 2/WW2/WW2.md",
-    "Notes/US History/US History.md",
-    "Stories/Untitled/his squadmates personality.md",
-    "Stories/Untitled/ways of portrayal.md",
-    "Home.md",
-    "Stories/Untitled/Draft 1.md",
-    "Stories/Untitled/protag.md",
-    "Stories/Untitled/scenes.md",
-    "Stories/Untitled/Untitled 1.md",
-    "Stories/Untitled/nation of steel.md",
-    "Stories/Untitled/Untitled.md",
-    "Stories/Stories.md",
-    "Untitled.md",
-    "Tags/Untitled.md",
     "daily notes/10/30",
     "Stories/Untitled",
     "daily notes/10/29",
