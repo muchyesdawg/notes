@@ -1,0 +1,18 @@
+- by joseph McCarthy ^715cb6
+- list of 205 letters of people that he suspects to be communist
+	- fake evidence of these 205 people
+- Witch hunt
+	- he didn't have any idea and evidence of who it was, the list was fake.
+	- worked with head of FBI to figure out who works under the government that attended a communist meeting
+	- physical discomfort during interviews.
+	- used this interview through coercion to force people to rat people out
+	- manipulates people to admit to being a communist
+- public support
+	- he gains public support because of bringing comfort knowing the communists were being fired from the government
+- The End
+	- as time goes on, people gets less scared, which makes people realize the current situation is not so bad
+	- McCarthy televises his trials, which shows how bad he's been(alcoholism)
+	- He goes after army dentist that he says was the reason why America wasn't actually doing anything against communist
+		- during this trial, the lawyer yells "have you no decency" which makes people realize he is not genuine
+	- gets shutdown shortly after
+	- dies some time after because of alcoholism

@@ -1,0 +1,9 @@
+- during ww2, people couldn't buy anything because factories were all used for factories
+- lots of buying during this time, which made the economy do well
+- credit gets invented
+	- allowed people to buy stuff on credit and pay over a period of time
+- cars
+- children
+	- baby boom( '46-'64, 76 million births)
+	- during ww1, they did not know how children were supposed to be like
+	- when they grew up a 

@@ -1,0 +1,8 @@
+- russia has bomb
+	- communists that worked on the Manhatten project 
+- china falls
+	- happened because America didnt intervene
+- korean war
+	- didn't push harder during the korea war
+	- cant stop north korea
+- world destruction

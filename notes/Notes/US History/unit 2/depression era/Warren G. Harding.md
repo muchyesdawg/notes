@@ -23,5 +23,4 @@
 		- just a puppet
 	- scandal
 		- teapot dome scandal
-		- 
 	- death
