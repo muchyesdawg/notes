@@ -9,3 +9,14 @@
 		- if Russia doesn't back down, America will launch Atomic Bombs which will cause Mutually Assured Destruction(MAD)
 	- More bang for the buck
 		- cheaper to maintain bomber jets than massive military
+___
+## 7.11.24
+- As president
+	- fills with cabinet with former business leaders
+	- gets criticized that America got a republican president, and the last one was herbert hoover that people attribute to the cause of depression
+	- republicans wanted to cancel the new deal
+	- eisenhower didnt want to because they needed the safety nets
+- created highways
+	- would've been way more expensive than any project they did
+	- called it the "national system of interstate and defense highways"
+		- the republican party was forced because they supported military works, and if they vetoed it, it would make them look like a hypocrite 

@@ -1,0 +1,11 @@
+- Democrats
+	- Adlai E. Stevenson
+	- gets labeled as Egghead
+		- all book-smart but cant live in the real world
+- Republicans
+	- Dwight D. Eisenhower
+		- was neutral in politcs
+- Richard Nixon as VP
+	- paralleled [[McCarthyism#^715cb6|mccarthy]] because they wanted VP to have strong anti-communism 
+- End Korea
+- Results

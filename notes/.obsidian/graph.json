@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "essay",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": true,
@@ -46,6 +46,6 @@
   "repelStrength": 14.4906444906445,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3447917993976732,
+  "scale": 2.6182627266760856,
   "close": false
 }

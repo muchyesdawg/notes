@@ -5,8 +5,7 @@ course/tag:
 Teacher: Redgraves, Christopher
 tags:
   - lecture
-files:
-  - "[[values in depression]]"
+files: []
 ---
 - prelude
 	- farming techniques
