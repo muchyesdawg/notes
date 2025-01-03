@@ -15,6 +15,6 @@ type: folder_brief_live
 	- [[4 What role did science play for American in World War II]]
 	- [[5 What role did nuclear weapons play in the development of the Cold War]]
 	- [[USHIST essays]]
-- [[Untitled]]
+- [[Notes/school/US History/assignments/Untitled]]
 
 %% End Waypoint %%

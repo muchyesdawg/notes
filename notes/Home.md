@@ -6,4 +6,4 @@ Quick links
 [[2022-23-bell-schedule-revised-pptx.pdf|bell schedule]]
 
 [[watch list]]
-
+[[projects list]]
