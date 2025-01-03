@@ -1,0 +1,14 @@
+- Kennedy
+	- supreme court with NAACP helping support African Americans
+	- doesn't openly support them because he'll lose the states that voted for him
+- MLK
+	- goals - segregation and voting
+- sit-ins
+- Students Non-Violent Coordinating Committee(SNCC)
+	- challenge conventional segregation norms
+	- sit in counters of segregated restaurants in department stores
+	- be refused and be harassed (not just black people, but white people as well)
+	- they were fought with violence
+	- cops would be called to drag them out
+	- dispells the illusion that the south is not good with 
+	- 

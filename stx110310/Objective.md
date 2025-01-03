@@ -1,1 +1,0 @@
-contact all markers of [[EAR]] within 14 days through RiftSat

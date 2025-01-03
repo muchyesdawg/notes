@@ -1,0 +1,6 @@
+- soviets gone
+	- russia has too many issues during this time to exert power outwards
+- American strength
+- expansion of American Influence
+- Two sides of everything
+- 

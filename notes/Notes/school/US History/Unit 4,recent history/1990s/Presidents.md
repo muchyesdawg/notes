@@ -1,0 +1,29 @@
+- George H.W. Bush (Bush I)
+	- republic
+	- starts talks on [[Globalization]]
+	- Iraq/kuwait
+		- wants to conquer for oil control
+		- caused a lot of humanitarian problems 
+		- Asked UN to sanction Iraq
+			- no trades, no money,
+		- tries invades Saudi Arabia
+			- America sends troops to stop them from attacking neighboring countries
+		- no impact on in America
+- Bill Clinton
+	- democrat
+	- finishes talks on [[Globalization]]
+	- Ireland
+		- free from england
+		- only got part of the land
+		- ira
+			- terrorists in England
+			- trying to get england to do give them the land back
+		- stops terrorism by giving Irish people more rights, no change in land, England release political prisoners with no records
+		- no impact on america
+- world view
+	- very similar despite being different people from different political group
+	- thoughts on america
+		- from america
+			- using their power for good to mediate issues around the world
+		- everywhere else
+			- America is world police, pressuring people to do what they want

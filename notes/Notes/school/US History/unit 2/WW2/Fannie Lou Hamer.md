@@ -1,0 +1,9 @@
+- Life in Mississippi
+	- worse place to live in America for African Americans
+	- had cancer, needed to get it removed, but was forced to have a hysterectomy so she can't have kids
+		- a way to control African American population
+	- SNCC
+		- joined voting, was refused
+	- Mississippi Freedom Democratic Party
+		- party that helped African Americans in politics
+		- 1964 Election

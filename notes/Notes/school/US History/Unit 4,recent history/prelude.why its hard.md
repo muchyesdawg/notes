@@ -1,0 +1,9 @@
+- hard to do good history
+- hard with objectivity
+- lack of information
+- difficulty with the big picture
+	- no total access to every aspect and information
+	- not everyone is given all the facts of the issues so there is no way look at something through non-biased lenses
+- hard to separate emotions with real facts
+- more of sociology
+- 

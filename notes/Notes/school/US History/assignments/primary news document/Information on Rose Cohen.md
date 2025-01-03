@@ -1,0 +1,9 @@
+- rose cohen timeline
+	- jewish immigrant worker during 1900s
+	- arrived at 1892
+	- started working sometime here
+	- march 25 triangle shirtwaist fire
+	- 28 july 1914 ww1 starts
+	- 14 march 1918, First Lady Lucretia Garfield dies of pneumonia 
+	- USS Manley collides with HMS Montagua, killing 34 crewmembers. 
+	- 19 march 1918 'My First Job' published 

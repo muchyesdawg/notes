@@ -1,0 +1,9 @@
+- india tries killing english leaders to get the replaced
+- realized violence isn't going to liberate india
+- civil disobedience
+- india were forbidden to be in a certain part of their city and forbid them to gather 
+- encouraged people to go to the forbidden places to sit in there to sing or pray
+- the english punishes these indians through violence
+- outside of india, people saw england respond peace with violence.
+- 1947, england allows india to become independent
+- 

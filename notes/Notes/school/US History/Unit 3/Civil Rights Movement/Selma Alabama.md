@@ -1,0 +1,6 @@
+- Sheriff Jim Clark
+	- didn't think [[MLK Speech#^e87d1f|conner]] was doing enough
+	- responded to the protest with more violence
+	- gets televised, which causes people to be more aware
+- Voting Rights Act
+- prevents legal loopholes that prevent African Americans to vote

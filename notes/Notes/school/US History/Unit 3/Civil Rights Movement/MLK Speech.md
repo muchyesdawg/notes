@@ -1,0 +1,16 @@
+- context
+	- takes place in birmingham, alabama
+		- one of the most violent places
+		- had bombings of black churches
+	- Eugen "Bull" Conner ^e87d1f
+		- thought he figured out a way to oppose MLK's speech
+		- emptied jail cells in his and neighboring cities to arrest people that protest
+		- hoping that doing these things will cause other people to be scared
+		- in reality, they continued to stay there in protest doing nothing, which causes Eugen's plan to backfire
+- Legislation
+	- jobs
+	- segregation
+- the speech was planned and run by different groups, inviting MLK to be a part and listen to the speech
+	- gives the "I Have a Dream" speech (August 1963, few months before Kennedy's assasination)
+- Civil Rights Bill -1964
+	- can't segregate anymore

@@ -1,0 +1,10 @@
+- little rock high school 
+	- African Americans being sent to white school
+	- Riots against this decision
+- Eisenhower
+- 101st soldier
+- little rock 9
+	- getting harassed by the white people in school
+	- gets through eventually
+- end
+	- more African Americans goes to the school with them the next year, less segregation

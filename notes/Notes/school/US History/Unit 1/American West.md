@@ -1,0 +1,81 @@
+---
+Link: "[[US History]]"
+---
+- ## Pre-civil war
+	- great American desert ^7e2a11
+		- the western half of America is thought to be a desert
+			- it gets no rain/water
+- ## during/post civil war
+	- ### The Great Plains
+		- rebrand of great American desert.
+		- to move out and support the expansion of trains
+			- trains need to stop every once in a while to do trade in order for railroads to be profitable
+		- encouraged people to move west
+			- Horace Greeley - "Go West Young Man"
+				- manifest destiny
+				- because of industrial revolution, people live lives dependent on factories and their success
+					- for this reason, people don't get access to education, 
+				- encouraged people to move west because they thinks it lets people to learn more life skills.
+			- Homestead Act (1862, during civil war) 
+				- prove that you are living and working in a land, and you get that land for free.
+				- wanted to use this as an opportunity to expand westward
+		- #### Farm Life
+			- backbreaking life
+			- dependent on the weather
+			- dependent on railroads
+				- out in the middle of nowhere,
+				- no source of actual income, source of tools
+				- predatory railroads
+					- overpriced tools 
+					- loans that lead to loss of land
+				- no knowledge in economics
+					- too much supply, farmers are growing the same things that people don't necessarily need
+					- since all the farmers just farm whatever as much as possible, there's too much supply, no investments in smaller markets
+				- Decline in respect
+					- branding, slurs against farmers
+			- really difficult
+		- ### Myth of the west
+			- Manifest Destiny ^8d0c09
+				- believes that they are the greatest
+				- if you think you are the greatest, you have the right to expand as big as you can
+				- Belief of being God's chosen group
+			- backlash against cities
+				- believes that there is something fundamentally wrong with cities
+				- doesn't speak up to it because of social Darwinism 
+			- America Personified
+				- Yeomen Farmer
+					- independent
+					- Farms for yourself
+					- no one has to help you
+				- civil war
+					- splits to south and west
+						- west calls themselves the yeomen farmers
+						- gets branded as slave owners 
+		- ### American perceptions of west
+			- ##### painters
+				- because of the camera, most painters that drew portraits switched to landscape paintings
+				- created art schools AT mountains/landscapes 
+				- drew works of landscapes in the west to sell in places where people will never see these landscapes
+				- this causes a romanticism of how Americans are grand, individual, chaotic (good thing), gives Americans the idea that this is who they are
+				- causes people to lose sight of the problems in the west
+			- ##### Novels
+				- gives the ideas to people that going to the west allows people to start anew, with no remembrance of the past.
+				- gives people the idea that just by being in the west, you will be the best person 
+				- farmers' problems get ignored
+			- ##### Wild West Shows
+				- Buffalo Bill Cody ^e00218
+					- medal of honor as a soldier for the north
+						- unknown if it is real
+					- made his own autobiographies, published under other name
+					- romanticizes/dramatizes the west, doesn't tell how farmers live
+			- ##### Academic papers(frontier thesis)
+				- romanticized
+				- turner claimed that if a country sits around for some time, people get lazy, gets led into corruption
+				- Fredrick Jackson Turner
+					- claims
+						-  that the east coast, the water across Europe are all uncivilized people
+						- left a lot of things that disproved his thesis out
+						- states that there are only good people in the colonies (13 colonies)
+						- it has native people to be converted to be better and superior
+					- leaves a lot of things out
+					- people believe him because no verification on what he's teaching.

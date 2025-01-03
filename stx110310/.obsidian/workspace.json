@@ -13,15 +13,100 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "payload transfer types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "payload transfer types"
+            }
+          },
+          {
+            "id": "5955017713ae3837",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "satellite basics/parameters/parameters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "parameters"
+            }
+          },
+          {
+            "id": "b67c165fde4795c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "satellite basics/parameters/parameters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "parameters"
+            }
+          },
+          {
+            "id": "acddaa8536b262a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "satellite basics/parameters/parameters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "parameters"
+            }
+          },
+          {
+            "id": "dda15a10a1737d19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "satellite basics/parameters/parameters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "parameters"
+            }
+          },
+          {
+            "id": "ea595b49ad0380ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "satellite basics/gravitational parameter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gravitational parameter"
+            }
+          },
+          {
+            "id": "e626f97ef232a5b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "satellite basics/parameters/Eccentricity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eccentricity"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -151,8 +236,8 @@
             "state": {
               "type": "timeline",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -175,8 +260,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -185,11 +270,32 @@
             "state": {
               "type": "full-calendar-sidebar-view",
               "state": {},
-              "icon": "calendar-glyph",
-              "title": "Full Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f09ecea7c334709b",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "c4c81a4b8dd3072b",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "4d62054604f3f7d4",
@@ -226,10 +332,10 @@
       "obsidian-day-planner:Timeline": false,
       "media-extended:Open media": false,
       "obsidian-statusbar-pomo:Start pomodoro": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-projects:Open projects": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
@@ -237,9 +343,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ea595b49ad0380ea",
   "lastOpenFiles": [
+    "satellite basics/representation of.md",
+    "satellite basics/gravitational parameter.md",
+    "satellite basics/parameters/True Anomaly.md",
     "Objective.md",
+    "satellite basics/parameters/Semi-Major Axis.md",
+    "satellite basics/parameters/Period.md",
+    "satellite basics/parameters/Longitude of Ascending Node.md",
+    "satellite basics/parameters/Inclination.md",
+    "satellite basics/parameters/Eccentricity.md",
+    "satellite basics/parameters/Argument of Periapsis.md",
+    "satellite basics/parameters/parameters.md",
+    "satellite basics/parameters",
+    "satellite basics/satellite basics.md",
+    "payload transfer types.md",
+    "satellite basics",
+    "Untitled.md",
+    "Welcome.md",
     "EAR.md",
     "School/Assignments/Composition/lab06.md",
     "calendar/(Every U) english labs due.md",
@@ -255,29 +377,13 @@
     "Notes/Calculus 3/unit 13-14/Untitled.md",
     "Notes/Calculus 3/unit 13-14/Scalars.md",
     "Notes/Calculus 3/unit 13-14",
-    "Notes/Calculus 3/unit 13-14/unit vector.md",
-    "Excalidraw/Drawing 2024-10-08 20.58.37.excalidraw.md",
     "Excalidraw",
-    "Notes/Calculus 3/Untitled.md",
     "Untitled.canvas",
-    "202410082052.md",
-    "calendar/2024-10-11 supply work.md",
-    "Notes/Statistics/Standard Deviation.md",
-    "Notes/Calculus 3/unit 13-14/Planes.md",
-    "notes/Calc 3/vectors.md",
-    "notes/Calc 3/unit vector.md",
-    "notes/Calc 3/textbook.md",
-    "notes/Calc 3/orthogonal.md",
-    "notes/Calc 3/Scalars.md",
-    "notes/Calc 3/Planes.md",
-    "notes/Calc 3/Dot product.md",
     "notes/Calc 3",
     "markusau0607@gmail.com.ics",
     "Notes/US History/Unit 1",
     "Notes/US History/unit 2",
-    "Media/2022-23-bell-schedule-revised-pptx.pdf",
     "Untitled 1.canvas",
-    "calendar",
     "Pasted image 20241007193639.png"
   ]
 }

@@ -1,0 +1,11 @@
+- past problems
+- ww2
+	- when people left to fight the war,
+- television
+	- being able to see the problems instead of reading about them
+- the cold war
+	- polish people don't get any freedom from russia
+	- if we say russia is bad for treating polish people like this, same can be said about the south
+- Middle class
+	- before this time period African Americans did not have an education, less jobs, less money, not enough time to protest
+	- during this time, there are more people with education to organize, run, and support protests and rallies

@@ -1,0 +1,6 @@
+- affects/malicious use of technology(4 )
+- mitigation of threats and attacks
+	- [[urgent mandate]]
+	- [[ret|financial sector mitigation against quantum attacks]]
+	- 
+- 

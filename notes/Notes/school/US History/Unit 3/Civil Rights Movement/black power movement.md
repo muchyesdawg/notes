@@ -1,0 +1,14 @@
+- Stokely Carmichael
+	- early life
+		- immigrated to New York
+		- was part of SNCC
+	- was critical of King's ideas
+		- agreed with non violence
+			- believed that African Americans should defend themselves
+		- disagreed with King, who wanted to have African Americans live in same White people television, music culture
+			- Believed that African Americans should be proud of their culture
+		- Black Panthers
+			- Oakland is Black Community surrounded by White communities
+			- no funding or police forces
+			- Police came every once in a while to harass them to blame them for any bad thing that happens
+			- an organization of vigilantes to protect African Americans

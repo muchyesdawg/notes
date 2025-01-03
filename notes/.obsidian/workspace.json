@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/US History/unit 2/Cold War/Cold War.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cold War"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -79,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/US History/unit 2/Cold War/Cold War.md",
+                "file": "Notes/US History/unit 2/post depression era/post depression era.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +85,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cold War"
+              "title": "Backlinks for post depression era"
             }
           },
           {
@@ -124,12 +120,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stories/Untitled.md",
+                "file": "Information on Rose Cohen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Information on Rose Cohen"
             }
           },
           {
@@ -175,8 +171,8 @@
             "state": {
               "type": "timeline",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           },
           {
@@ -190,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -208,7 +204,7 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": true,
       "daily-notes:Open today's daily note": false,
-      "obsidian-day-planner:Timeline": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
       "media-extended:Open media": false,
       "obsidian-statusbar-pomo:Start pomodoro": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
@@ -216,52 +212,54 @@
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "timelines-revamped:Insert Timeline Event": false,
+      "timelines-revamped:Insert Timeline Event (Frontmatter)": false,
+      "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5b5421bd54330ea4",
   "lastOpenFiles": [
-    "Notes/US History/unit 2/Cold War/eisenhower.md",
-    "Notes/US History/unit 2/Cold War/Cold War.md",
-    "Notes/US History/unit 2/Cold War/ike and cold war.md",
-    "Notes/US History/unit 2/Cold War/harry truman.md",
-    "Notes/US History/unit 2/Cold War/WWII and the cold war.md",
-    "Notes/US History/unit 2/Cold War/soviet american tensions.md",
-    "Notes/US History/unit 2/Cold War/overview.md",
-    "Notes/US History/unit 2/Cold War/soviet union.md",
-    "Notes/US History/unit 2/Cold War/communism.md",
-    "Notes/US History/unit 2/unit 2.md",
-    "Notes/US History/assignments/unit 3/5 What role did nuclear weapons play in the development of the Cold War.md",
+    "Notes/cntrlTheory",
+    "Notes/school/US History/US History.md",
+    "Notes/school/US History/Unit 3/Unit 3.md",
     "Home.md",
-    "Notes/US History/US History.md",
-    "Notes/US History/assignments/unit 3/USHIST essays.md",
-    "Notes/US History/assignments/unit 3/2 Why was the Republican Party able to run the presidency during the 1920s.md",
-    "Notes/US History/unit 2/WW2/WW2.md",
-    "Notes/US History/unit 2/WW2/invading Japan.md",
-    "Notes/US History/unit 2/WW2/FDR fourth presidency.md",
-    "Notes/US History/unit 2/depression era/The Great Depression.md",
-    "Notes/US History/unit 2/depression era/Consumerism.md",
-    "Notes/US History/unit 2/depression era/Disenchanted.md",
-    "Notes/US History/unit 2/depression era/Markets during boom time.md",
-    "Notes/US History/unit 2/depression era/politics at the time.md",
-    "Notes/US History/unit 2/depression era/dustbowl.md",
-    "values in depression.md",
-    "Notes/US History/unit 2/post depression era/post depression era.md",
-    "Notes/US History/assignments/unit 3",
-    "Notes/US History/assignments",
-    "Untitled 1",
-    "Untitled",
-    "Notes/US History/Unit 3/Cold war in America",
-    "Notes/US History/Unit 3",
-    "Notes/US History/unit 2",
-    "daily notes/10/30",
-    "Stories/Untitled",
-    "daily notes/10/29",
-    "Notes/Calculus 3/unit 13-14/Unit 13-14 overview.canvas",
-    "Notes/Calculus 3/Unit 15/Unit 15.canvas",
+    "Notes/school",
+    "watch list.md",
+    "research assignment.md",
+    "Notes/school/US History/Unit 3/Cold war in America/Cold war in America.md",
+    "Notes/school/US History/unit 2/unit 2.md",
+    "Notes/school/US History/Unit 3/Cold war in America/McCarthyism.md",
+    "Notes/school/US History/Unit 3/Cold war in America/fear of subversion.md",
+    "Notes/school/US History/Unit 3/Vietnam and Nixon/Vietnam and Nixon.md",
+    "Notes/school/US History/Unit 3/Cold war in America/cuban missile crisis - 1962.md",
+    "Notes/school/US History/Unit 3/Cold war in America/bay Of Pigs - 1961.md",
+    "Notes/school/US History/Unit 3/Cold war in America/consumer culture.md",
+    "Notes/school/US History/Unit 3/Cold war in America/elections of 1952.md",
+    "Notes/school/US History/Unit 3/Cold war in America/nuclear age.md",
+    "Notes/school/US History/Unit 3/Civil Rights Movement/civil rights.md",
+    "Notes/school/US History/Unit 3/Civil Rights Movement/Civil Rights Movement.md",
+    "Notes/school/US History/Unit 3/Civil Rights Movement/bus boycott - 1955.md",
+    "Notes/school/US History/unit 2/post depression era/post depression era.md",
+    "Notes/school/US History/unit 2/post depression era/retreat from change.md",
+    "Notes/school/US History/unit 2/post depression era/2nd new deal.md",
+    "Notes/school/US History/unit 2/post depression era/social security.md",
+    "Notes/school/US History/unit 2/post depression era/Tennessee Valley Authority.md",
+    "Notes/school/US History/unit 2/post depression era/Mrs. Caroline Henderson.md",
+    "Notes/school/US History/unit 2/post depression era/The world and Depression.md",
+    "Notes/school/US History/Unit 4,recent history/1990s",
+    "Notes/school/US History/Unit 4,recent history",
+    "Notes/school/English/assignments/media pdf/Responsible_AI_An_Urgent_Mandate.pdf",
+    "Notes/school/English/assignments/media pdf/retrieve.pdf",
+    "Notes/school/English/assignments/media pdf",
+    "Notes/school/US History/assignments/primary news document",
+    "Notes/school/US History/Unit 3/Vietnam and Nixon",
+    "Notes/school/US History/Unit 3/Civil Rights Movement",
+    "Notes/school/US History/assignments/unit 3",
+    "Notes/school/Calculus 3/unit 13-14/Unit 13-14 overview.canvas",
+    "Notes/school/Calculus 3/Unit 15/Unit 15.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Pasted image 20241007193639.png"

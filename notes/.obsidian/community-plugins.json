@@ -10,7 +10,6 @@
   "better-word-count",
   "obsidian-icon-folder",
   "media-extended",
-  "obsidian-discordrpc",
   "google-calendar",
   "obsidian-statusbar-pomo",
   "obsidian-autocomplete-plugin",
@@ -31,5 +30,6 @@
   "obsidian-git",
   "obsidian-tagfolder",
   "obsidian-emoji-toolbar",
-  "dataview"
+  "dataview",
+  "timelines-revamped"
 ]
