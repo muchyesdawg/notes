@@ -1,4 +1,0 @@
-- more money to spend 
-- increase in products
-- more advertising
-	- trying to make people spend money

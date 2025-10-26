@@ -1,5 +1,0 @@
-- nation of steel, also known as steelers
-- a not too advanced but powerful fighting force in numbers
-- poorly built ships
-- employs a lot of blitzkrieg tactics
-- 

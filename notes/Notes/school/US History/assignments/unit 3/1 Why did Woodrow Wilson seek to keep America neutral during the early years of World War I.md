@@ -1,2 +1,0 @@
-- during the depression, they need ways to save/make money, which is why arms manufacturers were able to continually profit off European war efforts.
-- they wanted to stay neutral as european countries battled it out until they were finished with it so that American can continue to be on top.

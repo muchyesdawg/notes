@@ -1,2 +1,0 @@
-- **Semi-Major Axis ($a$)**
-	-  Average distance between the satellite and the central body.

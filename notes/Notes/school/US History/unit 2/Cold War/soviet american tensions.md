@@ -1,6 +1,0 @@
-- post world war
-- America 
-	- wants Europe to determin their own fate
-- soviet
-	- wants buffer states
-	- constant attacks at russia from the west 

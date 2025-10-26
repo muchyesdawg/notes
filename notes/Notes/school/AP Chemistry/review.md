@@ -1,8 +1,0 @@
-- # vocabulary
-	- ## accuracy vs precision
-		- accuracy
-			- how close the data values are to the true/accepted value.
-			- find the average of the data set, then find the percent error $$\delta=|\dfrac{v_A-v_E}{v_E}|*100\%$$
-		- precision ^9d19ff
-			- Data values could be repeated i.e. low [[Statistics#^cdf18c|Standard Deviation value.]] 
-		- 

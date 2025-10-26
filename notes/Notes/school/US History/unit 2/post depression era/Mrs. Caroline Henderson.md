@@ -1,8 +1,0 @@
-- Farming Family
-- Teacher in oklahoma
-	- became a teacher instead of farmer because gender
-- homestead
-	- owned land big enough to feed her family and sell
-- marriage-will henderson
-- letters published
-- last wishes

@@ -1,5 +1,0 @@
-- 1944 & 1945
-- europe
-	- [[D-Day]]
-- the pacific
-	- [[invading Japan]]

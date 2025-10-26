@@ -1,6 +1,0 @@
-- pulls the money from [[Tennessee Valley Authority#^242354|deficit spending]]
-	- pulls about $40 mil 
-- roosevelt recession
-- puts money back into the system
-- the American system doesn't work when FDR pulls money back
-- 

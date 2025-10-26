@@ -1,4 +1,0 @@
-- the derivative of a function with multiple variables
-- one independent variable:
-	- $$f(a,b,c,d...),\dfrac{df}{dt}=\dfrac{\delta f}{\delta a}\dfrac{da}{dt}+\dfrac{\delta f}{\delta b}\dfrac{b}{dt}+\dfrac{\delta f}{\delta c}\dfrac{dc}{dt}$$
-	- 

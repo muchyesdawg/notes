@@ -1,5 +1,0 @@
-- was during ww1 from Spain trenches
-- mutates rapidly
-- you'd die if you had it
-- 20~50 millions death, ~70,000 Americans
-- targeted mainly the younger people

@@ -1,6 +1,0 @@
-- option 1
-	- lessen competition in job fields
-	- will pay to go into a trade school
-- option 2
-	- if your family can almost afford college, the government will just pay for the rest
-	- 

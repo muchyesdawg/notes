@@ -1,1 +1,0 @@
-An electric charge is a property of protons and electrons. They are measured in coulombs, $c$

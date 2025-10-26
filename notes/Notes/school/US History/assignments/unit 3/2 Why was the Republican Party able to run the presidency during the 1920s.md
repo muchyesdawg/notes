@@ -1,2 +1,0 @@
-- warren g harding was the american president during the time, which was why the republican party was able to run the presidency
-- this is because the government did nothing but listened to republican party's orders, which makes him basically a puppet for the republican party. 

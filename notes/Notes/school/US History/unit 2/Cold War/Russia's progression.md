@@ -1,9 +1,0 @@
-- builds and tests their first atomic bomb
-- china becomes a communist
-- nsc-68-1950
-	- change in policy
-	- direct action
-		- direct intervention
-	- expansion of military
-	- china gets kicked off the un
-- [[korean war]]

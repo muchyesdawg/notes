@@ -1,5 +1,0 @@
-- part 1
-	- if you dont agree with something, you dont follow it
-	- if someone asks, then you can make your claim
-- part 2
-	- some sort of punishment has to be present to bring more attention to their cause

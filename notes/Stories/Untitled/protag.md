@@ -1,1 +1,0 @@
-a person that is reserved and self conscious. because of this, he is very reserved to talk about his problems.

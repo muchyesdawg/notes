@@ -1,1 +1,0 @@
-Normally defined as the $x$ axis in a graph, this variable denotes the independent variable x

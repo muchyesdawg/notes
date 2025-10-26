@@ -1,1 +1,0 @@
-$y$ axis, the variable that should be affected by the [[Independent Variable]].

@@ -1,3 +1,0 @@
-- to find the implicit differentiation of a multivariate function
-- the function is given by
-- $$\dfrac{dy}{dx} f(x,y)=-\dfrac{f_x}{f_y}$$

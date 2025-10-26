@@ -1,2 +1,0 @@
-- dang commies trying to spread communism 
-- The red 
