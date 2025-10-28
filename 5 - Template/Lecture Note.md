@@ -1,15 +1,11 @@
+#### {{date}} {{time}}
+---
+# tags:
 
-
+# Status: 
+[[🌱]]
 
 ---
-tags:
----
-
-{{date}} {{time}}
-
-Status:
-
-Topics:
 
 Unfinished:
 - [ ] blah
