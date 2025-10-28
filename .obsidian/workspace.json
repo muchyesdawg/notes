@@ -11,14 +11,10 @@
             "id": "d2a46651b1f48239",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Template/Daily Note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Daily Note"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -161,9 +157,33 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "0d7deeb6937e2f56",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b6c286e63abdfe72",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "5ba34c302804fe47",
@@ -184,30 +204,45 @@
       }
     ],
     "direction": "horizontal",
-    "width": 508.5
+    "width": 582.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "d2a46651b1f48239",
   "lastOpenFiles": [
-    "5 - Template/Lecture Note.md",
-    "5 - Template/Daily Note.md",
+    "Untitled.canvas",
     "1 - Dailies/2025/10/27.md",
-    "1 - Dailies/1 - Dailies.md",
-    "2 - Weeklies/2 - Weeklies.md",
+    "5 - Template/Lecture Note.md",
+    "Untitled.base",
+    "5 - Template/Daily Note.md",
     "6 - Topics/6 - Topics.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "1 - Dailies/1 - Dailies.md",
+    "Timestamps/<% tp.date.now(\"YYYY\", 1) %>/<% tp.date.now(\"MM-MMMM\", 1) %>/<% tp.date.now(\"YYYY-MM-DD-dddd\", 1) %>.md",
+    "Timestamps/<% tp.date.now(\"YYYY\", 1) %>/<% tp.date.now(\"MM-MMMM\", 1) %>",
+    "Timestamps/<% tp.date.now(\"YYYY\", 1) %>",
+    "Timestamps",
+    "2 - Weeklies/2 - Weeklies.md",
     "2 - Weeklies/2025-W44.md",
     "1 - Dailies/2025/10",
     "1 - Dailies/2025",
@@ -217,11 +252,6 @@
     "2025-10-26.md",
     "2 - Weeklies",
     "6 - Topics",
-    "Untitled.md",
-    "7 - Media",
-    "4 - Full Notes",
-    "Welcome.md",
-    "1 - Dailies",
-    "3 - Rough Notes"
+    "Welcome.md"
   ]
 }
