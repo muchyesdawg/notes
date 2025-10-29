@@ -4,11 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f0405d582894bdfb",
+        "id": "d0eae20b30faf249",
         "type": "tabs",
         "children": [
           {
-            "id": "d2a46651b1f48239",
+            "id": "61b66ae8c60b2d76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dailies/2025/10/27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "27"
+            }
+          },
+          {
+            "id": "0c5ad97d12f3cceb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Rough Notes/3 - Rough Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 - Rough Notes"
+            }
+          },
+          {
+            "id": "848bcdd4d5993f90",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,26 +47,6 @@
               },
               "icon": "lucide-file",
               "title": "AP Bio Unit 3.2.2"
-            }
-          }
-        ]
-      },
-      {
-        "id": "bfa4650702cefe3c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "53fa99d923c0b164",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Dailies/2025/10/27.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "27"
             }
           }
         ]
@@ -73,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TODO",
+                "query": "[\"TQ_explain\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +102,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +116,6 @@
       {
         "id": "63f8d7b3a59eb3e9",
         "type": "tabs",
-        "dimension": 45.17453798767967,
         "children": [
           {
             "id": "326a8eb8aa4e8c33",
@@ -163,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Rough Notes/AP Bio Unit 3.2.2.md",
+                "file": "3 - Rough Notes/AP Bio Unit 3.2.1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AP Bio Unit 3.2.2"
+              "title": "Outline of 27"
             }
           },
           {
@@ -197,7 +205,19 @@
             }
           },
           {
-            "id": "b6c286e63abdfe72",
+            "id": "a24681d14470417a",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "3 - Rough Notes/3 - Rough Notes.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "c3b1f51c2c91ace6",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -205,46 +225,29 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "c2d2cb16a8fd15ad",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "3 - Rough Notes/AP Bio Unit 3.2.2.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for AP Bio Unit 3.2.2"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
-        "id": "5ba34c302804fe47",
+        "id": "2954481ccb28d126",
         "type": "tabs",
-        "dimension": 54.82546201232032,
         "children": [
           {
-            "id": "56e6d395b1fccdf3",
+            "id": "8e1740c396caefdf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Rough Notes/AP Bio Unit 3.2.2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AP Bio Unit 3.2.2"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 520.5
+    "width": 651.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,44 +263,50 @@
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "audio-recorder:Start/stop recording": false,
-      "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b6c286e63abdfe72",
+  "active": "07abadbf3fadf2db",
   "lastOpenFiles": [
-    "5 - Template/Daily Note.md",
-    "1 - Dailies/2025/10/27.md",
-    "6 - Topics/6 - Topics.md",
-    "Untitled.canvas",
-    "3 - Rough Notes/AP Bio Unit 3.2.2.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "3 - Rough Notes/AP Bio Unit 3.2.1.md",
+    "0 - Workflow Notes/TODO List.md",
+    "Dailies/2025/10/27.md",
+    "4 - Full Notes/Photorespiration.md",
     "3 - Rough Notes/3 - Rough Notes.md",
-    "5 - Template/Lecture Note.md",
-    "6 - Topics/🌱.md",
-    "6 - Topics/Biology.md",
-    "Untitled (Draft).pdf",
+    "3 - Rough Notes/AP Bio Unit 3.2.2.md",
     "0 - Workflow Notes/0 - Workflow Notes.md",
-    "0 - Workflow Notes",
-    "2 - Weeklies/2 - Weeklies.md",
-    "Untitled.base",
-    "Untitled 2.md",
-    "1 - Dailies/1 - Dailies.md",
-    "Timestamps/<% tp.date.now(\"YYYY\", 1) %>/<% tp.date.now(\"MM-MMMM\", 1) %>/<% tp.date.now(\"YYYY-MM-DD-dddd\", 1) %>.md",
-    "Timestamps/<% tp.date.now(\"YYYY\", 1) %>/<% tp.date.now(\"MM-MMMM\", 1) %>",
-    "Timestamps/<% tp.date.now(\"YYYY\", 1) %>",
-    "Timestamps",
+    "Untitled.md",
+    "5 - Template/Daily Note.md",
+    "5 - Template/Lecture Note.md",
+    "Topics/Topics.md",
+    "Dailies/2025/10/28.md",
+    "Untitled.canvas",
+    "Untitled mindmap.md",
+    "Dailies/Dailies.md",
+    "4 - Full Notes/4 - Full Notes.md",
+    "Vault.md",
+    "Untitled 1.md",
+    "3 - Rough Notes/AP Bio Unit 3.2.1.md",
     "2 - Weeklies/2025-W44.md",
-    "1 - Dailies/2025/10",
-    "1 - Dailies/2025",
-    "1 - Dailies/27/10/2025.md",
-    "1 - Dailies/27/10",
-    "1 - Dailies/27",
-    "2025-10-26.md",
-    "Welcome.md"
+    "2 - Weeklies/2 - Weeklies.md",
+    "Tags/#school",
+    "#school.md",
+    "School Notes/School Notes.md",
+    "School Notes",
+    "ragavi.rajkumar.125@gmail.com.md",
+    "Tags",
+    "Dailies/2025/10/2025-10-27-Monday.md",
+    "2025/10-October/2025-10-27-Monday.md",
+    "2025/10-October",
+    "2025",
+    "1 - Dailies",
+    "6 - Topics",
+    "7 - Media/Untitled (Draft).pdf",
+    "7 - Media/Calvin Cycle.pdf",
+    "Untitled 2.md",
+    "Topics/🌱.md",
+    "0 - Workflow Notes"
   ]
 }

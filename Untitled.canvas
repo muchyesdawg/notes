@@ -1,1 +1,12 @@
-{}
+{
+	"nodes":[
+		{"id":"d7bd2fe22602efdc","type":"text","text":"$3 \\\\ CO_2$","x":-252,"y":-121,"width":250,"height":60},
+		{"id":"fde1e971787dbd95","type":"text","text":"$\\text{3 ribulose bisphosphate carboxylase}$","x":60,"y":60,"width":300,"height":60},
+		{"id":"13e81e90549783a3","type":"file","file":"7 - Media/Calvin Cycle.pdf","x":800,"y":-691,"width":820,"height":1200},
+		{"id":"14bd333ce30aba21","x":238,"y":211,"width":250,"height":60,"type":"text","text":"$\\text{6 3-phosphoglyceric acid}$"}
+	],
+	"edges":[
+		{"id":"0a8729fe21103d72","fromNode":"d7bd2fe22602efdc","fromSide":"right","toNode":"fde1e971787dbd95","toSide":"left"},
+		{"id":"f4a9cb4f455a04b5","fromNode":"fde1e971787dbd95","fromSide":"bottom","toNode":"14bd333ce30aba21","toSide":"top"}
+	]
+}
